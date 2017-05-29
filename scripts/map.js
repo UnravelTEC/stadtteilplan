@@ -5,7 +5,7 @@
      * http://www.wtfpl.net/ for more details. */
 
 const endpoint = "https://data.transformap.co/place/";
-var redundant_data_urls = [ endpoint + "name", "https://data.transformap.co/raw/5d6b9d3d32097fd6832200874402cfc3", "https://github.com/TransforMap/transformap-viewer/raw/gh-pages/susydata-fallback.json", "susydata-fallback.json" ];
+var redundant_data_urls = [ "pois.geojson" ];
 
 /* fix for leaflet scroll on devices that fire scroll too fast, e.g. Macs
    see https://github.com/Leaflet/Leaflet/issues/4410#issuecomment-234133427
@@ -96,7 +96,7 @@ function initMap() {
       'Humanitarian OpenStreetMap ': base_maps['hot']
     };
   if(!defaultlayer)
-    defaultlayer = base_maps['stamen_terrain_bg'];
+    defaultlayer = base_maps['mapnik'];
 
   var urlparams = getUrlVars();
   var user_bg = urlparams['background'];
@@ -295,7 +295,8 @@ function getLangTaxURL(lang) {
       'SERVICE wikibase:label {bd:serviceParam wikibase:language "'+lang+'" }' +
     '}';
 
-   return 'https://query.base.transformap.co/bigdata/namespace/transformap/sparql?query=' +encodeURIComponent(tax_query) + "&format=json"; // server not CORS ready yet
+   //return 'https://query.base.transformap.co/bigdata/namespace/transformap/sparql?query=' +encodeURIComponent(tax_query) + "&format=json"; // server not CORS ready yet
+   return 'taxonomy.json';
 }
 
 function setFilterLang(lang) {
@@ -974,8 +975,8 @@ function filterMatches(attributes, filter_UUID) {
     console.log("error in filter, no attributes");
     return false;
   }
-  if(!attributes.type_of_initiative) {
-    console.log("error in filter, no type_of_initiative attribute");
+  if(!attributes.kategorie) {
+    console.log("error in filter, no kategorie attribute");
     return false;
   }
   if(current_filter_tois.length == 0)
@@ -984,7 +985,7 @@ function filterMatches(attributes, filter_UUID) {
   //console.log("filter called with filter: " + filter_UUID + " and toi: " + attributes.type_of_initiative);
 
   //attributes.type_of_initiative can be ;-separated...
-  var toi_array = createToiArray(attributes.type_of_initiative);
+  var toi_array = createToiArray(attributes.kategorie);
 
   for(var i=0;i<toi_array.length;i++){
     var type_of_initiative_QNR = tax_hashtable.toistr_to_qnr[toi_array[i]];
@@ -1246,6 +1247,7 @@ var dictionary = {
     "contact" : "Contact",
     "opening_hours" : "Opening hours",
     "type_of_initiative" : "Type of Initiative",
+    "kategorie" : "Kategorie",
     "reset_filters" : "Reset filters",
     "active_filters" : "Active Filters:",
     "show_map" : "Show map",

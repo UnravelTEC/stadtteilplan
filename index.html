@@ -129,10 +129,10 @@
         <a href="<%- properties['opening_hours:url'] %>" target=_blank><%- properties['opening_hours:url'] %></a>
       </p>
     <% } %>
-        <h3><%- T("type_of_initiative") %></h3>
+        <h3><%- T("kategorie") %></h3>
       <p>
         <%
-          var tois_array = createToiArray(properties['type_of_initiative']);
+          var tois_array = createToiArray(properties['kategorie']);
           var trans_array = tois_array.map(function(obj){
             var qnr = tax_hashtable.toistr_to_qnr[obj];
             return (qnr) ? tax_hashtable.toi_qindex[qnr].itemLabel.value : obj;
