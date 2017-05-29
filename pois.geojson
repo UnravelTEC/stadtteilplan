@@ -53,7 +53,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Lager_Industrie.jpg",
                 "osm":"https://www.openstreetmap.org/way/245081395",
                 "contact:website":"www.stahl-eberhardt.at/home.html",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"Franz Eberhardt"
             },
             "geometry":{
@@ -174,7 +174,7 @@
                 "description":"Spezialitätenrösterei",
                 "osm":"https://www.openstreetmap.org/way/182671964",
                 "contact:website":"www.jhornig.com",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"J.HORNIG GmbH"
             },
             "geometry":{
@@ -230,7 +230,7 @@
                 "addr:housenumber":"Waagner-Biro-Straße 47",
                 "description":"Stahlgroßhandel",
                 "contact:website":"www.ms-stahlhandel.at/index.php?id=122",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"Mechel Service"
             },
             "geometry":{
@@ -328,7 +328,7 @@
                 "description":"Stahlgroßhandel",
                 "osm":"https://www.openstreetmap.org/node/4764197002",
                 "contact:website":"www.neptun.co.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"Neptun-Stahl"
             },
             "geometry":{
@@ -445,7 +445,7 @@
                 "addr:housenumber":"Waagner-Biro-Straße 98",
                 "description":"IT",
                 "osm":"https://www.openstreetmap.org/way/29716557",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"AVL-IT-Comp."
             },
             "geometry":{
@@ -648,7 +648,7 @@
                 "description":"Hausmeisterservice, Gebäudereinigung, Gartenpflege, Siedeln, Entrümpeln und mehr",
                 "osm":"https://www.openstreetmap.org/way/232857443",
                 "contact:website":"www.menatwork.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"Men at Work"
             },
             "geometry":{
@@ -766,7 +766,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
                 "osm":"https://www.openstreetmap.org/way/29716557",
                 "contact:website":"www.helmut-list-halle.com",
-                "kategorie":"treffen; Unternehmen",
+                "kategorie":"treffen; unternehmen",
                 "name":"Helmut List Halle"
             },
             "geometry":{
@@ -921,7 +921,7 @@
                 "description":"Lagerräume und Umzugshilfe",
                 "osm":"https://www.openstreetmap.org/way/182670477",
                 "contact:website":"www.myplace.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"MyPlace-SelfStorage"
             },
             "geometry":{
@@ -956,7 +956,7 @@
                 "addr:housenumber":"Waagner-Biro-Straße 50",
                 "description":"Lehrwerkstätten und Lehringsausbildung",
                 "osm":"https://www.openstreetmap.org/way/182670510",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"ÖBB Werkstätten"
             },
             "geometry":{
@@ -1178,7 +1178,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Bbrz.jpg",
                 "osm":"https://www.openstreetmap.org/node/2530764004",
                 "contact:website":"www.bbrz.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"BBRZ Reha GmbH"
             },
             "geometry":{
@@ -1277,7 +1277,7 @@
                 "description":"Neuwagen & Gebrauchtwagen",
                 "osm":"https://www.openstreetmap.org/way/95944483",
                 "contact:website":"www.pappas.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"Mercedes Wittwar"
             },
             "geometry":{
@@ -1375,7 +1375,7 @@
                 "description":"Tankstelle",
                 "osm":"https://www.openstreetmap.org/node/278471306",
                 "contact:website":"www.eniaustria.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"Eni Tankstelle"
             },
             "geometry":{
@@ -1395,7 +1395,7 @@
                 "description":"Messtechnik",
                 "osm":"https://www.openstreetmap.org/node/4764105826",
                 "contact:website":"www.pjm.co.at",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"PJM-Messtechnik"
             },
             "geometry":{
@@ -1606,7 +1606,7 @@
                 "description":"Anlagentechnik",
                 "osm":"https://www.openstreetmap.org/node/4764185615",
                 "contact:website":"www.vam.bilfinger.com",
-                "kategorie":"Unternehmen",
+                "kategorie":"unternehmen",
                 "name":"VAM Anlagentechnik"
             },
             "geometry":{
