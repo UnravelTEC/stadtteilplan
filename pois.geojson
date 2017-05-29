@@ -13,7 +13,7 @@
                 "osm":"https://www.openstreetmap.org/way/352749430",
                 "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "kategorie":"zukunft",
-                "type":"Öffentlicher Park und Öffentlicher Raum"
+                "name":"Öffentlicher Park und Öffentlicher Raum"
             },
             "geometry":{
                 "type":"Point",
@@ -33,7 +33,7 @@
                 "opening_hours":"Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00",
                 "contact:website":"www.coolhair.at/",
                 "kategorie":"kaufen",
-                "type":"Cool Hair"
+                "name":"Cool Hair"
             },
             "geometry":{
                 "type":"Point",
@@ -54,7 +54,7 @@
                 "osm":"https://www.openstreetmap.org/way/245081395",
                 "contact:website":"www.stahl-eberhardt.at/home.html",
                 "kategorie":"Unternehmen",
-                "type":"Franz Eberhardt"
+                "name":"Franz Eberhardt"
             },
             "geometry":{
                 "type":"Point",
@@ -75,7 +75,7 @@
                 "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
                 "contact:website":"www.calamar-graz.at",
                 "kategorie":"essen",
-                "type":"Restaurant / Pizzeria Calamar"
+                "name":"Restaurant / Pizzeria Calamar"
             },
             "geometry":{
                 "type":"Point",
@@ -94,7 +94,7 @@
                 "osm":"https://www.openstreetmap.org/way/94337869",
                 "opening_hours":"Mo-Sa 9:00-24:00, So und Feiertage 9:00-15:00",
                 "kategorie":"essen",
-                "type":"Gasthaus Kirchenwirt"
+                "name":"Gasthaus Kirchenwirt"
             },
             "geometry":{
                 "type":"Point",
@@ -115,7 +115,7 @@
                 "opening_hours":"Mo-Fr 8:00-18:30, Sa 8:00-12:30",
                 "contact:website":"www.rosenapo.at",
                 "kategorie":"kaufen",
-                "type":"Rosen Apotheke"
+                "name":"Rosen Apotheke"
             },
             "geometry":{
                 "type":"Point",
@@ -134,7 +134,7 @@
                 "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
                 "contact:website":"www.facebook.com/HavanaBalkan/",
                 "kategorie":"treffen",
-                "type":"Havana Club Balkan"
+                "name":"Havana Club Balkan"
             },
             "geometry":{
                 "type":"Point",
@@ -155,7 +155,7 @@
                 "opening_hours":"Mo-Do 8:00-12:00 und 13:00-16:00, Fr 8:00-12:00 oder nach Vereinbarung",
                 "contact:website":"tischlerei-schadler.at",
                 "kategorie":"kaufen",
-                "type":"Schadler Tischlerei"
+                "name":"Schadler Tischlerei"
             },
             "geometry":{
                 "type":"Point",
@@ -175,7 +175,7 @@
                 "osm":"https://www.openstreetmap.org/way/182671964",
                 "contact:website":"www.jhornig.com",
                 "kategorie":"Unternehmen",
-                "type":"J.HORNIG GmbH"
+                "name":"J.HORNIG GmbH"
             },
             "geometry":{
                 "type":"Point",
@@ -195,7 +195,7 @@
                 "opening_hours":"Die Öffentliche Nachtruhe 22:00 – 6:00",
                 "contact:website":"https://venuzle.at/anbieter/bezirkssportplatz-st-vinzenz/",
                 "kategorie":"erleben",
-                "type":"Bezirkssportplatz"
+                "name":"Bezirkssportplatz"
             },
             "geometry":{
                 "type":"Point",
@@ -212,7 +212,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Sitzmodul_Hundewiese.jpg",
                 "osm":"https://www.openstreetmap.org/node/4787911184",
                 "kategorie":"erleben",
-                "type":"Sitzen und Sonnen"
+                "name":"Sitzen und Sonnen"
             },
             "geometry":{
                 "type":"Point",
@@ -231,7 +231,7 @@
                 "description":"Stahlgroßhandel",
                 "contact:website":"www.ms-stahlhandel.at/index.php?id=122",
                 "kategorie":"Unternehmen",
-                "type":"Mechel Service"
+                "name":"Mechel Service"
             },
             "geometry":{
                 "type":"Point",
@@ -251,7 +251,7 @@
                 "opening_hours":"Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
                 "contact:website":"www.alt-eggenberg.net",
                 "kategorie":"essen",
-                "type":"Cafè Alt Eggenberg"
+                "name":"Cafè Alt Eggenberg"
             },
             "geometry":{
                 "type":"Point",
@@ -268,7 +268,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Vor.ort.jpg",
                 "osm":"https://www.openstreetmap.org/node/3986854239",
                 "kategorie":"erleben",
-                "type":"vor.ort cafè + Cityaccess"
+                "name":"vor.ort cafè + Cityaccess"
             },
             "geometry":{
                 "type":"Point",
@@ -288,7 +288,7 @@
                 "opening_hours":"Mo-Fr 8:30-18:00; Sa 8:00-13:00; Di geschlossen",
                 "contact:website":"www.friseur-leitinger.at",
                 "kategorie":"kaufen",
-                "type":"Modefriseur Leitinger"
+                "name":"Modefriseur Leitinger"
             },
             "geometry":{
                 "type":"Point",
@@ -309,7 +309,7 @@
                 "opening_hours":"Mo-Sa 7:30-1:00, So 8:30-1:00",
                 "contact:website":"www.bokan-exclusiv.at/de-at/cafe/",
                 "kategorie":"essen",
-                "type":"Café Polanz"
+                "name":"Café Polanz"
             },
             "geometry":{
                 "type":"Point",
@@ -329,7 +329,7 @@
                 "osm":"https://www.openstreetmap.org/node/4764197002",
                 "contact:website":"www.neptun.co.at",
                 "kategorie":"Unternehmen",
-                "type":"Neptun-Stahl"
+                "name":"Neptun-Stahl"
             },
             "geometry":{
                 "type":"Point",
@@ -349,7 +349,7 @@
                 "opening_hours":"Mo-So 11:00-23:00",
                 "contact:website":"www.dolcevita-graz.at",
                 "kategorie":"essen",
-                "type":"Pizzeria Dolce Vita"
+                "name":"Pizzeria Dolce Vita"
             },
             "geometry":{
                 "type":"Point",
@@ -368,7 +368,7 @@
                 "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
                 "contact:website":"www.facebook.com/HavanaBalkan/",
                 "kategorie":"essen",
-                "type":"Club Havana Balkan"
+                "name":"Club Havana Balkan"
             },
             "geometry":{
                 "type":"Point",
@@ -390,7 +390,7 @@
                 "opening_hours":"Mo - Fr 8:00-12:00, Mi 14:00-16:00 oder nach  Vereinbarung",
                 "contact:website":"www.rettet-das-kind-stmk.at/joomla/index.php/familienzentrum-wohin",
                 "kategorie":"treffen",
-                "type":"Familienzentrum WOHIN"
+                "name":"Familienzentrum WOHIN"
             },
             "geometry":{
                 "type":"Point",
@@ -407,7 +407,7 @@
                 "image":"https://de.wikipedia.org/wiki/Plabutsch#/media/File:Plabutsch.jpg",
                 "osm":"https://www.openstreetmap.org/node/271779032",
                 "kategorie":"erleben",
-                "type":"Plabutsch"
+                "name":"Plabutsch"
             },
             "geometry":{
                 "type":"Point",
@@ -428,7 +428,7 @@
                 "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
                 "contact:website":"www.calamar-graz.at",
                 "kategorie":"erleben",
-                "type":"Gastgarten vom Restaurant Calamar"
+                "name":"Gastgarten vom Restaurant Calamar"
             },
             "geometry":{
                 "type":"Point",
@@ -446,7 +446,7 @@
                 "description":"IT",
                 "osm":"https://www.openstreetmap.org/way/29716557",
                 "kategorie":"Unternehmen",
-                "type":"AVL-IT-Comp."
+                "name":"AVL-IT-Comp."
             },
             "geometry":{
                 "type":"Point",
@@ -465,7 +465,7 @@
                 "osm":"https://www.openstreetmap.org/node/4432416579",
                 "contact:website":"www.facebook.com/Ćevabdžinica-Hodžić-Graz-718472774884044/",
                 "kategorie":"essen",
-                "type":"Restaurant Ćevabdžinica Hodžić"
+                "name":"Restaurant Ćevabdžinica Hodžić"
             },
             "geometry":{
                 "type":"Point",
@@ -481,7 +481,7 @@
                 "addr:housenumber":"Georgigasse 32, 8020 Graz",
                 "osm":"https://www.openstreetmap.org/node/2307853229",
                 "kategorie":"essen",
-                "type":"Kebaphaus Eggenberg"
+                "name":"Kebaphaus Eggenberg"
             },
             "geometry":{
                 "type":"Point",
@@ -499,7 +499,7 @@
                 "osm":"https://www.openstreetmap.org/way/160782516",
                 "opening_hours":"Mi und Sa 6:00-13:00",
                 "kategorie":"kaufen",
-                "type":"Bauernmarkt Eggenberg"
+                "name":"Bauernmarkt Eggenberg"
             },
             "geometry":{
                 "type":"Point",
@@ -515,7 +515,7 @@
                 "description":"Eine Verlängerung der bestehenden Straßenbahnlinie von der Laudongasse bis zur Peter-Tunner-Gasse wird in den nächsten Jahren umgesetzt. Damit ist die Nutzung des öffentlichen Verkehrs im Stadtteil noch interessanter.",
                 "osm":"https://www.openstreetmap.org/way/350591361",
                 "kategorie":"zukunft",
-                "type":"Straßenbahn"
+                "name":"Straßenbahn"
             },
             "geometry":{
                 "type":"Point",
@@ -535,7 +535,7 @@
                 "opening_hours":"Mo-Sa 7:00-19:30; So 7:00-19:00; Di Ruhetag",
                 "contact:website":"konditorei-muhr.stadtausstellung.at/beruns",
                 "kategorie":"essen",
-                "type":"Konditorei Rathschüler"
+                "name":"Konditorei Rathschüler"
             },
             "geometry":{
                 "type":"Point",
@@ -552,7 +552,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Baum_vor_der_Schule.jpg",
                 "osm":"https://www.openstreetmap.org/node/4774462608",
                 "kategorie":"erleben; treffen",
-                "type":"Baum vor der Schule"
+                "name":"Baum vor der Schule"
             },
             "geometry":{
                 "type":"Point",
@@ -569,7 +569,7 @@
                 "addr:housenumber":"Vinzenzgasse 22, 8020 Graz",
                 "osm":"https://www.openstreetmap.org/node/2307853313",
                 "kategorie":"kaufen",
-                "type":"Trafik Brigitte Namor"
+                "name":"Trafik Brigitte Namor"
             },
             "geometry":{
                 "type":"Point",
@@ -590,7 +590,7 @@
                 "osm":"https://www.openstreetmap.org/way/203357610",
                 "contact:website":"www.caritas-steiermark.at/hilfe-angebote/seniorinnen/wohnen/betreutes-wohnen/graz-lilienthalgasse/",
                 "kategorie":"treffen",
-                "type":"Lebensräume Caritas"
+                "name":"Lebensräume Caritas"
             },
             "geometry":{
                 "type":"Point",
@@ -609,7 +609,7 @@
                 "opening_hours":"Mo-Fr 7:15-19:30 Sa7:15-18:00",
                 "contact:website":"www.billa.at",
                 "kategorie":"kaufen",
-                "type":"Billa"
+                "name":"Billa"
             },
             "geometry":{
                 "type":"Point",
@@ -629,7 +629,7 @@
                 "opening_hours":"Mo-Fr 9.00-13.00",
                 "contact:website":"http://www.vinzi.at/de/vinzihelp/",
                 "kategorie":"treffen",
-                "type":"Vinzi Help"
+                "name":"Vinzi Help"
             },
             "geometry":{
                 "type":"Point",
@@ -649,7 +649,7 @@
                 "osm":"https://www.openstreetmap.org/way/232857443",
                 "contact:website":"www.menatwork.at",
                 "kategorie":"Unternehmen",
-                "type":"Men at Work"
+                "name":"Men at Work"
             },
             "geometry":{
                 "type":"Point",
@@ -668,7 +668,7 @@
                 "opening_hours":"Mo–Fr 08:30 – 12:30 und 15:00 – 17:30; Donnerstag nachmittags und Samstag geschlossen",
                 "contact:website":"www.schluesseldienst-aufsperrdienst.at",
                 "kategorie":"kaufen",
-                "type":"Eggenberger Schlüsseldienst"
+                "name":"Eggenberger Schlüsseldienst"
             },
             "geometry":{
                 "type":"Point",
@@ -690,7 +690,7 @@
                 "opening_hours":"Mo 17:30-19:30; Mi 10:00-12:00",
                 "contact:website":"www.smartcitygraz.at/page_id1905/",
                 "kategorie":"treffen",
-                "type":"vor.ort Stadtteilmanagement"
+                "name":"vor.ort Stadtteilmanagement"
             },
             "geometry":{
                 "type":"Point",
@@ -709,7 +709,7 @@
                 "osm":"https://www.openstreetmap.org/way/82229251",
                 "opening_hours":"Stadtteilmanagement vor.ort: Mo 17:30 - 19:00 und Mi 10:00 - 12:00 Uhr JUZ EggenLend: Di – Fr: 13:00 – 19:00 Uhr",
                 "kategorie":"erleben",
-                "type":"Parkplatz der Helmut List Halle"
+                "name":"Parkplatz der Helmut List Halle"
             },
             "geometry":{
                 "type":"Point",
@@ -728,7 +728,7 @@
                 "osm":"https://www.openstreetmap.org/node/4787917833",
                 "contact:website":"www.helmut-list-halle.com/event/-/event/172569/international-graffiti-contest",
                 "kategorie":"erleben",
-                "type":"Graffitis"
+                "name":"Graffitis"
             },
             "geometry":{
                 "type":"Point",
@@ -747,7 +747,7 @@
                 "osm":"https://www.openstreetmap.org/node/4587217901",
                 "opening_hours":"Mo-Fr 8:30-17:00",
                 "kategorie":"kaufen",
-                "type":"Salon Evelyn"
+                "name":"Salon Evelyn"
             },
             "geometry":{
                 "type":"Point",
@@ -767,7 +767,7 @@
                 "osm":"https://www.openstreetmap.org/way/29716557",
                 "contact:website":"www.helmut-list-halle.com",
                 "kategorie":"treffen; unternehmen",
-                "type":"Helmut List Halle"
+                "name":"Helmut List Halle"
             },
             "geometry":{
                 "type":"Point",
@@ -786,7 +786,7 @@
                 "osm":"https://www.openstreetmap.org/way/495192776",
                 "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "kategorie":"zukunft",
-                "type":"Schulcampus"
+                "name":"Schulcampus"
             },
             "geometry":{
                 "type":"Point",
@@ -808,7 +808,7 @@
                 "opening_hours":"Di-Fr 13:00-19:00",
                 "contact:website":"www.facebook.com/ypeggenlend",
                 "kategorie":"treffen",
-                "type":"Jugendzentrum Eggenlend"
+                "name":"Jugendzentrum Eggenlend"
             },
             "geometry":{
                 "type":"Point",
@@ -827,7 +827,7 @@
                 "osm":"https://www.openstreetmap.org/node/4774415823",
                 "opening_hours":"Mo-So 6:00-21:00",
                 "kategorie":"kaufen",
-                "type":"Bäckerei Europa"
+                "name":"Bäckerei Europa"
             },
             "geometry":{
                 "type":"Point",
@@ -845,7 +845,7 @@
                 "osm":"https://www.openstreetmap.org/way/182680875",
                 "contact:website":"www.youtube.com/watch?v=OXyexoy3AYw&feature=youtu.be",
                 "kategorie":"erleben",
-                "type":"Smart City Baufeld Mitte"
+                "name":"Smart City Baufeld Mitte"
             },
             "geometry":{
                 "type":"Point",
@@ -865,7 +865,7 @@
                 "osm":"https://www.openstreetmap.org/node/4774471859",
                 "contact:website":"http://eggenberg.kneippbund.at/content/show/182/Aktuell.html",
                 "kategorie":"erleben; treffen",
-                "type":"Kneipp Aktiv Club Eggenberg"
+                "name":"Kneipp Aktiv Club Eggenberg"
             },
             "geometry":{
                 "type":"Point",
@@ -883,7 +883,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Espresso_Irena.jpg",
                 "osm":"https://www.openstreetmap.org/node/2272080046",
                 "kategorie":"essen",
-                "type":"Café Espresso Irena"
+                "name":"Café Espresso Irena"
             },
             "geometry":{
                 "type":"Point",
@@ -902,7 +902,7 @@
                 "osm":"https://www.openstreetmap.org/node/1747362930",
                 "opening_hours":"Mo - Fr 6:30 - 12:30 und 14:30 - 18:00, Sa 7:00 - 12:00",
                 "kategorie":"kaufen",
-                "type":"Tabak Trafik"
+                "name":"Tabak Trafik"
             },
             "geometry":{
                 "type":"Point",
@@ -922,7 +922,7 @@
                 "osm":"https://www.openstreetmap.org/way/182670477",
                 "contact:website":"www.myplace.at",
                 "kategorie":"Unternehmen",
-                "type":"MyPlace-SelfStorage"
+                "name":"MyPlace-SelfStorage"
             },
             "geometry":{
                 "type":"Point",
@@ -938,7 +938,7 @@
                 "addr:housenumber":"Vinzenzgasse 45, 8020 Graz",
                 "osm":"https://www.openstreetmap.org/way/221771125",
                 "kategorie":"essen",
-                "type":"Café Stub'n"
+                "name":"Café Stub'n"
             },
             "geometry":{
                 "type":"Point",
@@ -957,7 +957,7 @@
                 "description":"Lehrwerkstätten und Lehringsausbildung",
                 "osm":"https://www.openstreetmap.org/way/182670510",
                 "kategorie":"Unternehmen",
-                "type":"ÖBB Werkstätten"
+                "name":"ÖBB Werkstätten"
             },
             "geometry":{
                 "type":"Point",
@@ -976,7 +976,7 @@
                 "osm":"https://www.openstreetmap.org/node/2299236376",
                 "opening_hours":"Mo-So 6:00 - 2:00",
                 "kategorie":"essen",
-                "type":"Pizzeria Siesta"
+                "name":"Pizzeria Siesta"
             },
             "geometry":{
                 "type":"Point",
@@ -996,7 +996,7 @@
                 "osm":"https://www.openstreetmap.org/way/492276900",
                 "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "kategorie":"zukunft",
-                "type":"Cool City"
+                "name":"Cool City"
             },
             "geometry":{
                 "type":"Point",
@@ -1013,7 +1013,7 @@
                 "osm":"https://www.openstreetmap.org/way/352749432",
                 "contact:website":"http://info.science-tower.at",
                 "kategorie":"zukunft",
-                "type":"Forschungsturm"
+                "name":"Forschungsturm"
             },
             "geometry":{
                 "type":"Point",
@@ -1035,7 +1035,7 @@
                 "opening_hours":"Mo-Fr  8:00-18:00",
                 "contact:website":"www.putzerei-schneiderei.at",
                 "kategorie":"kaufen",
-                "type":"Putzerei/Schreiderei Fuchsbichler"
+                "name":"Putzerei/Schreiderei Fuchsbichler"
             },
             "geometry":{
                 "type":"Point",
@@ -1057,7 +1057,7 @@
                 "opening_hours":"Mo-Fr  09:00 – 22:00; Sa 10:00 – 22:00; So und Feiertage 10:00 – 20:00",
                 "contact:website":"www.gulascheck.at‎",
                 "kategorie":"essen",
-                "type":"Gasthaus Gulascheck"
+                "name":"Gasthaus Gulascheck"
             },
             "geometry":{
                 "type":"Point",
@@ -1077,7 +1077,7 @@
                 "opening_hours":"Mo-Sa 9:00 - 22:00; So 9:00 - 24:00; Feiertage 9:00 - 19:00",
                 "contact:website":"www.das-wirtshaus.at",
                 "kategorie":"essen",
-                "type":"Roschitz - Das Wirtshaus"
+                "name":"Roschitz - Das Wirtshaus"
             },
             "geometry":{
                 "type":"Point",
@@ -1098,7 +1098,7 @@
                 "osm":"https://www.openstreetmap.org/node/4858278269",
                 "contact:website":"www.smartcitygraz.at/page_id1905/",
                 "kategorie":"erleben; treffen",
-                "type":"Green Living Lab"
+                "name":"Green Living Lab"
             },
             "geometry":{
                 "type":"Point",
@@ -1118,7 +1118,7 @@
                 "osm":"https://www.openstreetmap.org/way/182680875",
                 "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "kategorie":"zukunft",
-                "type":"Baufeld Mitte und Nord"
+                "name":"Baufeld Mitte und Nord"
             },
             "geometry":{
                 "type":"Point",
@@ -1139,7 +1139,7 @@
                 "opening_hours":"Di 14:00-18:00, Do 10:00-14:00, Fr 14:00-18:00, Sa 09:00-15:00 oder nach Vereinbarung",
                 "contact:website":"www.sammelwerk-graz.at",
                 "kategorie":"kaufen",
-                "type":"Sammelwerk"
+                "name":"Sammelwerk"
             },
             "geometry":{
                 "type":"Point",
@@ -1158,7 +1158,7 @@
                 "osm":"https://www.openstreetmap.org/way/161095625",
                 "contact:website":"www.meine-kinder.at/i/spielplatz-konsumwiese-graz/",
                 "kategorie":"erleben; treffen",
-                "type":"Konsumwiese"
+                "name":"Konsumwiese"
             },
             "geometry":{
                 "type":"Point",
@@ -1179,7 +1179,7 @@
                 "osm":"https://www.openstreetmap.org/node/2530764004",
                 "contact:website":"www.bbrz.at",
                 "kategorie":"Unternehmen",
-                "type":"BBRZ Reha GmbH"
+                "name":"BBRZ Reha GmbH"
             },
             "geometry":{
                 "type":"Point",
@@ -1196,7 +1196,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Hunde_Wiese.jpg",
                 "osm":"https://www.openstreetmap.org/way/161096783",
                 "kategorie":"erleben; treffen",
-                "type":"Treffpunkt für Mensch und Hund"
+                "name":"Treffpunkt für Mensch und Hund"
             },
             "geometry":{
                 "type":"Point",
@@ -1217,7 +1217,7 @@
                 "osm":"https://www.openstreetmap.org/node/4790205441",
                 "contact:website":"http://www.smartcitygraz.at/more_vorort-dabeisein/",
                 "kategorie":"erleben; treffen",
-                "type":"Leihradl vor.ort"
+                "name":"Leihradl vor.ort"
             },
             "geometry":{
                 "type":"Point",
@@ -1238,7 +1238,7 @@
                 "opening_hours":"Mo– So 8:00- 24:00",
                 "contact:website":"www.brauhaus-graz.at",
                 "kategorie":"essen",
-                "type":"Brauhaus Graz Eggenberg"
+                "name":"Brauhaus Graz Eggenberg"
             },
             "geometry":{
                 "type":"Point",
@@ -1259,7 +1259,7 @@
                 "opening_hours":"Mo–Fr 10:00 - 18:00",
                 "contact:website":"www.vinzi.at/de/vinzishop-graz/",
                 "kategorie":"kaufen",
-                "type":"VinziShop"
+                "name":"VinziShop"
             },
             "geometry":{
                 "type":"Point",
@@ -1278,7 +1278,7 @@
                 "osm":"https://www.openstreetmap.org/way/95944483",
                 "contact:website":"www.pappas.at",
                 "kategorie":"Unternehmen",
-                "type":"Mercedes Wittwar"
+                "name":"Mercedes Wittwar"
             },
             "geometry":{
                 "type":"Point",
@@ -1295,7 +1295,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Laura%27s_St%C3%BCberl.jpg",
                 "osm":"https://www.openstreetmap.org/node/4587217902",
                 "kategorie":"essen",
-                "type":"Café Laura's Stüberl"
+                "name":"Café Laura's Stüberl"
             },
             "geometry":{
                 "type":"Point",
@@ -1317,7 +1317,7 @@
                 "opening_hours":"Mo-Fr 8:00 – 12:00 und 14:30 – 18:00; Sa 8:00 – 12:00",
                 "contact:website":"www.neubauer-zweirad.at",
                 "kategorie":"kaufen",
-                "type":"ZEG Neubauer"
+                "name":"ZEG Neubauer"
             },
             "geometry":{
                 "type":"Point",
@@ -1336,7 +1336,7 @@
                 "osm":"https://www.openstreetmap.org/node/371203832",
                 "opening_hours":"Mo-So 06:30-22:00",
                 "kategorie":"kaufen",
-                "type":"Nah&Frisch Extra-Markt"
+                "name":"Nah&Frisch Extra-Markt"
             },
             "geometry":{
                 "type":"Point",
@@ -1357,7 +1357,7 @@
                 "osm":"https://www.openstreetmap.org/way/90628414",
                 "contact:website":"www.stvinzenz.at",
                 "kategorie":"treffen",
-                "type":"Pfarre St. Vinzenz"
+                "name":"Pfarre St. Vinzenz"
             },
             "geometry":{
                 "type":"Point",
@@ -1376,7 +1376,7 @@
                 "osm":"https://www.openstreetmap.org/node/278471306",
                 "contact:website":"www.eniaustria.at",
                 "kategorie":"Unternehmen",
-                "type":"Eni Tankstelle"
+                "name":"Eni Tankstelle"
             },
             "geometry":{
                 "type":"Point",
@@ -1396,7 +1396,7 @@
                 "osm":"https://www.openstreetmap.org/node/4764105826",
                 "contact:website":"www.pjm.co.at",
                 "kategorie":"Unternehmen",
-                "type":"PJM-Messtechnik"
+                "name":"PJM-Messtechnik"
             },
             "geometry":{
                 "type":"Point",
@@ -1415,7 +1415,7 @@
                 "opening_hours":"Mo-Fr 7:40-20:00 Sa 7:40-18:00",
                 "contact:website":"www.hofer.at",
                 "kategorie":"kaufen",
-                "type":"Hofer"
+                "name":"Hofer"
             },
             "geometry":{
                 "type":"Point",
@@ -1434,7 +1434,7 @@
                 "osm":"https://www.openstreetmap.org/node/270508834",
                 "contact:website":"www.schutzengelapotheke-graz.at‎",
                 "kategorie":"kaufen",
-                "type":"Apotheke Schutzengel"
+                "name":"Apotheke Schutzengel"
             },
             "geometry":{
                 "type":"Point",
@@ -1452,7 +1452,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Sitzecke_Eggenlend.jpg",
                 "osm":"https://www.openstreetmap.org/node/4774465242",
                 "kategorie":"erleben; treffen",
-                "type":"Sitzecke"
+                "name":"Sitzecke"
             },
             "geometry":{
                 "type":"Point",
@@ -1472,7 +1472,7 @@
                 "opening_hours":"Mo-Do 8:00-12:00 und 13:00-17:00; Fr 8:00-12:00",
                 "contact:website":"www.jhornig.com",
                 "kategorie":"essen; kaufen",
-                "type":"Kaffeerösterei Hornig"
+                "name":"Kaffeerösterei Hornig"
             },
             "geometry":{
                 "type":"Point",
@@ -1492,7 +1492,7 @@
                 "opening_hours":"Mo-Fr 9:00-19:00, Sa 9:00-17:00",
                 "contact:website":"www.facebook.com/BaranHandyShop/",
                 "kategorie":"kaufen",
-                "type":"Baran Handy Shop"
+                "name":"Baran Handy Shop"
             },
             "geometry":{
                 "type":"Point",
@@ -1513,7 +1513,7 @@
                 "opening_hours":"Mo 9:00-12:00; Mi 15:00-17:00; Do 16:00-18:00",
                 "contact:website":"www.facebook.com/staeggenlend",
                 "kategorie":"treffen",
-                "type":"Stadtteilbüro Eggenlend"
+                "name":"Stadtteilbüro Eggenlend"
             },
             "geometry":{
                 "type":"Point",
@@ -1534,7 +1534,7 @@
                 "opening_hours":"Mo-Sa: 7:00 - 19:00 Uhr; So und Feiertage: 8:00 - 19:00",
                 "contact:website":"www.klescher.at‎",
                 "kategorie":"essen",
-                "type":"Konditorei Klescher"
+                "name":"Konditorei Klescher"
             },
             "geometry":{
                 "type":"Point",
@@ -1554,7 +1554,7 @@
                 "osm":"https://www.openstreetmap.org/way/495193886",
                 "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "kategorie":"zukunft",
-                "type":"Baufeld Süd"
+                "name":"Baufeld Süd"
             },
             "geometry":{
                 "type":"Point",
@@ -1573,7 +1573,7 @@
                 "osm":"https://www.openstreetmap.org/node/1251189841",
                 "opening_hours":"Mo, Di, Do, Fr 7:00 - 12:30 und 14:30 - 18:00, Mi 7:00 - 12:30 und 14:30 - 18:30, Sa 7:00 - 12.00;",
                 "kategorie":"kaufen",
-                "type":"Trafik"
+                "name":"Trafik"
             },
             "geometry":{
                 "type":"Point",
@@ -1590,7 +1590,7 @@
                 "description":"Teilzeitbetreutes Wohnen",
                 "contact:website":"lebenshilfen-sd.at/wohnen/teilzeitbetreutes_wohnen/wohnverbund_graz_nord",
                 "kategorie":"treffen",
-                "type":"Lebenshilfe"
+                "name":"Lebenshilfe"
             },
             "geometry":{
                 "type":"Point",
@@ -1607,7 +1607,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Vigo.jpg",
                 "osm":"https://www.openstreetmap.org/node/2307853350",
                 "kategorie":"essen",
-                "type":"Café Vigo"
+                "name":"Café Vigo"
             },
             "geometry":{
                 "type":"Point",
@@ -1627,7 +1627,7 @@
                 "osm":"https://www.openstreetmap.org/node/4764185615",
                 "contact:website":"www.vam.bilfinger.com",
                 "kategorie":"Unternehmen",
-                "type":"VAM Anlagentechnik"
+                "name":"VAM Anlagentechnik"
             },
             "geometry":{
                 "type":"Point",
