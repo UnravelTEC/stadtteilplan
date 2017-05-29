@@ -788,7 +788,8 @@ function resetFilter() {
 }
 
 function getFilterMode() {
-  return $("#toggleAdvancedFilters").attr('mode');
+  //return $("#toggleAdvancedFilters").attr('mode');
+  return "simple";
 }
 
 function toggleAdvancedFilterMode() {
