@@ -168,26 +168,6 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0316 5090",
-                "contact:email":"office@hornig.at",
-                "addr:housenumber":"Waagner-Biro-Straße 39-41",
-                "description":"Spezialitätenrösterei",
-                "osm":"https://www.openstreetmap.org/way/182671964",
-                "contact:website":"www.jhornig.com",
-                "kategorie":"unternehmen",
-                "name":"J.HORNIG GmbH"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41294120000,
-                    47.07422680000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
                 "addr:housenumber":"Vinzenzgasse, 8020 Graz",
                 "description":"Ca. 7.800 m² Sportplatzflächen für jedes Alter: Tennis, Fußball, Basketball, Tischtennis. Wasserbrunnen sind vorhanden.",
                 "image":"https://commons.wikimedia.org/wiki/File:Bezirkssportplatz.jpg",
