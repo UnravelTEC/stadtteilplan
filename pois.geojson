@@ -766,7 +766,7 @@
                 "image":"https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
                 "osm":"https://www.openstreetmap.org/way/29716557",
                 "contact:website":"www.helmut-list-halle.com",
-                "kategorie":"treffen; unternehmen",
+                "kategorie":"treffen; Unternehmen",
                 "name":"Helmut List Halle"
             },
             "geometry":{
@@ -1459,26 +1459,6 @@
                 "coordinates":[
                     15.40997590000,
                     47.07824140000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 5090",
-                "addr:housenumber":"Waagner-Biro-Straße 39-41, 8020 Graz",
-                "description":"Kaffee und Tee in allen Variationen können direkt in der Rösterei erworben werden. Angeboten werden auch Barista Workshops und zu empfehlen: ein schneller Kaffee an der Shopbar.",
-                "osm":"https://www.openstreetmap.org/way/182671964",
-                "opening_hours":"Mo-Do 8:00-12:00 und 13:00-17:00; Fr 8:00-12:00",
-                "contact:website":"www.jhornig.com",
-                "kategorie":"essen; kaufen",
-                "name":"Kaffeerösterei Hornig"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41294120000,
-                    47.07422680000
                 ]
             }
         },
