@@ -147,9 +147,9 @@ function initMap() {
       "<div id=resetfilters onClick='resetFilter();' trn=reset_filters>"+T("reset_filters")+"</div>"
       );
 
-  $("#map-menu-container .top").append(
+/*  $("#map-menu-container .top").append(
       "<div id=toggleAdvancedFilters onClick='toggleAdvancedFilterMode();' mode='simple' trn=en_adv_filters>"+T("en_adv_filters")+"</div>"
-      );
+      );*/
 
   $("#map-menu-container .top").append(
       "<div id=activefilters>" +
@@ -1165,24 +1165,23 @@ function initializeLanguageSwitcher(returned_data){
     resetLang();
     setFallbackLangs();
 
-    $("#map-menu-container .top").append(
+/*    $("#map-menu-container .top").append(
         "<div id=languageSelector onClick=\"$('#languageSelector ul').toggleClass('open');\">" +
           "<span lang=en>Choose Language:</span>" +
           "<ul></ul>" +
-        "</div>");
+        "</div>");*/
 
     langnames.forEach(function (item) {
       var langcode = langnames_abbr[item];
       var is_default = (langcode == current_lang) ? " class=default" : "";
       console.log("adding lang '" + langcode + "' (" + item + ")");
-      $("#languageSelector ul").append("<li targetlang=" + langcode + is_default + " onClick='switchToLang(\""+langcode+"\");'>"+item+"</li>");
+//      $("#languageSelector ul").append("<li targetlang=" + langcode + is_default + " onClick='switchToLang(\""+langcode+"\");'>"+item+"</li>");
     });
   });
 }
-redundantFetch( [ "https://base.transformap.co/wiki/Special:EntityData/Q5.json", "https://raw.githubusercontent.com/TransforMap/transformap-viewer/Q5-fallback.json", "Q5-fallback.json" ],
+ redundantFetch( [ "https://base.transformap.co/wiki/Special:EntityData/Q5.json", "https://raw.githubusercontent.com/TransforMap/transformap-viewer/Q5-fallback.json", "Q5-fallback.json" ],
   initializeLanguageSwitcher,
   function(error) { console.error("none of the lang init data urls available") } );
-  
 
 function switchToLang(lang) {
   $("#languageSelector li.default").removeClass("default");
