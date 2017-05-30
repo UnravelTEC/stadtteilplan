@@ -6,938 +6,13 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0676 40 68 818 /",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "description":"In den nächsten Jahren entstehen ein großer öffentlicher Park, öffentliche Plätze und eine Flaniermeile. Die Details werden gemeinsam mit allen Beteiligten und interessierten BürgerInnen in Rahmen von Workshops entwickelt. Bei Interesse nehmen Sie bitte Kontakt mit uns auf! Die Umsetzung erfolgt jeweils nach dem Baufortschritt der unterschiedlichen Quartiere.",
-                "image":"https://commons.wikimedia.org/wiki/File:Öffentlicher_Raum_Wettbewerb.jpg",
-                "osm":"https://www.openstreetmap.org/way/352749430",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "kategorie":"zukunft",
-                "name":"Öffentlicher Park und Öffentlicher Raum"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40947380000,
-                    47.08055000000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:email":"office@coolhair.at",
-                "addr:housenumber":"Georgigasse 34, 8020 Graz",
-                "description":"Friseur",
-                "osm":"https://www.openstreetmap.org/node/1728200713",
-                "opening_hours":"Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00",
-                "contact:website":"www.coolhair.at/",
-                "kategorie":"kaufen",
-                "name":"Cool Hair"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40426610000,
-                    47.07308020000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 5972",
-                "contact:email":"office@stahl-eberhardt.at",
-                "addr:housenumber":"Waagner-Biro-Straße 45 und 117",
-                "description":"Stahlgroßhandel",
-                "image":"https://commons.wikimedia.org/wiki/File:Lager_Industrie.jpg",
-                "osm":"https://www.openstreetmap.org/way/245081395",
-                "contact:website":"www.stahl-eberhardt.at/home.html",
-                "kategorie":"unternehmen",
-                "name":"Franz Eberhardt"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41318550000,
-                    47.07507730000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 6829471",
-                "addr:housenumber":"Waagner-Biro-Straße 122, 8020 Graz",
-                "description":"Ein Gasthaus mit einer über hundertjährigen Geschichte. Der Gastgarten erinnert an einen alten Wiener Heurigen und lädt vor allem im Sommer zum Verweilen ein. Tipp: günstige Tagesmenüs.",
-                "image":"https://commons.wikimedia.org/wiki/File:Restaurant_Pizzeria.jpg",
-                "osm":"https://www.openstreetmap.org/way/87979332",
-                "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
-                "contact:website":"www.calamar-graz.at",
-                "kategorie":"essen",
-                "name":"Restaurant / Pizzeria Calamar"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40985070000,
-                    47.08203550000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Vinzenzgasse 41, 8020 Graz",
-                "description":"Ein Gasthaus mit steirischer Hausmannskost: Backhendl, Beuschel, Leber- und Flecksuppe und diverse andere steirische Schmankerln. Es werden Räumlichkeiten für Gruppenfeiern und Seminare zur Verfügung gestellt.",
-                "image":"https://commons.wikimedia.org/wiki/File:Gasthaus_Kirchenwirt.jpg",
-                "osm":"https://www.openstreetmap.org/way/94337869",
-                "opening_hours":"Mo-Sa 9:00-24:00, So und Feiertage 9:00-15:00",
-                "kategorie":"essen",
-                "name":"Gasthaus Kirchenwirt"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40466550000,
-                    47.07470990000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 570070",
-                "contact:email":"info@rosenapo.at",
-                "addr:housenumber":"Peter-Tunner-Gasse 34, 8020 Graz",
-                "description":"Im ersten Obergeschoß der Rosen Apotheke wurde auf 150 m² ein Wohlfühlbereich mit einem Schönheitssalon für Kosmetik, Massage und Fußpflege eingerichtet. Tipp: Shiatsu - jeden Freitag!",
-                "osm":"https://www.openstreetmap.org/node/270508841",
-                "opening_hours":"Mo-Fr 8:00-18:30, Sa 8:00-12:30",
-                "contact:website":"www.rosenapo.at",
-                "kategorie":"kaufen",
-                "name":"Rosen Apotheke"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40447370000,
-                    47.08151790000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 9114720",
-                "addr:housenumber":"Alte Poststraße 118, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/node/4799671013",
-                "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
-                "contact:website":"www.facebook.com/HavanaBalkan/",
-                "kategorie":"treffen",
-                "name":"Havana Club Balkan"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40981590000,
-                    47.07407890000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"316581319",
-                "contact:email":"office@tischlerei-schadler.at",
-                "addr:housenumber":"Georgigasse 14-16, 8020 Graz",
-                "description":"Personalisierte Möbelstücke und Unterstützung bei der Gestaltung von Lebensräumen",
-                "osm":"https://www.openstreetmap.org/node/2972015728",
-                "opening_hours":"Mo-Do 8:00-12:00 und 13:00-16:00, Fr 8:00-12:00 oder nach Vereinbarung",
-                "contact:website":"tischlerei-schadler.at",
-                "kategorie":"kaufen",
-                "name":"Schadler Tischlerei"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40664400000,
-                    47.07305340000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Vinzenzgasse, 8020 Graz",
-                "description":"Ca. 7.800 m² Sportplatzflächen für jedes Alter: Tennis, Fußball, Basketball, Tischtennis. Wasserbrunnen sind vorhanden.",
-                "image":"https://commons.wikimedia.org/wiki/File:Bezirkssportplatz.jpg",
-                "osm":"https://www.openstreetmap.org/way/94337860",
-                "opening_hours":"Die Öffentliche Nachtruhe 22:00 – 6:00",
-                "contact:website":"https://venuzle.at/anbieter/bezirkssportplatz-st-vinzenz/",
-                "kategorie":"erleben",
-                "name":"Bezirkssportplatz"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40435620000,
-                    47.07632380000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Hier kann man Pause machen und erfährt gleichzeitig von aktuellen Veranstaltungen im Stadtteil.",
-                "image":"https://commons.wikimedia.org/wiki/File:Sitzmodul_Hundewiese.jpg",
-                "osm":"https://www.openstreetmap.org/node/4787911184",
-                "kategorie":"erleben",
-                "name":"Sitzen und Sonnen"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41174730000,
-                    47.07893410000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0662 4315561610",
-                "contact:email":"office@ms-stahlhandel.at",
-                "addr:housenumber":"Waagner-Biro-Straße 47",
-                "description":"Stahlgroßhandel",
-                "contact:website":"www.ms-stahlhandel.at/index.php?id=122",
-                "kategorie":"unternehmen",
-                "name":"Mechel Service"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41310000000,
-                    47.07533000000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0664 2725314",
-                "addr:housenumber":"Vinzenzgasse 20, 8020 Graz",
-                "description":"Kleines Kaffeehaus mit Mittagsmenü. Für kleine Gruppen werden auf Bestellung auch spezielle Gerichte gekocht.",
-                "osm":"https://www.openstreetmap.org/node/2307853184",
-                "opening_hours":"Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
-                "contact:website":"www.alt-eggenberg.net",
-                "kategorie":"essen",
-                "name":"Cafè Alt Eggenberg"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40489280000,
-                    47.07267990000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Freies WLAN im Stadtteil",
-                "image":"https://commons.wikimedia.org/wiki/File:Vor.ort.jpg",
-                "osm":"https://www.openstreetmap.org/node/3986854239",
-                "kategorie":"erleben",
-                "name":"vor.ort cafè + Cityaccess"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41103260000,
-                    47.07905620000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:email":"salon@friseur-leitinger.at",
-                "addr:housenumber":"Peter-Tunner-Gasse 45, 8020 Graz",
-                "description":"Friseur",
-                "osm":"https://www.openstreetmap.org/node/3590611712",
-                "opening_hours":"Mo-Fr 8:30-18:00; Sa 8:00-13:00; Di geschlossen",
-                "contact:website":"www.friseur-leitinger.at",
-                "kategorie":"kaufen",
-                "name":"Modefriseur Leitinger"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40401000000,
-                    47.08103240000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"316 587710",
-                "addr:housenumber":"Waagner-Biro-Straße 133, 8020 Graz",
-                "description":"Ein Cafè mit österreichischer Kaffeehaustradition. Genieße einen Kuchen oder einen Eisbecher auf der Terrasse! Tipp: Großes Frühstücksangebot bis 12 Uhr - vom Wiener Frühstück, über ein Sportlerfrühstück bis hin zu einem American Breakfast.",
-                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Haus.jpg",
-                "osm":"https://www.openstreetmap.org/way/161333727",
-                "opening_hours":"Mo-Sa 7:30-1:00, So 8:30-1:00",
-                "contact:website":"www.bokan-exclusiv.at/de-at/cafe/",
-                "kategorie":"essen",
-                "name":"Café Polanz"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40888320000,
-                    47.08254750000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 5033247",
-                "contact:email":"cschaar@neptun.co.at",
-                "addr:housenumber":"Waagner-Biro-Straße 47",
-                "description":"Stahlgroßhandel",
-                "osm":"https://www.openstreetmap.org/node/4764197002",
-                "contact:website":"www.neptun.co.at",
-                "kategorie":"unternehmen",
-                "name":"Neptun-Stahl"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41306980000,
-                    47.07526900000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 577339",
-                "addr:housenumber":"Georgigasse 26, 8020 Graz",
-                "description":"Einzelgerichte und kombinierte Menüs. Das Essen kann auch online bestellt werden.",
-                "osm":"https://www.openstreetmap.org/node/2972015642",
-                "opening_hours":"Mo-So 11:00-23:00",
-                "contact:website":"www.dolcevita-graz.at",
-                "kategorie":"essen",
-                "name":"Pizzeria Dolce Vita"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40513090000,
-                    47.07305660000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 9114720",
-                "addr:housenumber":"Alte Poststraße 118, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/node/4774476876",
-                "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
-                "contact:website":"www.facebook.com/HavanaBalkan/",
-                "kategorie":"essen",
-                "name":"Club Havana Balkan"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40778810000,
-                    47.07347660000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 573432",
-                "contact:email":"office@wohin.co.at",
-                "addr:housenumber":"Starhemberggasse 19, 8020 Graz",
-                "description":"Beratungs- und Betreuungseinrichtung für Familien (Kinder, Jugendliche, Einzelpersonen)  im Sozialraum IV  der Stadt Graz. Das Team Team – bestehend aus SozialarbeiterInnen und Soziologen – berät bei persönlichen Fragestellungen, Arbeits- und Wohnungssuche, innerfamiliären Krisen, Erziehung und Partnerschaft und finanziellen Angelegenheiten. Für Kinder und Jugendliche werden außerdem freizeitpädagogische Gruppenaktivitäten (z.B. Ausflüge, Spielenachmittage, Schwimmen) angeboten.",
-                "image":"https://commons.wikimedia.org/wiki/File:Familienzentrum_WOHIN.jpg",
-                "osm":"https://www.openstreetmap.org/node/4799671013",
-                "opening_hours":"Mo - Fr 8:00-12:00, Mi 14:00-16:00 oder nach  Vereinbarung",
-                "contact:website":"www.rettet-das-kind-stmk.at/joomla/index.php/familienzentrum-wohin",
-                "kategorie":"treffen",
-                "name":"Familienzentrum WOHIN"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40981590000,
-                    47.07407890000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Ein beliebtes Ausflugziel der StadtteilbewohnerInnen. Hier läßt sich der Blick über die Stadt vom 750 Meter hohen Fürstenstand aus wunderbar genießen.",
-                "image":"https://de.wikipedia.org/wiki/Plabutsch#/media/File:Plabutsch.jpg",
-                "osm":"https://www.openstreetmap.org/node/271779032",
-                "kategorie":"erleben",
-                "name":"Plabutsch"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.38515410000,
-                    47.09040860000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 6829471",
-                "addr:housenumber":"Waagner-Biro-Straße 122, 8020 Graz",
-                "description":"Der Gastgarten erinnert an einen alten Wiener Heurigen. Tipp: der alte Kirschbaum spendet im Sommer erfrischenden Schatten.",
-                "image":"https://commons.wikimedia.org/wiki/File:Restaurant_Pizzeria.jpg",
-                "osm":"https://www.openstreetmap.org/way/87979332",
-                "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
-                "contact:website":"www.calamar-graz.at",
-                "kategorie":"erleben",
-                "name":"Gastgarten vom Restaurant Calamar"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40985070000,
-                    47.08203550000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:email":"martin.hauer@avl.com",
-                "addr:housenumber":"Waagner-Biro-Straße 98",
-                "description":"IT",
-                "osm":"https://www.openstreetmap.org/way/29716557",
-                "kategorie":"unternehmen",
-                "name":"AVL-IT-Comp."
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41194250000,
-                    47.07966930000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0650 8704687",
-                "addr:housenumber":"Georgigasse 36, 8020 Graz",
-                "description":"Eine wichtige Adresse für Liebhaber der Balkan-Küche. Tipp: Besonders beliebt sind Grillspezialitäten und hausgemachte Ćevapčići.",
-                "osm":"https://www.openstreetmap.org/node/4432416579",
-                "contact:website":"www.facebook.com/Ćevabdžinica-Hodžić-Graz-718472774884044/",
-                "kategorie":"essen",
-                "name":"Restaurant Ćevabdžinica Hodžić"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40411680000,
-                    47.07308310000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Georgigasse 32, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/node/2307853229",
-                "kategorie":"essen",
-                "name":"Kebaphaus Eggenberg"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40481110000,
-                    47.07306330000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Hofbauerplatz",
-                "description":"Hier bieten viele Bauern aus der Umgebung ihre Köstlichkeiten an: von Obst und Gemüse bis zu Fleisch- und Fischspezialitäten. Der komplette Markt ist überdacht.",
-                "osm":"https://www.openstreetmap.org/way/160782516",
-                "opening_hours":"Mi und Sa 6:00-13:00",
-                "kategorie":"kaufen",
-                "name":"Bauernmarkt Eggenberg"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40263850000,
-                    47.07220380000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Eine Verlängerung der bestehenden Straßenbahnlinie von der Laudongasse bis zur Peter-Tunner-Gasse wird in den nächsten Jahren umgesetzt. Damit ist die Nutzung des öffentlichen Verkehrs im Stadtteil noch interessanter.",
-                "osm":"https://www.openstreetmap.org/way/350591361",
-                "kategorie":"zukunft",
-                "name":"Straßenbahn"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41171380000,
-                    47.07795010000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 585140",
-                "addr:housenumber":"Peter-Tunner-Gasse 45, 8020 Graz",
-                "description":"Ein Kaffehaus mit traditioneller Kaffeehauskultur. Auf Bestellung erhalten Sie auch Torten für Taufe, Geburtstag und Hochzeit.",
-                "osm":"https://www.openstreetmap.org/node/270508849",
-                "opening_hours":"Mo-Sa 7:00-19:30; So 7:00-19:00; Di Ruhetag",
-                "contact:website":"konditorei-muhr.stadtausstellung.at/beruns",
-                "kategorie":"essen",
-                "name":"Konditorei Rathschüler"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40410880000,
-                    47.08108000000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Ein Treffpunkt von Jugendlichen und beliebter Schattenspender im Sommer",
-                "image":"https://commons.wikimedia.org/wiki/File:Baum_vor_der_Schule.jpg",
-                "osm":"https://www.openstreetmap.org/node/4774462608",
-                "kategorie":"erleben; treffen",
-                "name":"Baum vor der Schule"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41071080000,
-                    47.07834920000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 576520",
-                "addr:housenumber":"Vinzenzgasse 22, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/node/2307853313",
-                "kategorie":"kaufen",
-                "name":"Trafik Brigitte Namor"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40490430000,
-                    47.07286310000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 88015568",
-                "contact:email":"bw-lilienthalgasse@caritas-steiermark.at",
-                "addr:housenumber":"Lilienthalgasse 12, 8020 Graz",
-                "description":"Betreutes Wohnen für SeniorInnen",
-                "image":"https://commons.wikimedia.org/wiki/File:Lebensr%C3%A4ume_Caritas.jpg",
-                "osm":"https://www.openstreetmap.org/way/203357610",
-                "contact:website":"www.caritas-steiermark.at/hilfe-angebote/seniorinnen/wohnen/betreutes-wohnen/graz-lilienthalgasse/",
-                "kategorie":"treffen",
-                "name":"Lebensräume Caritas"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40621790000,
-                    47.07435240000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Alte Poststraße 109, 8020 Graz",
-                "description":"Lebensmittelhandel",
-                "osm":"https://www.openstreetmap.org/way/156375969",
-                "opening_hours":"Mo-Fr 7:15-19:30 Sa7:15-18:00",
-                "contact:website":"www.billa.at",
-                "kategorie":"kaufen",
-                "name":"Billa"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40821640000,
-                    47.07501540000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 585800",
-                "addr:housenumber":"Lilienthalgasse 20, 8020 Graz",
-                "description":"Direkte Hilfe von Frau zu Frau seit über 10 Jahren: VinziHelp bietet sowohl rechtliche als auch finanzielle Hilfe bzw. Alternativlösungen für die Probleme an.",
-                "osm":"https://www.openstreetmap.org/node/3419458710",
-                "opening_hours":"Mo-Fr 9.00-13.00",
-                "contact:website":"http://www.vinzi.at/de/vinzihelp/",
-                "kategorie":"treffen",
-                "name":"Vinzi Help"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40511670000,
-                    47.07489540000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 4000004",
-                "contact:email":"office@menatwork.at",
-                "addr:housenumber":"Waagner-Biro-Straße 97",
-                "description":"Hausmeisterservice, Gebäudereinigung, Gartenpflege, Siedeln, Entrümpeln und mehr",
-                "osm":"https://www.openstreetmap.org/way/232857443",
-                "contact:website":"www.menatwork.at",
-                "kategorie":"unternehmen",
-                "name":"Men at Work"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41078730000,
-                    47.07876080000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 583633",
-                "addr:housenumber":"Georgigasse 32, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/node/1101682560",
-                "opening_hours":"Mo–Fr 08:30 – 12:30 und 15:00 – 17:30; Donnerstag nachmittags und Samstag geschlossen",
-                "contact:website":"www.schluesseldienst-aufsperrdienst.at",
-                "kategorie":"kaufen",
-                "name":"Eggenberger Schlüsseldienst"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40452300000,
-                    47.07306670000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 40 68 818",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "addr:housenumber":"Container gegenüber der Helmut List Halle",
-                "description":"Information, Austausch und Beteiligung rund um die Smart City Stadtteilentwicklung.",
-                "image":"https://commons.wikimedia.org/wiki/File:Vor.ort.jpg",
-                "osm":"https://www.openstreetmap.org/node/3986854239",
-                "opening_hours":"Mo 17:30-19:30; Mi 10:00-12:00",
-                "contact:website":"www.smartcitygraz.at/page_id1905/",
-                "kategorie":"treffen",
-                "name":"vor.ort Stadtteilmanagement"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41103260000,
-                    47.07905620000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 5219746",
-                "contact:email":"juzeggenlend@wiki.at",
-                "description":"Wenn der Parkplatz nicht für Veranstaltungen genutzt wird, wird gekickt! Die Fußballtore kann man gratis im vor.ort cafè oder im JUZ Eggenlend während der Öffnungszeiten ausleihen.",
-                "osm":"https://www.openstreetmap.org/way/82229251",
-                "opening_hours":"Stadtteilmanagement vor.ort: Mo 17:30 - 19:00 und Mi 10:00 - 12:00 Uhr JUZ EggenLend: Di – Fr: 13:00 – 19:00 Uhr",
-                "kategorie":"erleben",
-                "name":"Parkplatz der Helmut List Halle"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41047350000,
-                    47.07916130000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Wand gegenüber der Helmut List Halle",
-                "description":"Die 200 Meter lange Wand wurde  2013, im Rahmen des International Graffiti Contest, von KünstlerInnen bearbeitet.",
-                "image":"https://commons.wikimedia.org/wiki/File:Graffitis_auf_der_Wiese.jpg",
-                "osm":"https://www.openstreetmap.org/node/4787917833",
-                "contact:website":"www.helmut-list-halle.com/event/-/event/172569/international-graffiti-contest",
-                "kategorie":"erleben",
-                "name":"Graffitis"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41286530000,
-                    47.07873530000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 581159",
-                "addr:housenumber":"Lilienthalgasse 7, 8020 Graz",
-                "description":"Friseur",
-                "osm":"https://www.openstreetmap.org/node/4587217901",
-                "opening_hours":"Mo-Fr 8:30-17:00",
-                "kategorie":"kaufen",
-                "name":"Salon Evelyn"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40682620000,
-                    47.07416360000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 584260",
-                "addr:housenumber":"Waagner-Biro-Straße 98a, 8020 Graz",
-                "description":"Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.",
-                "image":"https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
-                "osm":"https://www.openstreetmap.org/way/29716557",
-                "contact:website":"www.helmut-list-halle.com",
-                "kategorie":"treffen; unternehmen",
-                "name":"Helmut List Halle"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41194250000,
-                    47.07966930000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 40 68 818 /",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "description":"Ein neues Schulgebäude mit einer Volksschule und einer Neuen Mittelschule wird hier errichtet. Die Schulräumlichkeiten und die großzügigen Flächen im Freien werden für viele verschiedene Dinge nutzbar sein. Z.B. sollen sie NachbarInnen und Interessierten in den unterrichtsfreien Zeiten für Veranstaltungen, Lesungen oder sportlichen Aktivitäten zur Verfügung stehen. Baustart Frühjahr 2018. Eröffnung Herbst 2019.",
-                "osm":"https://www.openstreetmap.org/way/495192776",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "kategorie":"zukunft",
-                "name":"Schulcampus"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41068150000,
-                    47.07935850000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 5219746",
-                "contact:email":"eggenlend@wiki.at",
-                "addr:housenumber":"Waagner-Biro-Straße 95, 8020 Graz",
-                "description":"Ein Treffpunkt für Jugendliche. In den Öffnungszeiten immer möglich: zusammen Kochen und Essen, Bewerbungsbüro (Unterstützung bei Themen rund um Schule und Arbeit). Besondere Angebote: Freies Tonstudio: MI+FR 16-18 Uhr, Fußballgruppe: DI 16-17:30 Uhr, Mädchengruppe: zweiwöchig Donnerstag 15-17 Uhr, Caritas Lernbar (Gratis Nachhilfe): FR 15-18 Uhr.",
-                "image":"https://commons.wikimedia.org/wiki/File:JUZ_Eggenlend.jpg",
-                "osm":"https://www.openstreetmap.org/way/201210521",
-                "opening_hours":"Di-Fr 13:00-19:00",
-                "contact:website":"www.facebook.com/ypeggenlend",
-                "kategorie":"treffen",
-                "name":"Jugendzentrum Eggenlend"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41119700000,
-                    47.07873630000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Alte Poststraße, , 8020 Graz",
-                "description":"Frisch gebackenes Brot und Coffee to go. Alle Produkte werden von Montag bis Sonntag täglich mehrmals zubereitet. Tipp: frischer Burek.",
-                "image":"https://commons.wikimedia.org/wiki/File:B%C3%A4ckerei_Europa.jpg",
-                "osm":"https://www.openstreetmap.org/node/4774415823",
-                "opening_hours":"Mo-So 6:00-21:00",
-                "kategorie":"kaufen",
-                "name":"Bäckerei Europa"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40782360000,
-                    47.07361920000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Auf dem zukünftigen Smart City Areal wurde, im Rahmen des Lendwirbel 2016, getanzt, gespielt und gelacht.",
-                "image":"https://commons.wikimedia.org/wiki/File:Tanzwiese.jpg",
-                "osm":"https://www.openstreetmap.org/way/182680875",
-                "contact:website":"www.youtube.com/watch?v=OXyexoy3AYw&feature=youtu.be",
-                "kategorie":"erleben",
-                "name":"Smart City Baufeld Mitte"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41164090000,
-                    47.08072220000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 581265",
-                "contact:email":"kneipp@telering.at oder kkienreich@a1.net",
-                "addr:housenumber":"Lilienthalgasse 24, 8020 Graz",
-                "description":"Regelmäßige Wanderungen, wöchentliche Bewegungsangebote und andere Veranstaltungen für Mitglieder und Nichtmitglieder",
-                "osm":"https://www.openstreetmap.org/node/4774471859",
-                "contact:website":"http://eggenberg.kneippbund.at/content/show/182/Aktuell.html",
-                "kategorie":"erleben; treffen",
-                "name":"Kneipp Aktiv Club Eggenberg"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40462670000,
-                    47.07435270000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 5825070",
-                "addr:housenumber":"Alte Poststraße 114, 8020 Graz",
-                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Espresso_Irena.jpg",
-                "osm":"https://www.openstreetmap.org/node/2272080046",
-                "kategorie":"essen",
-                "name":"Café Espresso Irena"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40770170000,
-                    47.07401200000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 573322",
-                "addr:housenumber":"Alte Poststraße 112, 8020 Graz",
-                "image":"https://commons.wikimedia.org/wiki/File:Tabak_Trafik.jpg",
-                "osm":"https://www.openstreetmap.org/node/1747362930",
-                "opening_hours":"Mo - Fr 6:30 - 12:30 und 14:30 - 18:00, Sa 7:00 - 12:00",
-                "kategorie":"kaufen",
-                "name":"Tabak Trafik"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40771540000,
-                    47.07384880000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 570650",
-                "contact:email":"graz@myplace.at",
-                "addr:housenumber":"Starhemberggasse 4",
-                "description":"Lagerräume und Umzugshilfe",
-                "osm":"https://www.openstreetmap.org/way/182670477",
-                "contact:website":"www.myplace.at",
-                "kategorie":"unternehmen",
-                "name":"MyPlace-SelfStorage"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41196320000,
-                    47.07523820000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Vinzenzgasse 45, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/way/221771125",
-                "kategorie":"essen",
-                "name":"Café Stub'n"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40474190000,
-                    47.07509630000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0664 8417932",
-                "contact:email":"karl.röck@oebb.at",
                 "addr:housenumber":"Waagner-Biro-Straße 50",
+                "contact:email":"karl.röck@oebb.at",
+                "contact:phone":"0664 8417932",
                 "description":"Lehrwerkstätten und Lehringsausbildung",
-                "osm":"https://www.openstreetmap.org/way/182670510",
                 "kategorie":"unternehmen",
-                "name":"ÖBB Werkstätten"
+                "name":"ÖBB Werkstätten",
+                "osm":"https://www.openstreetmap.org/way/182670510"
             },
             "geometry":{
                 "type":"Point",
@@ -950,452 +25,13 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0316 818506",
-                "contact:email":"siesta@buysino.at",
-                "addr:housenumber":"Laudongasse 25, 8020 Graz",
-                "osm":"https://www.openstreetmap.org/node/2299236376",
-                "opening_hours":"Mo-So 6:00 - 2:00",
-                "kategorie":"essen",
-                "name":"Pizzeria Siesta"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40934290000,
-                    47.07295150000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 40 68 818 /",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "description":"Hier entstehen: Wohnraum für 252 Studierende und mehr als 100 Wohnungen, ein Café, ein Kindergarten und eine Kinderkrippe. Das Studentenheim soll im Herbst 2017 eröffnet werden.",
-                "image":"http://commons.wikimedia.org/wiki/File:Cool_City.jpg",
-                "osm":"https://www.openstreetmap.org/way/492276900",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "kategorie":"zukunft",
-                "name":"Cool City"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41005310000,
-                    47.07967660000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Das erste Wahrzeichen der Smart City hat bereits eröffnet und erste Büros wurden bereits bezogen. Das Gebäude ist ein Energie-Plus-Gebäude und ist in Österreich einzigartig.",
-                "osm":"https://www.openstreetmap.org/way/352749432",
-                "contact:website":"http://info.science-tower.at",
-                "kategorie":"zukunft",
-                "name":"Forschungsturm"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41112470000,
-                    47.07987720000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 581121",
-                "contact:email":"putzerei.schneiderei@aon.at",
-                "addr:housenumber":"Rochelgasse 14, 8020 Graz",
-                "description":"Die Putzerei/Schneiderei Fuchsbichler repariert, pflegt, wäscht und reinigt Ihre Wäsche, Kleidung und Textilien schonend und umweltbewusst.",
-                "image":"https://commons.wikimedia.org/wiki/File:Fuchsbichler.jpg",
-                "osm":"https://www.openstreetmap.org/node/2307853212",
-                "opening_hours":"Mo-Fr  8:00-18:00",
-                "contact:website":"www.putzerei-schneiderei.at",
-                "kategorie":"kaufen",
-                "name":"Putzerei/Schreiderei Fuchsbichler"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40644560000,
-                    47.07364120000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 583466",
-                "contact:email":"office@gulascheck.at",
-                "addr:housenumber":"Bodenfeldgasse 2, 8020 Graz",
-                "description":"Wie der Name schon sagt, eine Adresse für Gulaschliebhaber. Tipp: Unbedingt die Hausspezialität Fiaker Gulasch mit Frankfurter und Spiegelei kosten!",
-                "image":"https://commons.wikimedia.org/wiki/File:Gasthaus_Gulascheck.jpg",
-                "osm":"https://www.openstreetmap.org/node/2309348915",
-                "opening_hours":"Mo-Fr  09:00 – 22:00; Sa 10:00 – 22:00; So und Feiertage 10:00 – 20:00",
-                "contact:website":"www.gulascheck.at‎",
-                "kategorie":"essen",
-                "name":"Gasthaus Gulascheck"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40713840000,
-                    47.07577780000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 583419",
-                "addr:housenumber":"Georgigasse 42, 8020 Graz",
-                "description":"Ein Gasthaus mit über 60 Jahre Tradition. Tipp: Klachlsuppe mit Heidensterz und die hausgemachte Saure Sulz.",
-                "osm":"https://www.openstreetmap.org/node/365547599",
-                "opening_hours":"Mo-Sa 9:00 - 22:00; So 9:00 - 24:00; Feiertage 9:00 - 19:00",
-                "contact:website":"www.das-wirtshaus.at",
-                "kategorie":"essen",
-                "name":"Roschitz - Das Wirtshaus"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40317210000,
-                    47.07313420000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 4068817",
-                "contact:email":"nana.poetsch@stadtlaborgraz.at",
-                "addr:housenumber":"Stadtteilmanagement vor.ort",
-                "description":"Gemeinschaftsgarten: ein Ort der lokalen Produktion von Nahrungsmitteln, der Erholung, des Austauschs und der Kooperation. Tipp: Am Ende der Gartensaison wird jährlich ein „HAPPY END Erntedankfest“ vor Ort organisiert.",
-                "image":"https://commons.wikimedia.org/wiki/File:Green_Living_Lab.jpg",
-                "osm":"https://www.openstreetmap.org/node/4858278269",
-                "contact:website":"www.smartcitygraz.at/page_id1905/",
-                "kategorie":"erleben; treffen",
-                "name":"Green Living Lab"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41103260000,
-                    47.07905620000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 40 68 818 /",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "description":"Wohnungen mit zentralen Höfen sowie öffentlichen und halböffentlichen (nur für BewohnerInnen) Flächen. Im Bereich des Science Tower und der Helmut List-Halle entsteht ein Platz mit Gastronomiebetrieben und Büros.",
-                "image":"https://commons.wikimedia.org/wiki/File:Smart_City_Baufeld_Mitte.jpg",
-                "osm":"https://www.openstreetmap.org/way/182680875",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "kategorie":"zukunft",
-                "name":"Baufeld Mitte und Nord"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41164090000,
-                    47.08072220000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0650 4900342",
-                "addr:housenumber":"Vinzenzgasse 32, 8020 Graz",
-                "description":"Raritäten & Hochwertige Gebrauchtwaren",
-                "image":"https://commons.wikimedia.org/wiki/File:Sammelwerk.jpg",
-                "osm":"https://www.openstreetmap.org/node/3786680468",
-                "opening_hours":"Di 14:00-18:00, Do 10:00-14:00, Fr 14:00-18:00, Sa 09:00-15:00 oder nach Vereinbarung",
-                "contact:website":"www.sammelwerk-graz.at",
-                "kategorie":"kaufen",
-                "name":"Sammelwerk"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40483560000,
-                    47.07366620000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Waagner-Biro-Straße 65, 8020 Graz",
-                "description":"Ein eingezäunter Spielplatz mit einer Rutsche, einer Korbschaukel, einer Sandkiste und einem Kletterturm. Sitzmöglichkeiten sind vorhanden.",
-                "image":"https://commons.wikimedia.org/wiki/File:Konsumwiese_Waagner-Biro.jpg",
-                "osm":"https://www.openstreetmap.org/way/161095625",
-                "contact:website":"www.meine-kinder.at/i/spielplatz-konsumwiese-graz/",
-                "kategorie":"erleben; treffen",
-                "name":"Konsumwiese"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41143420000,
-                    47.07826220000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 577674",
-                "contact:email":"stmk@bbrz.at",
-                "addr:housenumber":"Alte Poststraße 136",
-                "description":"Beruflichse Bildungs- und Rehabilitationszentrum",
-                "image":"https://commons.wikimedia.org/wiki/File:Bbrz.jpg",
-                "osm":"https://www.openstreetmap.org/node/2530764004",
-                "contact:website":"www.bbrz.at",
-                "kategorie":"unternehmen",
-                "name":"BBRZ Reha GmbH"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40876010000,
-                    47.07102510000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "description":"Stühle mitnehmen, sich in den Schatten setzen, entspannen und die Vierbeiner laufen lassen.",
-                "image":"https://commons.wikimedia.org/wiki/File:Hunde_Wiese.jpg",
-                "osm":"https://www.openstreetmap.org/way/161096783",
-                "kategorie":"erleben; treffen",
-                "name":"Treffpunkt für Mensch und Hund"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41253770000,
-                    47.07905180000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0676 40 68 818",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "addr:housenumber":"Stadtteilmanagement vor.ort",
-                "description":"Stadtteil-Fahrräder für jeden Anlass gratis und unkompliziert auszuleihen: vom Rennrad übers  Bmx bis zum Lastenrad. Die Räder wurden, zusammen mit den NachbarInnen und in Kooperation mit Rebikel, neu zusammengebaut.",
-                "image":"https://commons.wikimedia.org/wiki/File:Leihradl_vor.ort.jpg",
-                "osm":"https://www.openstreetmap.org/node/4790205441",
-                "contact:website":"http://www.smartcitygraz.at/more_vorort-dabeisein/",
-                "kategorie":"erleben; treffen",
-                "name":"Leihradl vor.ort"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.41111150000,
-                    47.07900390000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 818506",
-                "addr:housenumber":"Laudongasse 25, 8020 Graz",
-                "description":"Ein Brauhaus mit steirischer Hausmannskost, oft mit Tanz und Live-Musik. Tipp: Hier ist das MIttagsmenu besoders beliebt. Unbedingt gebratene Stelze und das Hausbier kosten!",
-                "image":"https://commons.wikimedia.org/wiki/File:Schild_Brauhaus.jpg",
-                "osm":"https://www.openstreetmap.org/way/220842088",
-                "opening_hours":"Mo– So 8:00- 24:00",
-                "contact:website":"www.brauhaus-graz.at",
-                "kategorie":"essen",
-                "name":"Brauhaus Graz Eggenberg"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40961250000,
-                    47.07289620000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 585807",
-                "contact:email":"vinzishop@vinzi.at",
-                "addr:housenumber":"Georgigasse 2, 8020 Graz",
-                "description":"Hier werden Sachspenden verkauft die abgegeben werden, wie Kleidungsstücke, Bücher, Kinderspielzeug und diverse Haushaltswaren. Mit dem Erlös werden die Einrichtungen der Vinzenzgemeinschaft Eggenberg unterstützt.",
-                "osm":"https://www.openstreetmap.org/node/2307853328",
-                "opening_hours":"Mo–Fr 10:00 - 18:00",
-                "contact:website":"www.vinzi.at/de/vinzishop-graz/",
-                "kategorie":"kaufen",
-                "name":"VinziShop"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40798650000,
-                    47.07306640000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:email":"info.graz@pappas.at",
-                "addr:housenumber":"Waagner-Biro-Straße 131",
-                "description":"Neuwagen & Gebrauchtwagen",
-                "osm":"https://www.openstreetmap.org/way/95944483",
-                "contact:website":"www.pappas.at",
-                "kategorie":"unternehmen",
-                "name":"Mercedes Wittwar"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40913890000,
-                    47.08217790000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Lilienthalgasse 6, 8020 Graz",
-                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Laura%27s_St%C3%BCberl.jpg",
-                "osm":"https://www.openstreetmap.org/node/4587217902",
-                "kategorie":"essen",
-                "name":"Café Laura's Stüberl"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40700240000,
-                    47.07429920000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 581300",
-                "contact:email":"office@neubauer-zweirad.at",
-                "addr:housenumber":"Alte Poststraße 130-132, 8020 Graz",
-                "description":"Fahrradhandel und Reparaturen",
-                "image":"https://commons.wikimedia.org/wiki/File:ZEG.jpg",
-                "osm":"https://www.openstreetmap.org/node/288172339",
-                "opening_hours":"Mo-Fr 8:00 – 12:00 und 14:30 – 18:00; Sa 8:00 – 12:00",
-                "contact:website":"www.neubauer-zweirad.at",
-                "kategorie":"kaufen",
-                "name":"ZEG Neubauer"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40841110000,
-                    47.07185140000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 818506",
-                "addr:housenumber":"Laudongasse 25, 8020 Graz",
-                "description":"Auch Sonntags geöffnet; jeden Tag ofenfrisches Gebäck",
-                "osm":"https://www.openstreetmap.org/node/371203832",
-                "opening_hours":"Mo-So 06:30-22:00",
-                "kategorie":"kaufen",
-                "name":"Nah&Frisch Extra-Markt"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40962420000,
-                    47.07297550000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 582402",
-                "contact:email":"graz-st-vinzenz@graz-seckau.at",
-                "addr:housenumber":"Vinzenzgasse 42, 8020 Graz",
-                "description":"Auch außerhalb der Messen lädt die Pfarre Interessierte zu zahlreichen Veranstaltungen wie Filmvorführungen (VinziAle), Konzerten und Vorträgen, sowie zu Spaziergängen und Wanderungen ein.",
-                "image":"https://commons.wikimedia.org/wiki/File:Pfarre_St._Vinzenz.jpg",
-                "osm":"https://www.openstreetmap.org/way/90628414",
-                "contact:website":"www.stvinzenz.at",
-                "kategorie":"treffen",
-                "name":"Pfarre St. Vinzenz"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40510140000,
-                    47.07455470000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 5866920",
-                "addr:housenumber":"Alte Poststraße 87",
-                "description":"Tankstelle",
-                "osm":"https://www.openstreetmap.org/node/278471306",
-                "contact:website":"www.eniaustria.at",
-                "kategorie":"unternehmen",
-                "name":"Eni Tankstelle"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40731940000,
-                    47.07658660000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "contact:phone":"0316 228454",
-                "contact:email":"office@pjm.co.at",
-                "addr:housenumber":"Waagner-Biro-Straße 125",
-                "description":"Messtechnik",
-                "osm":"https://www.openstreetmap.org/node/4764105826",
-                "contact:website":"www.pjm.co.at",
-                "kategorie":"unternehmen",
-                "name":"PJM-Messtechnik"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40942400000,
-                    47.08192600000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
                 "addr:housenumber":"Alte Poststraße 103, 8020 Graz",
+                "contact:website":"http://www.hofer.at",
                 "description":"Lebensmittelhandel",
-                "osm":"https://www.openstreetmap.org/way/161094259",
-                "opening_hours":"Mo-Fr 7:40-20:00 Sa 7:40-18:00",
-                "contact:website":"www.hofer.at",
                 "kategorie":"kaufen",
-                "name":"Hofer"
+                "name":"Hofer",
+                "opening_hours":"Mo-Fr 7:40-20:00 Sa 7:40-18:00",
+                "osm":"https://www.openstreetmap.org/way/161094259"
             },
             "geometry":{
                 "type":"Point",
@@ -1408,13 +44,72 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0316 5812650",
-                "addr:housenumber":"Lilienthalgasse 24, 8020 Graz",
-                "description":"Schulmedizin und Naturheilkunde. Beratungstermine auf Anfrage.",
-                "osm":"https://www.openstreetmap.org/node/270508834",
-                "contact:website":"www.schutzengelapotheke-graz.at‎",
+                "addr:housenumber":"Alte Poststraße 118, 8020 Graz",
+                "contact:phone":"0676 9114720",
+                "contact:website":"http://www.facebook.com/HavanaBalkan/",
+                "kategorie":"essen",
+                "name":"Club Havana Balkan",
+                "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
+                "osm":"https://www.openstreetmap.org/node/4774476876"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40778810000,
+                    47.07347660000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Wand gegenüber der Helmut List Halle",
+                "contact:website":"http://www.helmut-list-halle.com/event/-/event/172569/international-graffiti-contest",
+                "description":"Die 200 Meter lange Wand wurde  2013, im Rahmen des International Graffiti Contest, von KünstlerInnen bearbeitet.",
+                "image":"https://commons.wikimedia.org/wiki/File:Graffitis_auf_der_Wiese.jpg",
+                "kategorie":"erleben",
+                "name":"Graffitis",
+                "osm":"https://www.openstreetmap.org/node/4787917833"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41286530000,
+                    47.07873530000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Peter-Tunner-Gasse 34, 8020 Graz",
+                "contact:email":"info@rosenapo.at",
+                "contact:phone":"0316 570070",
+                "contact:website":"http://www.rosenapo.at",
+                "description":"Im ersten Obergeschoß der Rosen Apotheke wurde auf 150 m² ein Wohlfühlbereich mit einem Schönheitssalon für Kosmetik, Massage und Fußpflege eingerichtet. Tipp: Shiatsu - jeden Freitag!",
                 "kategorie":"kaufen",
-                "name":"Apotheke Schutzengel"
+                "name":"Rosen Apotheke",
+                "opening_hours":"Mo-Fr 8:00-18:30, Sa 8:00-12:30",
+                "osm":"https://www.openstreetmap.org/node/270508841"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40447370000,
+                    47.08151790000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Lilienthalgasse 24, 8020 Graz",
+                "contact:phone":"0316 5812650",
+                "contact:website":"http://www.schutzengelapotheke-graz.at‎",
+                "description":"Schulmedizin und Naturheilkunde. Beratungstermine auf Anfrage.",
+                "kategorie":"kaufen",
+                "name":"Apotheke Schutzengel",
+                "osm":"https://www.openstreetmap.org/node/270508834"
             },
             "geometry":{
                 "type":"Point",
@@ -1427,74 +122,176 @@
         {
             "type":"Feature",
             "properties":{
-                "addr:housenumber":"Dreierschützengasse 10, 8020 Graz",
-                "description":"Ein gemütlicher Sitzbereich aus Holz. Durch schattenspendende Bäume ist es auch an heißen Tagen angenehm kühl und lädt zu einer kurzen Pause ein.",
-                "image":"https://commons.wikimedia.org/wiki/File:Sitzecke_Eggenlend.jpg",
-                "osm":"https://www.openstreetmap.org/node/4774465242",
-                "kategorie":"erleben; treffen",
-                "name":"Sitzecke"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40997590000,
-                    47.07824140000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Alte Poststraße 116, 8020 Graz",
-                "description":"Hier kann man günstig Handys kaufen und verkaufen, Reparaturen in Auftrag geben und Zubehör für neue und gebrauchte Geräte erwerben.",
-                "image":"https://commons.wikimedia.org/wiki/File:Baran_Handy_Shop.jpg",
-                "osm":"https://www.openstreetmap.org/node/2309348917",
-                "opening_hours":"Mo-Fr 9:00-19:00, Sa 9:00-17:00",
-                "contact:website":"www.facebook.com/BaranHandyShop/",
+                "addr:housenumber":"Alte Poststraße, , 8020 Graz",
+                "description":"Frisch gebackenes Brot und Coffee to go. Alle Produkte werden von Montag bis Sonntag täglich mehrmals zubereitet. Tipp: frischer Burek.",
+                "image":"https://commons.wikimedia.org/wiki/File:B%C3%A4ckerei_Europa.jpg",
                 "kategorie":"kaufen",
-                "name":"Baran Handy Shop"
+                "name":"Bäckerei Europa",
+                "opening_hours":"Mo-So 6:00-21:00",
+                "osm":"https://www.openstreetmap.org/node/4774415823"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.40779800000,
-                    47.07370870000
+                    15.40782360000,
+                    47.07361920000
                 ]
             }
         },
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0676 5777507",
-                "contact:email":"STAeggenlend@wiki.at",
-                "addr:housenumber":"Vinzenzgasse 25, 8020 Graz",
-                "description":"Siedlungsbetreuung und Informationsdrehscheibe im Stadtteil vom Bahnhof im Bezirk Lend bis zum Schloss Eggenberg. Die Siedlungsbetreuung reicht von wöchentlichen Siedlungssprechstunden und Haustürgesprächen bis hin zum Siedlungsfest und beschäftigt sich mit Themen wie Müll und Sauberkeit, Lärm, Sicherheitsgefühl oder Ärger mit Nachbarn.",
-                "osm":"https://www.openstreetmap.org/node/2956899595",
-                "opening_hours":"Mo 9:00-12:00; Mi 15:00-17:00; Do 16:00-18:00",
-                "contact:website":"www.facebook.com/staeggenlend",
+                "addr:housenumber":"Stadtteilmanagement vor.ort",
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818",
+                "contact:website":"http://www.smartcitygraz.at/more_vorort-dabeisein/",
+                "description":"Stadtteil-Fahrräder für jeden Anlass gratis und unkompliziert auszuleihen: vom Rennrad übers  Bmx bis zum Lastenrad. Die Räder wurden, zusammen mit den NachbarInnen und in Kooperation mit Rebikel, neu zusammengebaut.",
+                "image":"https://commons.wikimedia.org/wiki/File:Leihradl_vor.ort.jpg",
+                "kategorie":"erleben; treffen",
+                "name":"Leihradl vor.ort",
+                "osm":"https://www.openstreetmap.org/node/4790205441"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41111150000,
+                    47.07900390000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Container gegenüber der Helmut List Halle",
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818",
+                "contact:website":"http://www.smartcitygraz.at/page_id1905/",
+                "description":"Information, Austausch und Beteiligung rund um die Smart City Stadtteilentwicklung.",
+                "image":"https://commons.wikimedia.org/wiki/File:Vor.ort.jpg",
                 "kategorie":"treffen",
-                "name":"Stadtteilbüro Eggenlend"
+                "name":"vor.ort Stadtteilmanagement",
+                "opening_hours":"Mo 17:30-19:30; Mi 10:00-12:00",
+                "osm":"https://www.openstreetmap.org/node/3986854239"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.40459890000,
-                    47.07306520000
+                    15.41103260000,
+                    47.07905620000
                 ]
             }
         },
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0316 581212",
+                "addr:housenumber":"Waagner-Biro-Straße 122, 8020 Graz",
+                "contact:phone":"0676 6829471",
+                "contact:website":"http://www.calamar-graz.at",
+                "description":"Ein Gasthaus mit einer über hundertjährigen Geschichte. Der Gastgarten erinnert an einen alten Wiener Heurigen und lädt vor allem im Sommer zum Verweilen ein. Tipp: günstige Tagesmenüs.",
+                "image":"https://commons.wikimedia.org/wiki/File:Restaurant_Pizzeria.jpg",
+                "kategorie":"essen",
+                "name":"Restaurant / Pizzeria Calamar",
+                "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
+                "osm":"https://www.openstreetmap.org/way/87979332"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40985070000,
+                    47.08203550000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Stadtteilmanagement vor.ort",
+                "contact:email":"nana.poetsch@stadtlaborgraz.at",
+                "contact:phone":"0676 4068817",
+                "contact:website":"http://www.smartcitygraz.at/page_id1905/",
+                "description":"Gemeinschaftsgarten: ein Ort der lokalen Produktion von Nahrungsmitteln, der Erholung, des Austauschs und der Kooperation. Tipp: Am Ende der Gartensaison wird jährlich ein „HAPPY END Erntedankfest“ vor Ort organisiert.",
+                "image":"https://commons.wikimedia.org/wiki/File:Green_Living_Lab.jpg",
+                "kategorie":"erleben; treffen",
+                "name":"Green Living Lab",
+                "osm":"https://www.openstreetmap.org/node/4858278269"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41103260000,
+                    47.07905620000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 122, 8020 Graz",
+                "contact:phone":"0676 6829471",
+                "contact:website":"http://www.calamar-graz.at",
+                "description":"Der Gastgarten erinnert an einen alten Wiener Heurigen. Tipp: der alte Kirschbaum spendet im Sommer erfrischenden Schatten.",
+                "image":"https://commons.wikimedia.org/wiki/File:Restaurant_Pizzeria.jpg",
+                "kategorie":"erleben",
+                "name":"Gastgarten vom Restaurant Calamar",
+                "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
+                "osm":"https://www.openstreetmap.org/way/87979332"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40985070000,
+                    47.08203550000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818 /",
+                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
+                "description":"Wohnungen mit zentralen Höfen sowie öffentlichen und halböffentlichen (nur für BewohnerInnen) Flächen. Im Bereich des Science Tower und der Helmut List-Halle entsteht ein Platz mit Gastronomiebetrieben und Büros.",
+                "image":"https://commons.wikimedia.org/wiki/File:Smart_City_Baufeld_Mitte.jpg",
+                "kategorie":"zukunft",
+                "name":"Baufeld Mitte und Nord",
+                "osm":"https://www.openstreetmap.org/way/182680875"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41164090000,
+                    47.08072220000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "description":"Eine Verlängerung der bestehenden Straßenbahnlinie von der Laudongasse bis zur Peter-Tunner-Gasse wird in den nächsten Jahren umgesetzt. Damit ist die Nutzung des öffentlichen Verkehrs im Stadtteil noch interessanter.",
+                "kategorie":"zukunft",
+                "name":"Straßenbahn",
+                "osm":"https://www.openstreetmap.org/way/350591361"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41171380000,
+                    47.07795010000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "addr:housenumber":"Alte Poststraße 90, 8020 Graz",
+                "contact:phone":"0316 581212",
+                "contact:website":"http://www.klescher.at‎",
                 "description":"Uriges Cafè und beliebter Tortenbäcker. Tipp: Neben Torten und Kuchen wird hier auch hauseigenes Eis verkauft. Die Milch dafür kommt von einem Bauernhof aus Thal bei Graz.",
                 "image":"https://commons.wikimedia.org/wiki/File:Konditorei_Klescher.jpg",
-                "osm":"https://www.openstreetmap.org/node/2422130028",
-                "opening_hours":"Mo-Sa: 7:00 - 19:00 Uhr; So und Feiertage: 8:00 - 19:00",
-                "contact:website":"www.klescher.at‎",
                 "kategorie":"essen",
-                "name":"Konditorei Klescher"
+                "name":"Konditorei Klescher",
+                "opening_hours":"Mo-Sa: 7:00 - 19:00 Uhr; So und Feiertage: 8:00 - 19:00",
+                "osm":"https://www.openstreetmap.org/node/2422130028"
             },
             "geometry":{
                 "type":"Point",
@@ -1507,39 +304,625 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0676 40 68 818 /",
-                "contact:email":"vorort@stadtlaborgraz.at",
-                "description":"Ein lebendiges neues Zentrum für den gesamten Stadtteil, wo neben Wohnungen auch Geschäfte (Lebensmittel, Dienstleistungen, das Stadtteilmanagement, etc.) zu finden sind. Neben begrünten Dächern werden hier auch mietbare Dachgärten gebaut. Vom Aussehen her erinnert das Zentrum an alten Industriehallen – ein Architekturwettbewerb hat dieses Projekt als Sieger gekürt.",
-                "image":"https://commons.wikimedia.org/wiki/File:Baufeld_Süd.png",
-                "osm":"https://www.openstreetmap.org/way/495193886",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "kategorie":"zukunft",
-                "name":"Baufeld Süd"
+                "addr:housenumber":"Alte Poststraße 112, 8020 Graz",
+                "contact:phone":"0316 573322",
+                "image":"https://commons.wikimedia.org/wiki/File:Tabak_Trafik.jpg",
+                "kategorie":"kaufen",
+                "name":"Tabak Trafik",
+                "opening_hours":"Mo - Fr 6:30 - 12:30 und 14:30 - 18:00, Sa 7:00 - 12:00",
+                "osm":"https://www.openstreetmap.org/node/1747362930"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41250180000,
-                    47.07910570000
+                    15.40771540000,
+                    47.07384880000
                 ]
             }
         },
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0316 571044",
-                "addr:housenumber":"Peter-Tunner-Gasse 34, 8020 Graz",
-                "description":"Zeitschriften, Tabakwaren, Lotto und mehr",
-                "osm":"https://www.openstreetmap.org/node/1251189841",
-                "opening_hours":"Mo, Di, Do, Fr 7:00 - 12:30 und 14:30 - 18:00, Mi 7:00 - 12:30 und 14:30 - 18:30, Sa 7:00 - 12.00;",
-                "kategorie":"kaufen",
-                "name":"Trafik"
+                "addr:housenumber":"Starhemberggasse 19, 8020 Graz",
+                "contact:email":"office@wohin.co.at",
+                "contact:phone":"0316 573432",
+                "contact:website":"http://www.rettet-das-kind-stmk.at/joomla/index.php/familienzentrum-wohin",
+                "description":"Beratungs- und Betreuungseinrichtung für Familien (Kinder, Jugendliche, Einzelpersonen)  im Sozialraum IV  der Stadt Graz. Das Team Team – bestehend aus SozialarbeiterInnen und Soziologen – berät bei persönlichen Fragestellungen, Arbeits- und Wohnungssuche, innerfamiliären Krisen, Erziehung und Partnerschaft und finanziellen Angelegenheiten. Für Kinder und Jugendliche werden außerdem freizeitpädagogische Gruppenaktivitäten (z.B. Ausflüge, Spielenachmittage, Schwimmen) angeboten.",
+                "image":"https://commons.wikimedia.org/wiki/File:Familienzentrum_WOHIN.jpg",
+                "kategorie":"treffen",
+                "name":"Familienzentrum WOHIN",
+                "opening_hours":"Mo - Fr 8:00-12:00, Mi 14:00-16:00 oder nach  Vereinbarung",
+                "osm":"https://www.openstreetmap.org/node/4799671013"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.40436570000,
-                    47.08151500000
+                    15.40981590000,
+                    47.07407890000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 47",
+                "contact:email":"vam@bilfinger.com",
+                "contact:phone":"0316 572139",
+                "contact:website":"http://www.vam.bilfinger.com",
+                "description":"Anlagentechnik",
+                "kategorie":"unternehmen",
+                "name":"VAM Anlagentechnik",
+                "osm":"https://www.openstreetmap.org/node/4764185615"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41311680000,
+                    47.07528900000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Alte Poststraße 118, 8020 Graz",
+                "contact:phone":"0676 9114720",
+                "contact:website":"http://www.facebook.com/HavanaBalkan/",
+                "kategorie":"treffen",
+                "name":"Havana Club Balkan",
+                "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
+                "osm":"https://www.openstreetmap.org/node/4799671013"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40981590000,
+                    47.07407890000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Alte Poststraße 87",
+                "contact:phone":"0316 5866920",
+                "contact:website":"http://www.eniaustria.at",
+                "description":"Tankstelle",
+                "kategorie":"unternehmen",
+                "name":"Eni Tankstelle",
+                "osm":"https://www.openstreetmap.org/node/278471306"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40731940000,
+                    47.07658660000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:website":"http://www.youtube.com/watch?v=OXyexoy3AYw&feature=youtu.be",
+                "description":"Auf dem zukünftigen Smart City Areal wurde, im Rahmen des Lendwirbel 2016, getanzt, gespielt und gelacht.",
+                "image":"https://commons.wikimedia.org/wiki/File:Tanzwiese.jpg",
+                "kategorie":"erleben",
+                "name":"Smart City Baufeld Mitte",
+                "osm":"https://www.openstreetmap.org/way/182680875"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41164090000,
+                    47.08072220000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 20, 8020 Graz",
+                "contact:phone":"0664 2725314",
+                "contact:website":"http://www.alt-eggenberg.net",
+                "description":"Kleines Kaffeehaus mit Mittagsmenü. Für kleine Gruppen werden auf Bestellung auch spezielle Gerichte gekocht.",
+                "kategorie":"essen",
+                "name":"Cafè Alt Eggenberg",
+                "opening_hours":"Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
+                "osm":"https://www.openstreetmap.org/node/2307853184"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40489280000,
+                    47.07267990000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Laudongasse 25, 8020 Graz",
+                "contact:phone":"0316 818506",
+                "contact:website":"http://www.brauhaus-graz.at",
+                "description":"Ein Brauhaus mit steirischer Hausmannskost, oft mit Tanz und Live-Musik. Tipp: Hier ist das MIttagsmenu besoders beliebt. Unbedingt gebratene Stelze und das Hausbier kosten!",
+                "image":"https://commons.wikimedia.org/wiki/File:Schild_Brauhaus.jpg",
+                "kategorie":"essen",
+                "name":"Brauhaus Graz Eggenberg",
+                "opening_hours":"Mo– So 8:00- 24:00",
+                "osm":"https://www.openstreetmap.org/way/220842088"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40961250000,
+                    47.07289620000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Lilienthalgasse 20, 8020 Graz",
+                "contact:phone":"0316 585800",
+                "contact:website":"http://www.vinzi.at/de/vinzihelp/",
+                "description":"Direkte Hilfe von Frau zu Frau seit über 10 Jahren: VinziHelp bietet sowohl rechtliche als auch finanzielle Hilfe bzw. Alternativlösungen für die Probleme an.",
+                "kategorie":"treffen",
+                "name":"Vinzi Help",
+                "opening_hours":"Mo-Fr 9.00-13.00",
+                "osm":"https://www.openstreetmap.org/node/3419458710"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40511670000,
+                    47.07489540000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Laudongasse 25, 8020 Graz",
+                "contact:phone":"0316 818506",
+                "description":"Auch Sonntags geöffnet; jeden Tag ofenfrisches Gebäck",
+                "kategorie":"kaufen",
+                "name":"Nah&Frisch Extra-Markt",
+                "opening_hours":"Mo-So 06:30-22:00",
+                "osm":"https://www.openstreetmap.org/node/371203832"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40962420000,
+                    47.07297550000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 97",
+                "contact:email":"office@menatwork.at",
+                "contact:phone":"0676 4000004",
+                "contact:website":"http://www.menatwork.at",
+                "description":"Hausmeisterservice, Gebäudereinigung, Gartenpflege, Siedeln, Entrümpeln und mehr",
+                "kategorie":"unternehmen",
+                "name":"Men at Work",
+                "osm":"https://www.openstreetmap.org/way/232857443"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41078730000,
+                    47.07876080000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 34, 8020 Graz",
+                "contact:email":"office@coolhair.at",
+                "contact:website":"http://www.coolhair.at/",
+                "description":"Friseur",
+                "kategorie":"kaufen",
+                "name":"Cool Hair",
+                "opening_hours":"Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00",
+                "osm":"https://www.openstreetmap.org/node/1728200713"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40426610000,
+                    47.07308020000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Bodenfeldgasse 2, 8020 Graz",
+                "contact:email":"office@gulascheck.at",
+                "contact:phone":"0316 583466",
+                "contact:website":"http://www.gulascheck.at‎",
+                "description":"Wie der Name schon sagt, eine Adresse für Gulaschliebhaber. Tipp: Unbedingt die Hausspezialität Fiaker Gulasch mit Frankfurter und Spiegelei kosten!",
+                "image":"https://commons.wikimedia.org/wiki/File:Gasthaus_Gulascheck.jpg",
+                "kategorie":"essen",
+                "name":"Gasthaus Gulascheck",
+                "opening_hours":"Mo-Fr  09:00 – 22:00; Sa 10:00 – 22:00; So und Feiertage 10:00 – 20:00",
+                "osm":"https://www.openstreetmap.org/node/2309348915"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40713840000,
+                    47.07577780000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Peter-Tunner-Gasse 45, 8020 Graz",
+                "contact:phone":"0316 585140",
+                "contact:website":"konditorei-muhr.stadtausstellung.at/beruns",
+                "description":"Ein Kaffehaus mit traditioneller Kaffeehauskultur. Auf Bestellung erhalten Sie auch Torten für Taufe, Geburtstag und Hochzeit.",
+                "kategorie":"essen",
+                "name":"Konditorei Rathschüler",
+                "opening_hours":"Mo-Sa 7:00-19:30; So 7:00-19:00; Di Ruhetag",
+                "osm":"https://www.openstreetmap.org/node/270508849"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40410880000,
+                    47.08108000000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Starhemberggasse 4",
+                "contact:email":"graz@myplace.at",
+                "contact:phone":"0316 570650",
+                "contact:website":"http://www.myplace.at",
+                "description":"Lagerräume und Umzugshilfe",
+                "kategorie":"unternehmen",
+                "name":"MyPlace-SelfStorage",
+                "osm":"https://www.openstreetmap.org/way/182670477"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41196320000,
+                    47.07523820000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 47",
+                "contact:email":"cschaar@neptun.co.at",
+                "contact:phone":"0316 5033247",
+                "contact:website":"http://www.neptun.co.at",
+                "description":"Stahlgroßhandel",
+                "kategorie":"unternehmen",
+                "name":"Neptun-Stahl",
+                "osm":"https://www.openstreetmap.org/node/4764197002"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41306980000,
+                    47.07526900000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:website":"http://info.science-tower.at",
+                "description":"Das erste Wahrzeichen der Smart City hat bereits eröffnet und erste Büros wurden bereits bezogen. Das Gebäude ist ein Energie-Plus-Gebäude und ist in Österreich einzigartig.",
+                "kategorie":"zukunft",
+                "name":"Forschungsturm",
+                "osm":"https://www.openstreetmap.org/way/352749432"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41112470000,
+                    47.07987720000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 125",
+                "contact:email":"office@pjm.co.at",
+                "contact:phone":"0316 228454",
+                "contact:website":"http://www.pjm.co.at",
+                "description":"Messtechnik",
+                "kategorie":"unternehmen",
+                "name":"PJM-Messtechnik",
+                "osm":"https://www.openstreetmap.org/node/4764105826"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40942400000,
+                    47.08192600000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 26, 8020 Graz",
+                "contact:phone":"0316 577339",
+                "contact:website":"http://www.dolcevita-graz.at",
+                "description":"Einzelgerichte und kombinierte Menüs. Das Essen kann auch online bestellt werden.",
+                "kategorie":"essen",
+                "name":"Pizzeria Dolce Vita",
+                "opening_hours":"Mo-So 11:00-23:00",
+                "osm":"https://www.openstreetmap.org/node/2972015642"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40513090000,
+                    47.07305660000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818 /",
+                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
+                "description":"Ein neues Schulgebäude mit einer Volksschule und einer Neuen Mittelschule wird hier errichtet. Die Schulräumlichkeiten und die großzügigen Flächen im Freien werden für viele verschiedene Dinge nutzbar sein. Z.B. sollen sie NachbarInnen und Interessierten in den unterrichtsfreien Zeiten für Veranstaltungen, Lesungen oder sportlichen Aktivitäten zur Verfügung stehen. Baustart Frühjahr 2018. Eröffnung Herbst 2019.",
+                "kategorie":"zukunft",
+                "name":"Schulcampus",
+                "osm":"https://www.openstreetmap.org/way/495192776"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41068150000,
+                    47.07935850000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 41, 8020 Graz",
+                "description":"Ein Gasthaus mit steirischer Hausmannskost: Backhendl, Beuschel, Leber- und Flecksuppe und diverse andere steirische Schmankerln. Es werden Räumlichkeiten für Gruppenfeiern und Seminare zur Verfügung gestellt.",
+                "image":"https://commons.wikimedia.org/wiki/File:Gasthaus_Kirchenwirt.jpg",
+                "kategorie":"essen",
+                "name":"Gasthaus Kirchenwirt",
+                "opening_hours":"Mo-Sa 9:00-24:00, So und Feiertage 9:00-15:00",
+                "osm":"https://www.openstreetmap.org/way/94337869"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40466550000,
+                    47.07470990000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 25, 8020 Graz",
+                "contact:email":"STAeggenlend@wiki.at",
+                "contact:phone":"0676 5777507",
+                "contact:website":"http://www.facebook.com/staeggenlend",
+                "description":"Siedlungsbetreuung und Informationsdrehscheibe im Stadtteil vom Bahnhof im Bezirk Lend bis zum Schloss Eggenberg. Die Siedlungsbetreuung reicht von wöchentlichen Siedlungssprechstunden und Haustürgesprächen bis hin zum Siedlungsfest und beschäftigt sich mit Themen wie Müll und Sauberkeit, Lärm, Sicherheitsgefühl oder Ärger mit Nachbarn.",
+                "kategorie":"treffen",
+                "name":"Stadtteilbüro Eggenlend",
+                "opening_hours":"Mo 9:00-12:00; Mi 15:00-17:00; Do 16:00-18:00",
+                "osm":"https://www.openstreetmap.org/node/2956899595"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40459890000,
+                    47.07306520000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 95, 8020 Graz",
+                "contact:email":"eggenlend@wiki.at",
+                "contact:phone":"0676 5219746",
+                "contact:website":"http://www.facebook.com/ypeggenlend",
+                "description":"Ein Treffpunkt für Jugendliche. In den Öffnungszeiten immer möglich: zusammen Kochen und Essen, Bewerbungsbüro (Unterstützung bei Themen rund um Schule und Arbeit). Besondere Angebote: Freies Tonstudio: MI+FR 16-18 Uhr, Fußballgruppe: DI 16-17:30 Uhr, Mädchengruppe: zweiwöchig Donnerstag 15-17 Uhr, Caritas Lernbar (Gratis Nachhilfe): FR 15-18 Uhr.",
+                "image":"https://commons.wikimedia.org/wiki/File:JUZ_Eggenlend.jpg",
+                "kategorie":"treffen",
+                "name":"Jugendzentrum Eggenlend",
+                "opening_hours":"Di-Fr 13:00-19:00",
+                "osm":"https://www.openstreetmap.org/way/201210521"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41119700000,
+                    47.07873630000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "description":"Hier kann man Pause machen und erfährt gleichzeitig von aktuellen Veranstaltungen im Stadtteil.",
+                "image":"https://commons.wikimedia.org/wiki/File:Sitzmodul_Hundewiese.jpg",
+                "kategorie":"erleben",
+                "name":"Sitzen und Sonnen",
+                "osm":"https://www.openstreetmap.org/node/4787911184"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41174730000,
+                    47.07893410000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "description":"Stühle mitnehmen, sich in den Schatten setzen, entspannen und die Vierbeiner laufen lassen.",
+                "image":"https://commons.wikimedia.org/wiki/File:Hunde_Wiese.jpg",
+                "kategorie":"erleben; treffen",
+                "name":"Treffpunkt für Mensch und Hund",
+                "osm":"https://www.openstreetmap.org/way/161096783"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41253770000,
+                    47.07905180000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Lilienthalgasse 12, 8020 Graz",
+                "contact:email":"bw-lilienthalgasse@caritas-steiermark.at",
+                "contact:phone":"0676 88015568",
+                "contact:website":"http://www.caritas-steiermark.at/hilfe-angebote/seniorinnen/wohnen/betreutes-wohnen/graz-lilienthalgasse/",
+                "description":"Betreutes Wohnen für SeniorInnen",
+                "image":"https://commons.wikimedia.org/wiki/File:Lebensr%C3%A4ume_Caritas.jpg",
+                "kategorie":"treffen",
+                "name":"Lebensräume Caritas",
+                "osm":"https://www.openstreetmap.org/way/203357610"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40621790000,
+                    47.07435240000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 45 und 117",
+                "contact:email":"office@stahl-eberhardt.at",
+                "contact:phone":"0316 5972",
+                "contact:website":"http://www.stahl-eberhardt.at/home.html",
+                "description":"Stahlgroßhandel",
+                "image":"https://commons.wikimedia.org/wiki/File:Lager_Industrie.jpg",
+                "kategorie":"unternehmen",
+                "name":"Franz Eberhardt",
+                "osm":"https://www.openstreetmap.org/way/245081395"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41318550000,
+                    47.07507730000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Lilienthalgasse 6, 8020 Graz",
+                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Laura%27s_St%C3%BCberl.jpg",
+                "kategorie":"essen",
+                "name":"Café Laura's Stüberl",
+                "osm":"https://www.openstreetmap.org/node/4587217902"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40700240000,
+                    47.07429920000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 42, 8020 Graz",
+                "contact:phone":"0316 583419",
+                "contact:website":"http://www.das-wirtshaus.at",
+                "description":"Ein Gasthaus mit über 60 Jahre Tradition. Tipp: Klachlsuppe mit Heidensterz und die hausgemachte Saure Sulz.",
+                "kategorie":"essen",
+                "name":"Roschitz - Das Wirtshaus",
+                "opening_hours":"Mo-Sa 9:00 - 22:00; So 9:00 - 24:00; Feiertage 9:00 - 19:00",
+                "osm":"https://www.openstreetmap.org/node/365547599"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40317210000,
+                    47.07313420000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 32, 8020 Graz",
+                "kategorie":"essen",
+                "name":"Kebaphaus Eggenberg",
+                "osm":"https://www.openstreetmap.org/node/2307853229"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40481110000,
+                    47.07306330000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Alte Poststraße 136",
+                "contact:email":"stmk@bbrz.at",
+                "contact:phone":"0316 577674",
+                "contact:website":"http://www.bbrz.at",
+                "description":"Beruflichse Bildungs- und Rehabilitationszentrum",
+                "image":"https://commons.wikimedia.org/wiki/File:Bbrz.jpg",
+                "kategorie":"unternehmen",
+                "name":"BBRZ Reha GmbH",
+                "osm":"https://www.openstreetmap.org/node/2530764004"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40876010000,
+                    47.07102510000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Hofbauerplatz",
+                "description":"Hier bieten viele Bauern aus der Umgebung ihre Köstlichkeiten an: von Obst und Gemüse bis zu Fleisch- und Fischspezialitäten. Der komplette Markt ist überdacht.",
+                "kategorie":"kaufen",
+                "name":"Bauernmarkt Eggenberg",
+                "opening_hours":"Mi und Sa 6:00-13:00",
+                "osm":"https://www.openstreetmap.org/way/160782516"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40263850000,
+                    47.07220380000
                 ]
             }
         },
@@ -1547,8 +930,8 @@
             "type":"Feature",
             "properties":{
                 "addr:housenumber":"Waldertgasse 11b, 8020 Graz",
-                "description":"Teilzeitbetreutes Wohnen",
                 "contact:website":"lebenshilfen-sd.at/wohnen/teilzeitbetreutes_wohnen/wohnverbund_graz_nord",
+                "description":"Teilzeitbetreutes Wohnen",
                 "kategorie":"treffen",
                 "name":"Lebenshilfe"
             },
@@ -1563,11 +946,49 @@
         {
             "type":"Feature",
             "properties":{
+                "addr:housenumber":"Alte Poststraße 114, 8020 Graz",
+                "contact:phone":"0316 5825070",
+                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Espresso_Irena.jpg",
+                "kategorie":"essen",
+                "name":"Café Espresso Irena",
+                "osm":"https://www.openstreetmap.org/node/2272080046"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40770170000,
+                    47.07401200000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Peter-Tunner-Gasse 45, 8020 Graz",
+                "contact:email":"salon@friseur-leitinger.at",
+                "contact:website":"http://www.friseur-leitinger.at",
+                "description":"Friseur",
+                "kategorie":"kaufen",
+                "name":"Modefriseur Leitinger",
+                "opening_hours":"Mo-Fr 8:30-18:00; Sa 8:00-13:00; Di geschlossen",
+                "osm":"https://www.openstreetmap.org/node/3590611712"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40401000000,
+                    47.08103240000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "addr:housenumber":"Rochelgasse 26, 8020 Graz",
                 "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Vigo.jpg",
-                "osm":"https://www.openstreetmap.org/node/2307853350",
                 "kategorie":"essen",
-                "name":"Café Vigo"
+                "name":"Café Vigo",
+                "osm":"https://www.openstreetmap.org/node/2307853350"
             },
             "geometry":{
                 "type":"Point",
@@ -1580,20 +1001,597 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:phone":"0316 572139",
-                "contact:email":"vam@bilfinger.com",
-                "addr:housenumber":"Waagner-Biro-Straße 47",
-                "description":"Anlagentechnik",
-                "osm":"https://www.openstreetmap.org/node/4764185615",
-                "contact:website":"www.vam.bilfinger.com",
-                "kategorie":"unternehmen",
-                "name":"VAM Anlagentechnik"
+                "addr:housenumber":"Laudongasse 25, 8020 Graz",
+                "contact:email":"siesta@buysino.at",
+                "contact:phone":"0316 818506",
+                "kategorie":"essen",
+                "name":"Pizzeria Siesta",
+                "opening_hours":"Mo-So 6:00 - 2:00",
+                "osm":"https://www.openstreetmap.org/node/2299236376"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41311680000,
-                    47.07528900000
+                    15.40934290000,
+                    47.07295150000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 42, 8020 Graz",
+                "contact:email":"graz-st-vinzenz@graz-seckau.at",
+                "contact:phone":"0316 582402",
+                "contact:website":"http://www.stvinzenz.at",
+                "description":"Auch außerhalb der Messen lädt die Pfarre Interessierte zu zahlreichen Veranstaltungen wie Filmvorführungen (VinziAle), Konzerten und Vorträgen, sowie zu Spaziergängen und Wanderungen ein.",
+                "image":"https://commons.wikimedia.org/wiki/File:Pfarre_St._Vinzenz.jpg",
+                "kategorie":"treffen",
+                "name":"Pfarre St. Vinzenz",
+                "osm":"https://www.openstreetmap.org/way/90628414"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40510140000,
+                    47.07455470000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Lilienthalgasse 7, 8020 Graz",
+                "contact:phone":"0316 581159",
+                "description":"Friseur",
+                "kategorie":"kaufen",
+                "name":"Salon Evelyn",
+                "opening_hours":"Mo-Fr 8:30-17:00",
+                "osm":"https://www.openstreetmap.org/node/4587217901"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40682620000,
+                    47.07416360000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 47",
+                "contact:email":"office@ms-stahlhandel.at",
+                "contact:phone":"0662 4315561610",
+                "contact:website":"http://www.ms-stahlhandel.at/index.php?id=122",
+                "description":"Stahlgroßhandel",
+                "kategorie":"unternehmen",
+                "name":"Mechel Service"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41310000000,
+                    47.07533000000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Dreierschützengasse 10, 8020 Graz",
+                "description":"Ein gemütlicher Sitzbereich aus Holz. Durch schattenspendende Bäume ist es auch an heißen Tagen angenehm kühl und lädt zu einer kurzen Pause ein.",
+                "image":"https://commons.wikimedia.org/wiki/File:Sitzecke_Eggenlend.jpg",
+                "kategorie":"erleben; treffen",
+                "name":"Sitzecke",
+                "osm":"https://www.openstreetmap.org/node/4774465242"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40997590000,
+                    47.07824140000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Alte Poststraße 109, 8020 Graz",
+                "contact:website":"http://www.billa.at",
+                "description":"Lebensmittelhandel",
+                "kategorie":"kaufen",
+                "name":"Billa",
+                "opening_hours":"Mo-Fr 7:15-19:30 Sa7:15-18:00",
+                "osm":"https://www.openstreetmap.org/way/156375969"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40821640000,
+                    47.07501540000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Alte Poststraße 130-132, 8020 Graz",
+                "contact:email":"office@neubauer-zweirad.at",
+                "contact:phone":"0316 581300",
+                "contact:website":"http://www.neubauer-zweirad.at",
+                "description":"Fahrradhandel und Reparaturen",
+                "image":"https://commons.wikimedia.org/wiki/File:ZEG.jpg",
+                "kategorie":"kaufen",
+                "name":"ZEG Neubauer",
+                "opening_hours":"Mo-Fr 8:00 – 12:00 und 14:30 – 18:00; Sa 8:00 – 12:00",
+                "osm":"https://www.openstreetmap.org/node/288172339"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40841110000,
+                    47.07185140000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"juzeggenlend@wiki.at",
+                "contact:phone":"0676 5219746",
+                "description":"Wenn der Parkplatz nicht für Veranstaltungen genutzt wird, wird gekickt! Die Fußballtore kann man gratis im vor.ort cafè oder im JUZ Eggenlend während der Öffnungszeiten ausleihen.",
+                "kategorie":"erleben",
+                "name":"Parkplatz der Helmut List Halle",
+                "opening_hours":"Stadtteilmanagement vor.ort: Mo 17:30 - 19:00 und Mi 10:00 - 12:00 Uhr JUZ EggenLend: Di – Fr: 13:00 – 19:00 Uhr",
+                "osm":"https://www.openstreetmap.org/way/82229251"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41047350000,
+                    47.07916130000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818 /",
+                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
+                "description":"In den nächsten Jahren entstehen ein großer öffentlicher Park, öffentliche Plätze und eine Flaniermeile. Die Details werden gemeinsam mit allen Beteiligten und interessierten BürgerInnen in Rahmen von Workshops entwickelt. Bei Interesse nehmen Sie bitte Kontakt mit uns auf! Die Umsetzung erfolgt jeweils nach dem Baufortschritt der unterschiedlichen Quartiere.",
+                "image":"https://commons.wikimedia.org/wiki/File:Öffentlicher_Raum_Wettbewerb.jpg",
+                "kategorie":"zukunft",
+                "name":"Öffentlicher Park und Öffentlicher Raum",
+                "osm":"https://www.openstreetmap.org/way/352749430"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40947380000,
+                    47.08055000000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Rochelgasse 14, 8020 Graz",
+                "contact:email":"putzerei.schneiderei@aon.at",
+                "contact:phone":"0316 581121",
+                "contact:website":"http://www.putzerei-schneiderei.at",
+                "description":"Die Putzerei/Schneiderei Fuchsbichler repariert, pflegt, wäscht und reinigt Ihre Wäsche, Kleidung und Textilien schonend und umweltbewusst.",
+                "image":"https://commons.wikimedia.org/wiki/File:Fuchsbichler.jpg",
+                "kategorie":"kaufen",
+                "name":"Putzerei/Schreiderei Fuchsbichler",
+                "opening_hours":"Mo-Fr  8:00-18:00",
+                "osm":"https://www.openstreetmap.org/node/2307853212"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40644560000,
+                    47.07364120000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 98",
+                "contact:email":"martin.hauer@avl.com",
+                "description":"IT",
+                "kategorie":"unternehmen",
+                "name":"AVL-IT-Comp.",
+                "osm":"https://www.openstreetmap.org/way/29716557"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41194250000,
+                    47.07966930000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 32, 8020 Graz",
+                "contact:phone":"0650 4900342",
+                "contact:website":"http://www.sammelwerk-graz.at",
+                "description":"Raritäten & Hochwertige Gebrauchtwaren",
+                "image":"https://commons.wikimedia.org/wiki/File:Sammelwerk.jpg",
+                "kategorie":"kaufen",
+                "name":"Sammelwerk",
+                "opening_hours":"Di 14:00-18:00, Do 10:00-14:00, Fr 14:00-18:00, Sa 09:00-15:00 oder nach Vereinbarung",
+                "osm":"https://www.openstreetmap.org/node/3786680468"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40483560000,
+                    47.07366620000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:phone":"+43 316 587710",
+                "contact:website":"http://www.bokan-exclusiv.at/de-at/cafe/",
+                "description":"Ein Cafè mit österreichischer Kaffeehaustradition. Genieße einen Kuchen oder einen Eisbecher auf der Terrasse! Tipp: Großes Frühstücksangebot bis 12 Uhr - vom Wiener Frühstück, über ein Sportlerfrühstück bis hin zu einem American Breakfast.",
+                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Haus.jpg",
+                "kategorie":"essen",
+                "name":"Café Polanz",
+                "opening_hours":"Mo-Sa 7:30-1:00, So 8:30-1:00",
+                "osm":"https://www.openstreetmap.org/way/161333727"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40888320000,
+                    47.08254750000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818 /",
+                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
+                "description":"Ein lebendiges neues Zentrum für den gesamten Stadtteil, wo neben Wohnungen auch Geschäfte (Lebensmittel, Dienstleistungen, das Stadtteilmanagement, etc.) zu finden sind. Neben begrünten Dächern werden hier auch mietbare Dachgärten gebaut. Vom Aussehen her erinnert das Zentrum an alten Industriehallen – ein Architekturwettbewerb hat dieses Projekt als Sieger gekürt.",
+                "image":"https://commons.wikimedia.org/wiki/File:Baufeld_Süd.png",
+                "kategorie":"zukunft",
+                "name":"Baufeld Süd",
+                "osm":"https://www.openstreetmap.org/way/495193886"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41250180000,
+                    47.07910570000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"vorort@stadtlaborgraz.at",
+                "contact:phone":"0676 40 68 818 /",
+                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
+                "description":"Hier entstehen: Wohnraum für 252 Studierende und mehr als 100 Wohnungen, ein Café, ein Kindergarten und eine Kinderkrippe. Das Studentenheim soll im Herbst 2017 eröffnet werden.",
+                "image":"http://commons.wikimedia.org/wiki/File:Cool_City.jpg",
+                "kategorie":"zukunft",
+                "name":"Cool City",
+                "osm":"https://www.openstreetmap.org/way/492276900"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41005310000,
+                    47.07967660000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "description":"Ein beliebtes Ausflugziel der StadtteilbewohnerInnen. Hier läßt sich der Blick über die Stadt vom 750 Meter hohen Fürstenstand aus wunderbar genießen.",
+                "image":"https://de.wikipedia.org/wiki/Plabutsch#/media/File:Plabutsch.jpg",
+                "kategorie":"erleben",
+                "name":"Plabutsch",
+                "osm":"https://www.openstreetmap.org/node/271779032"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.38515410000,
+                    47.09040860000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 98a, 8020 Graz",
+                "contact:phone":"0316 584260",
+                "contact:website":"http://www.helmut-list-halle.com",
+                "description":"Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.",
+                "image":"https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
+                "kategorie":"treffen; unternehmen",
+                "name":"Helmut List Halle",
+                "osm":"https://www.openstreetmap.org/way/29716557"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41194250000,
+                    47.07966930000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 14-16, 8020 Graz",
+                "contact:email":"office@tischlerei-schadler.at",
+                "contact:phone":"316581319",
+                "contact:website":"tischlerei-schadler.at",
+                "description":"Personalisierte Möbelstücke und Unterstützung bei der Gestaltung von Lebensräumen",
+                "kategorie":"kaufen",
+                "name":"Schadler Tischlerei",
+                "opening_hours":"Mo-Do 8:00-12:00 und 13:00-16:00, Fr 8:00-12:00 oder nach Vereinbarung",
+                "osm":"https://www.openstreetmap.org/node/2972015728"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40664400000,
+                    47.07305340000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Alte Poststraße 116, 8020 Graz",
+                "contact:website":"http://www.facebook.com/BaranHandyShop/",
+                "description":"Hier kann man günstig Handys kaufen und verkaufen, Reparaturen in Auftrag geben und Zubehör für neue und gebrauchte Geräte erwerben.",
+                "image":"https://commons.wikimedia.org/wiki/File:Baran_Handy_Shop.jpg",
+                "kategorie":"kaufen",
+                "name":"Baran Handy Shop",
+                "opening_hours":"Mo-Fr 9:00-19:00, Sa 9:00-17:00",
+                "osm":"https://www.openstreetmap.org/node/2309348917"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40779800000,
+                    47.07370870000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Lilienthalgasse 24, 8020 Graz",
+                "contact:email":"kneipp@telering.at oder kkienreich@a1.net",
+                "contact:phone":"0316 581265",
+                "contact:website":"http://eggenberg.kneippbund.at/content/show/182/Aktuell.html",
+                "description":"Regelmäßige Wanderungen, wöchentliche Bewegungsangebote und andere Veranstaltungen für Mitglieder und Nichtmitglieder",
+                "kategorie":"erleben; treffen",
+                "name":"Kneipp Aktiv Club Eggenberg",
+                "osm":"https://www.openstreetmap.org/node/4774471859"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40462670000,
+                    47.07435270000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse, 8020 Graz",
+                "contact:website":"https://venuzle.at/anbieter/bezirkssportplatz-st-vinzenz/",
+                "description":"Ca. 7.800 m² Sportplatzflächen für jedes Alter: Tennis, Fußball, Basketball, Tischtennis. Wasserbrunnen sind vorhanden.",
+                "image":"https://commons.wikimedia.org/wiki/File:Bezirkssportplatz.jpg",
+                "kategorie":"erleben",
+                "name":"Bezirkssportplatz",
+                "opening_hours":"Die Öffentliche Nachtruhe 22:00 – 6:00",
+                "osm":"https://www.openstreetmap.org/way/94337860"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40435620000,
+                    47.07632380000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 2, 8020 Graz",
+                "contact:email":"vinzishop@vinzi.at",
+                "contact:phone":"0316 585807",
+                "contact:website":"http://www.vinzi.at/de/vinzishop-graz/",
+                "description":"Hier werden Sachspenden verkauft die abgegeben werden, wie Kleidungsstücke, Bücher, Kinderspielzeug und diverse Haushaltswaren. Mit dem Erlös werden die Einrichtungen der Vinzenzgemeinschaft Eggenberg unterstützt.",
+                "kategorie":"kaufen",
+                "name":"VinziShop",
+                "opening_hours":"Mo–Fr 10:00 - 18:00",
+                "osm":"https://www.openstreetmap.org/node/2307853328"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40798650000,
+                    47.07306640000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 22, 8020 Graz",
+                "contact:phone":"0316 576520",
+                "kategorie":"kaufen",
+                "name":"Trafik Brigitte Namor",
+                "osm":"https://www.openstreetmap.org/node/2307853313"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40490430000,
+                    47.07286310000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "contact:email":"info.graz@pappas.at",
+                "contact:website":"http://www.pappas.at",
+                "description":"Neuwagen & Gebrauchtwagen",
+                "kategorie":"unternehmen",
+                "name":"Mercedes Wittwar",
+                "osm":"https://www.openstreetmap.org/way/95944483"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40913890000,
+                    47.08217790000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 32, 8020 Graz",
+                "contact:phone":"0316 583633",
+                "contact:website":"http://www.schluesseldienst-aufsperrdienst.at",
+                "kategorie":"kaufen",
+                "name":"Eggenberger Schlüsseldienst",
+                "opening_hours":"Mo–Fr 08:30 – 12:30 und 15:00 – 17:30; Donnerstag nachmittags und Samstag geschlossen",
+                "osm":"https://www.openstreetmap.org/node/1101682560"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40452300000,
+                    47.07306670000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Georgigasse 36, 8020 Graz",
+                "contact:phone":"0650 8704687",
+                "contact:website":"http://www.facebook.com/Ćevabdžinica-Hodžić-Graz-718472774884044/",
+                "description":"Eine wichtige Adresse für Liebhaber der Balkan-Küche. Tipp: Besonders beliebt sind Grillspezialitäten und hausgemachte Ćevapčići.",
+                "kategorie":"essen",
+                "name":"Restaurant Ćevabdžinica Hodžić",
+                "osm":"https://www.openstreetmap.org/node/4432416579"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40411680000,
+                    47.07308310000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 65, 8020 Graz",
+                "contact:website":"http://www.meine-kinder.at/i/spielplatz-konsumwiese-graz/",
+                "description":"Ein eingezäunter Spielplatz mit einer Rutsche, einer Korbschaukel, einer Sandkiste und einem Kletterturm. Sitzmöglichkeiten sind vorhanden.",
+                "image":"https://commons.wikimedia.org/wiki/File:Konsumwiese_Waagner-Biro.jpg",
+                "kategorie":"erleben; treffen",
+                "name":"Konsumwiese",
+                "osm":"https://www.openstreetmap.org/way/161095625"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41143420000,
+                    47.07826220000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "description":"Ein Treffpunkt von Jugendlichen und beliebter Schattenspender im Sommer",
+                "image":"https://commons.wikimedia.org/wiki/File:Baum_vor_der_Schule.jpg",
+                "kategorie":"erleben; treffen",
+                "name":"Baum vor der Schule",
+                "osm":"https://www.openstreetmap.org/node/4774462608"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41071080000,
+                    47.07834920000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Peter-Tunner-Gasse 34, 8020 Graz",
+                "contact:phone":"0316 571044",
+                "description":"Zeitschriften, Tabakwaren, Lotto und mehr",
+                "kategorie":"kaufen",
+                "name":"Trafik",
+                "opening_hours":"Mo, Di, Do, Fr 7:00 - 12:30 und 14:30 - 18:00, Mi 7:00 - 12:30 und 14:30 - 18:30, Sa 7:00 - 12.00;",
+                "osm":"https://www.openstreetmap.org/node/1251189841"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40436570000,
+                    47.08151500000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:housenumber":"Vinzenzgasse 45, 8020 Graz",
+                "kategorie":"essen",
+                "name":"Café Stub'n",
+                "osm":"https://www.openstreetmap.org/way/221771125"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.40474190000,
+                    47.07509630000
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "description":"Freies WLAN im Stadtteil",
+                "image":"https://commons.wikimedia.org/wiki/File:Vor.ort.jpg",
+                "kategorie":"erleben",
+                "name":"vor.ort cafè + Cityaccess",
+                "osm":"https://www.openstreetmap.org/node/3986854239"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41103260000,
+                    47.07905620000
                 ]
             }
         }
