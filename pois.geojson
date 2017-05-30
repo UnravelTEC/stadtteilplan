@@ -330,7 +330,6 @@
         {
             "type":"Feature",
             "properties":{
-                "addr:housenumber":"Waagner-Biro-Straße 97",
                 "contact:email":"office@menatwork.at",
                 "contact:phone":"0676 4000004",
                 "contact:website":"http://www.menatwork.at",
@@ -397,25 +396,6 @@
                 "coordinates":[
                     15.40401000000,
                     47.08103240000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Alte Poststraße 118, 8020 Graz",
-                "contact:phone":"0676 9114720",
-                "contact:website":"http://www.facebook.com/HavanaBalkan/",
-                "kategorie":"treffen",
-                "name":"Havana Club Balkan",
-                "opening_hours":"Fr 17:00-3:00; Sa 17:00-3:00",
-                "osm":"https://www.openstreetmap.org/node/4799671013"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40981590000,
-                    47.07407890000
                 ]
             }
         },
@@ -1177,7 +1157,6 @@
         {
             "type":"Feature",
             "properties":{
-                "addr:housenumber":"Alte Poststraße 103, 8020 Graz",
                 "contact:website":"http://www.hofer.at",
                 "description":"Lebensmittelhandel",
                 "kategorie":"kaufen",
@@ -1340,23 +1319,6 @@
                 "coordinates":[
                     15.41103260000,
                     47.07905620000
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "addr:housenumber":"Rochelgasse 26, 8020 Graz",
-                "image":"https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Vigo.jpg",
-                "kategorie":"essen",
-                "name":"Café Vigo",
-                "osm":"https://www.openstreetmap.org/node/2307853350"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    15.40521080000,
-                    47.07355900000
                 ]
             }
         },
