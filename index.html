@@ -93,10 +93,11 @@
     <% if(properties['addr:housenumber'] || properties['addr:housename'] || properties['addr:street'] || properties['addr:postcode'] || properties['addr:city']) { %>
       <h3><%- T("address") %></h3>
     <p>
+      <%- (properties['addr:housename']) ? properties['addr:housename'] + "," : "" %> <%- properties['addr:street'] %>
       <span
         <% if(properties['addr:housenumber_source'] == "osm") { %> class='osm' <% } %>
       > <%- properties['addr:housenumber'] %> </span>
-      <%- (properties['addr:housename']) ? properties['addr:housename'] + "," : "" %> <%- properties['addr:street'] %><br>
+      <br>
       <%- properties['addr:postcode'] %> <%- properties['addr:city'] %> <%- (properties['addr:country']) ? "," : "" %> <%- properties['addr:country'] %>
     </p>
     <% } %>
@@ -164,13 +165,6 @@
           </td>
         </tr>
         <% } %>
-        <tr>
-          <td>
-            <a href='<%- properties['_uri'] %>' target='_blank'>TransforMap</a> (JSON)
-          </td>
-          <td>
-          </td>
-        </tr>
       </table>
 
   </script>
