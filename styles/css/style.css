@@ -30,9 +30,9 @@ h1,h2,h3,h4,h5,h6{text-align:center}
 #map-menu-container ul#map-menu span.toggle{padding:5px 0 5px 10px;display:block;height:100%;cursor:pointer}
 #map-menu-container ul#map-menu span.toggle.selected{background:#1f3050;font-style:italic}
 #map-menu-container ul#map-menu .toggle-subcategories{padding-left:20px}
-#map-menu-container ul#map-menu .category ul{display:none}
+#map-menu-container ul#map-menu ai .category ul{display:none}
 #map-menu-container ul#map-menu ul.subcategories{padding-left:10px}#map-menu-container ul#map-menu ul.subcategories li.list-group-item:last-child{border-bottom:0}
-#map-menu-container ul#map-menu ul.type-of-initiative{font-weight:normal;letter-spacing:normal;text-align:left;display:none;background:#fcec74;position:fixed;left:260px;top:0;z-index:10;-webkit-padding-start:0;padding:0 15px;border-top-right-radius:5px;border-bottom-right-radius:5px}#map-menu-container ul#map-menu ul.type-of-initiative .list-group-item{background:#fcec74;padding:5px 0 5px 10px;color:#000;border-top:1px solid #fff}
+#map-menu-container ul#map-menu ul.type-of-initiative{font-weight:normal;letter-spacing:normal;text-align:left;display:none;background:#fcec74;position:fixed;left:260px;top:0;z-index:10;-webkit-padding-start:0;padding:0 15px;border-top-right-radius:5px;border-bottom-right-radius:5px}#map-menu-container ul#map-menu ul.type-of-initiative .list-group-item{display:none;background:#fcec74;padding:5px 0 5px 10px;color:#000;border-top:1px solid #fff}
 #map-menu-container ul#map-menu ul.type-of-initiative .list-group-item:hover{cursor:pointer}
 #map-menu-container ul#map-menu ul.type-of-initiative .list-group-item:first-child{border-top:0}
 #map-menu-container ul#map-menu ul.type-of-initiative .list-group-item.selected{background:#f2bd0b;font-style:italic}
