@@ -115,7 +115,7 @@ function initMap() {
 
   new L.Control.Zoom({ position: 'topright' }).addTo(map);
 
-  pruneClusterLayer = new PruneClusterForLeaflet(60,20);
+  pruneClusterLayer = new PruneClusterForLeaflet(30,20);
 
   /* overwrite function to create popup on the fly */
   pruneClusterLayer.PrepareLeafletMarker = function(leafletMarker, data) {
@@ -180,9 +180,15 @@ function addPOIsToMap(geoJSONfeatureCollection) {
       return templatePopUpFunction(data);
     }
 
+    // different icons
+    var css_class = "";
+    if(feature.properties.kategorie) {
+      css_class = feature.properties.kategorie.split(";")[0];
+    }
+
     var pdata = {
       icon:  new L.divIcon({
-        className: 'my-div-icon',
+        className: 'my-div-icon ' + css_class,
         iconSize:30,
         html:"<div><div>" + feature.properties.name + "</div></div>"
       }),

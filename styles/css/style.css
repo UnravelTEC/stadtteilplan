@@ -15,6 +15,14 @@ h1,h2,h3,h4,h5,h6{text-align:center}
 #map-tiles .leaflet-popup .leaflet-popup-content-wrapper .leaflet-popup-content p.contact{line-height:2em}#map-tiles .leaflet-popup .leaflet-popup-content-wrapper .leaflet-popup-content p.contact img{width:16px;margin-bottom:-4px;margin-right:6px;display:inline}
 #map-tiles .leaflet-popup .leaflet-popup-content-wrapper .leaflet-popup-content h3{margin:0;padding:5px 15px 0;text-align:left;font-size:12px;font-weight:bold}
 #map-tiles .my-div-icon{width:25px !important;height:40px;background-image:url("../../bower_components/leaflet/dist/images/marker-green.png");margin-top:-40px}#map-tiles .my-div-icon div{display:none}
+#map-tiles .my-div-icon.kaufen,#map-tiles .my-div-icon.erleben,#map-tiles .my-div-icon.essen,#map-tiles .my-div-icon.treffen,#map-tiles .my-div-icon.unternehmen,#map-tiles .my-div-icon.zukunft,#map-tiles .my-div-icon.geschichte{width:24px !important;height:24px;margin-top:-24px}
+#map-tiles .my-div-icon.erleben{background-image:url("../../assets/dreieck24.png")}
+#map-tiles .my-div-icon.essen{background-image:url("../../assets/stern24.png")}
+#map-tiles .my-div-icon.kaufen{background-image:url("../../assets/sechseck24.png")}
+#map-tiles .my-div-icon.treffen{background-image:url("../../assets/raute24.png")}
+#map-tiles .my-div-icon.zukunft{background-image:url("../../assets/rechteck24.png")}
+#map-tiles .my-div-icon.geschichte{background-image:url("../../assets/kreis24.png")}
+#map-tiles .my-div-icon.unternehmen{background-image:url("../../assets/rundesrechteck24.png")}
 #map-tiles .my-div-icon:hover>div{display:block;width:200px;z-index:15000;margin-left:-85px;position:absolute;bottom:35px}#map-tiles .my-div-icon:hover>div div{display:block;margin:0 auto;background:rgba(255,255,255,0.8);text-align:center;width:fit-content;border:1px solid #1f3050;border-radius:5px;padding:5px 8px}
 #map-tiles .leaflet-control-layers-toggle{width:26px;height:26px;background-size:22px 22px}
 #map-tiles #forkme{position:absolute;bottom:14px;left:-70px;display:block;width:300px;height:33px;transform:rotate(45deg);overflow:hidden}
