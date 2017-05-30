@@ -1243,9 +1243,9 @@ var dictionary = {
   en: {
     "en_adv_filters" : "Enable Advanced Filter Mode",
     "dis_adv_filters" : "Disable Advanced Filter Mode",
-    "address" : "Address",
-    "contact" : "Contact",
-    "opening_hours" : "Opening hours",
+    "address" : "Addresse",
+    "contact" : "Kontakt",
+    "opening_hours" : "Öffnungszeiten",
     "type_of_initiative" : "Type of Initiative",
     "kategorie" : "Kategorie",
     "reset_filters" : "Reset filters",
