@@ -115,7 +115,7 @@ function initMap() {
 
   new L.Control.Zoom({ position: 'topright' }).addTo(map);
 
-  pruneClusterLayer = new PruneClusterForLeaflet(30,20);
+  pruneClusterLayer = new PruneClusterForLeaflet(60,20);
 
   /* overwrite function to create popup on the fly */
   pruneClusterLayer.PrepareLeafletMarker = function(leafletMarker, data) {

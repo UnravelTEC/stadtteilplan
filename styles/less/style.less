@@ -17,7 +17,7 @@
 @start5: #95D5D2; /* bright blue */
 @start6: #1F3050; /* dark blue */
 
-@menuwidth: 260px;
+@menuwidth: 230px;
 
 a,
 a:link {
@@ -174,30 +174,33 @@ Basic map and pop up styles
   .my-div-icon.unternehmen,
   .my-div-icon.zukunft,
   .my-div-icon.geschichte {
-    width:24px !important;
-    height:24px;
+    width:32px !important;
+    height:32px;
     margin-top:-24px;
+    background:no-repeat;
   }
   .my-div-icon.erleben {
-    background-image:url("../../assets/dreieck24.png");
+    background-image:url("../../assets/dreieck32.png");
   }
   .my-div-icon.essen {
-    background-image:url("../../assets/stern24.png");
+    background-image:url("../../assets/stern32.png");
   }
   .my-div-icon.kaufen {
-    background-image:url("../../assets/sechseck24.png");
+    background-image:url("../../assets/sechseck32.png");
   }
   .my-div-icon.treffen {
-    background-image:url("../../assets/raute24.png");
+    background-image:url("../../assets/raute32.png");
   }
   .my-div-icon.zukunft {
-    background-image:url("../../assets/rechteck24.png");
+    background-image:url("../../assets/viereck32.png");
+    background-size:24px 24px;
   }
   .my-div-icon.geschichte {
-    background-image:url("../../assets/kreis24.png");
+    background-image:url("../../assets/kreis32.png");
   }
   .my-div-icon.unternehmen {
-    background-image:url("../../assets/rundesrechteck24.png");
+    background-image:url("../../assets/blume32.png");
+    background-size:28px 28px;
   }
 
 /*  .my-div-icon:before {
@@ -326,20 +329,54 @@ Map menu styling
             ul.subcategories {
               background:@blue-dark;
             }
- 
+            background-position:right 10px center;
+            background-repeat:no-repeat;
         }
         li.list-group-item.category:first-child {
+            background-image:url("../../assets/dreieck32.png");
             border-top: 1px solid #aaa;
+            background-size:28px 20px;
+            background-position:right 6px center;
+        }
+        li.list-group-item.category + .category {
+            background-image:url("../../assets/stern32.png");
+            background-size:24px 24px;
+            background-position:right 8px center;
+        }
+        li.list-group-item.category + .category + .category {
+            background-image:url("../../assets/viereck32.png");
+            background-size:20px 20px;
+            background-position:right 11px center;
+        }
+        li.list-group-item.category + .category + .category + .category {
+            background-image:url("../../assets/raute32.png");
+            background-size:24px 24px;
+            background-position:right 8px center;
+        }
+        li.list-group-item.category + .category + .category + .category + .category {
+            background-image:url("../../assets/blume32.png");
+            background-size:22px 22px;
+            background-position:right 9px center;
+        }
+        li.list-group-item.category + .category + .category + .category + .category + .category {
+            background-image:url("../../assets/sechseck32.png");
+            background-size:24px 20px;
+        }
+        li.list-group-item.category + .category + .category + .category + .category + .category + .category {
+            background-image:url("../../assets/kreis32.png");
+            background-size:20px 20px;
+            background-position:right 11px center;
         }
         /* These elements are spans inside list group items, to toggle subcategories */
         span.toggle {
             padding: 5px 0 5px 10px;
             display:block;
+            width:180px;
             height:100%;
             cursor: pointer;
         }
         span.toggle.selected {
-            background:@blue-dark;
+            background-color:@blue-dark;
             font-style:italic;
         }
         .toggle-subcategories {
