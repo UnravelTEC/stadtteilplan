@@ -836,7 +836,7 @@
             "type":"Feature",
             "properties":{
                 "description":"Ein beliebtes Ausflugziel der StadtteilbewohnerInnen. Hier läßt sich der Blick über die Stadt vom 750 Meter hohen Fürstenstand aus wunderbar genießen.",
-                "image":"https://de.wikipedia.org/wiki/Plabutsch#/media/File:Plabutsch.jpg",
+                "image":"https://upload.wikimedia.org/wikipedia/de/thumb/7/79/Plabutsch.jpg/800px-Plabutsch.jpg",
                 "kategorie":"erleben",
                 "name":"Plabutsch",
                 "osm":"https://www.openstreetmap.org/node/271779032"
