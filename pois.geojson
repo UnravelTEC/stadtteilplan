@@ -138,7 +138,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Die Waager Biro hat seine eigene Bank gehabt, die Lender Bank, […]  bei der Waldertgasse da, wo jetzt das Massagezentrum ist.",
+                "description":"„Die Waager Biro hat seine eigene Bank gehabt, die Lender Bank, […]  bei der Waldertgasse da, wo jetzt das Massagezentrum ist.“",
                 "kategorie":"geschichte",
                 "name":"Lender Bank"
             },
@@ -159,7 +159,7 @@
                 "description":"Kleines Kaffeehaus mit Mittagsmenü. Für kleine Gruppen werden auf Bestellung auch spezielle Gerichte gekocht.",
                 "kategorie":"essen",
                 "name":"Cafè Alt Eggenberg",
-                "opening_hours":"Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
+                "opening_hours":"Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
                 "osm":"https://www.openstreetmap.org/node/2307853184"
             },
             "geometry":{
@@ -173,7 +173,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Das Haus mit dem grauen Dach das ist als erstes gestanden. Und das was nebenan ist, also  Nummer 76 und 74, das hat es noch nicht gegeben. Das hat ausgeschaut, 7 Stocke, wie ein Turm.",
+                "description":"„Das Haus mit dem grauen Dach das ist als erstes gestanden. Und das was nebenan ist, also  Nummer 76 und 74, das hat es noch nicht gegeben. Das hat ausgeschaut, 7 Stocke, wie ein Turm.“",
                 "kategorie":"geschichte",
                 "name":"Eisenbahnsiedlung"
             },
@@ -262,7 +262,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Die Waagner-Biro hat das gesamte Areal von der Peter-Tunner-Gasse bis zur List-Halle und auch in der List-Halle war einmal Waagner-Biro. […] Großer Auftrag waren die Brücken […] in Stahlkonstruktion.",
+                "description":"„Die Waagner-Biro hat das gesamte Areal von der Peter-Tunner-Gasse bis zur List-Halle und auch in der List-Halle war einmal Waagner-Biro. […] Großer Auftrag waren die Brücken […] in Stahlkonstruktion.“",
                 "kategorie":"geschichte",
                 "name":"Firma Waagner-Biro / Bückenbau"
             },
@@ -344,7 +344,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Auf der Linken Seite der Eisenbahn hat es die Grazer Glasfabrik gegeben. Die hat die Flaschen erzeugt, also Bierflaschen.",
+                "description":"„Auf der Linken Seite der Eisenbahn hat es die Grazer Glasfabrik gegeben. Die hat die Flaschen erzeugt, also Bierflaschen.“",
                 "kategorie":"geschichte",
                 "name":"Grazer Glasfabrik"
             },
@@ -378,7 +378,7 @@
             "properties":{
                 "contact:phone":"0316 581212",
                 "contact:website":"http://www.klescher.at‎",
-                "description":"Uriges Cafè und beliebter Tortenbäcker. Tipp: Neben Torten und Kuchen wird hier auch hauseigenes Eis verkauft. Die Milch dafür kommt von einem Bauernhof aus Thal bei Graz.",
+                "description":"Uriges Cafè und beliebter Tortenbäcker. Tipp: Neben Torten und Kuchen wird hier auch hauseigenes Eis verkauft. Die Milch dafür kommt von einem Bauernhof aus Thal bei Graz.",
                 "image":"https://commons.wikimedia.org/wiki/File:Konditorei_Klescher.jpg",
                 "kategorie":"essen",
                 "name":"Konditorei Klescher",
@@ -557,7 +557,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Da wo jetzt das Borg ist, waren alles Gärten, da war vis a vis so ein Kirschenbaum, das waren alles Gärten. Bis zur Dreierschützengasse hinauf.",
+                "description":"„Da wo jetzt das Borg ist, waren alles Gärten, da war vis a vis so ein Kirschenbaum, das waren alles Gärten. Bis zur Dreierschützengasse hinauf.“",
                 "kategorie":"geschichte",
                 "name":"Gärten"
             },
@@ -627,7 +627,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Ich weiß zum Beispiel das früher ein Sportplatz in der Waldertgasse war […] und quasi von den Leuten, die sind dann öfter in ihren Gärten gesessen und haben beim Fußball spielen zugeschaut.",
+                "description":"„Ich weiß zum Beispiel das früher ein Sportplatz in der Waldertgasse war […] und quasi von den Leuten, die sind dann öfter in ihren Gärten gesessen und haben beim Fußball spielen zugeschaut.“",
                 "kategorie":"geschichte",
                 "name":"Fußballplatz"
             },
@@ -721,7 +721,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Und daneben war der Eislaufplatz. Da haben sie gespritzt immer im Winter, da sind eisgelaufen, Kinder und so.",
+                "description":"„Und daneben war der Eislaufplatz. Da haben sie gespritzt immer im Winter, da sind eisgelaufen, Kinder und so.“",
                 "kategorie":"geschichte",
                 "name":"Eislaufplatz"
             },
@@ -756,7 +756,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Die Firma Waagner-Biro […] hat eine Handballmannschaft gehab. Ich weiß nicht ob sie da in der höchsten Liga gespielt hat, aber eine sehr gute Handballmannschaft.",
+                "description":"„Die Firma Waagner-Biro […] hat eine Handballmannschaft gehab. Ich weiß nicht ob sie da in der höchsten Liga gespielt hat, aber eine sehr gute Handballmannschaft.“",
                 "kategorie":"geschichte",
                 "name":"Feldballplatz"
             },
@@ -771,7 +771,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Da war ein riesiger Weichselbaum, den hat dann der Sturm zerrissen.",
+                "description":"„Da war ein riesiger Weichselbaum, den hat dann der Sturm zerrissen.“",
                 "kategorie":"geschichte",
                 "name":"Weichselbaum"
             },
@@ -806,7 +806,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Dieses Gasthaus das jetzt Calamar heißt, ist eigentlich Gasthaus Kogler gewesen und ist seit ungefähr 1905 in Familienbesitz der Familie Kogler.",
+                "description":"„Dieses Gasthaus das jetzt Calamar heißt, ist eigentlich Gasthaus Kogler gewesen und ist seit ungefähr 1905 in Familienbesitz der Familie Kogler.“",
                 "kategorie":"geschichte",
                 "name":"Gasthaus Kogler"
             },
@@ -861,7 +861,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Das war eher dieser Eindruck der großen Industrien entlang der Eisenbahn mit den großen Werkshallen und dann im Süden der Bahnhof.",
+                "description":"„Das war eher dieser Eindruck der großen Industrien entlang der Eisenbahn mit den großen Werkshallen und dann im Süden der Bahnhof.“",
                 "kategorie":"geschichte",
                 "name":"Industriehallen"
             },
@@ -912,7 +912,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Da in der Mitte wo das rote Haus hinauf geht, da ist eine Straße hinauf gegangen, da ist ein Bauer gewesen.",
+                "description":"„Da in der Mitte wo das rote Haus hinauf geht, da ist eine Straße hinauf gegangen, da ist ein Bauer gewesen.“",
                 "kategorie":"geschichte",
                 "name":"Bauernhaus"
             },
@@ -947,7 +947,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Da vis a vis, da war ein bisschen Hügel, da sind die Kinder Schlitten gefahren, Ski gefahren.",
+                "description":"„Da vis a vis, da war ein bisschen Hügel, da sind die Kinder Schlitten gefahren, Ski gefahren.“",
                 "kategorie":"geschichte",
                 "name":"Hügel"
             },
@@ -1033,7 +1033,7 @@
                 "contact:email":"office@wohin.co.at",
                 "contact:phone":"0316 573432",
                 "contact:website":"http://www.rettet-das-kind-stmk.at/joomla/index.php/familienzentrum-wohin",
-                "description":"Beratungs- und Betreuungseinrichtung für Familien (Kinder, Jugendliche, Einzelpersonen)  im Sozialraum IV  der Stadt Graz. Das Team Team – bestehend aus SozialarbeiterInnen und Soziologen – berät bei persönlichen Fragestellungen, Arbeits- und Wohnungssuche, innerfamiliären Krisen, Erziehung und Partnerschaft und finanziellen Angelegenheiten. Für Kinder und Jugendliche werden außerdem freizeitpädagogische Gruppenaktivitäten (z.B. Ausflüge, Spielenachmittage, Schwimmen) angeboten.",
+                "description":"Beratungs- und Betreuungseinrichtung für Familien (Kinder, Jugendliche, Einzelpersonen)  im Sozialraum IV  der Stadt Graz. Das Team – bestehend aus SozialarbeiterInnen und Soziologen – berät bei persönlichen Fragestellungen, Arbeits- und Wohnungssuche, innerfamiliären Krisen, Erziehung und Partnerschaft und finanziellen Angelegenheiten. Für Kinder und Jugendliche werden außerdem freizeitpädagogische Gruppenaktivitäten (z.B. Ausflüge, Spielenachmittage, Schwimmen) angeboten.",
                 "image":"https://commons.wikimedia.org/wiki/File:Familienzentrum_WOHIN.jpg",
                 "kategorie":"treffen",
                 "name":"Familienzentrum WOHIN",
@@ -1212,7 +1212,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Hier zwischen der Rosensteingasse und der Alten Poststraße waren 1934 alles Heimgärten, da waren keine Baustellen.",
+                "description":"„Hier zwischen der Rosensteingasse und der Alten Poststraße waren 1934 alles Heimgärten, da waren keine Baustellen.“",
                 "kategorie":"geschichte",
                 "name":"Heimgärten"
             },
@@ -1227,7 +1227,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Frisch gebackenes Brot und Coffee to go. Alle Produkte werden von Montag bis Sonntag täglich mehrmals zubereitet. Tipp: frischer Burek.",
+                "description":"Frisch gebackenes Brot und Coffee to go. Alle Produkte werden von Montag bis Sonntag täglich mehrmals zubereitet. Tipp: frischer Burek.",
                 "image":"https://commons.wikimedia.org/wiki/File:B%C3%A4ckerei_Europa.jpg",
                 "kategorie":"kaufen",
                 "name":"Bäckerei Europa",
@@ -1371,7 +1371,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Wo das Jugendzentrum drinnen ist, war ja einmal der Portier vom Waagner Biro Werk. Mit so einem Drehkreuz haben sie dich durchgelassen, aber mit einem Auto nicht, nur die Firmenwägen.",
+                "description":"„Wo das Jugendzentrum drinnen ist, war ja einmal der Portier vom Waagner Biro Werk. Mit so einem Drehkreuz haben sie dich durchgelassen, aber mit einem Auto nicht, nur die Firmenwägen.“",
                 "kategorie":"geschichte",
                 "name":"Portier"
             },
@@ -1423,7 +1423,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Das war ein Paradies für die Kinder, im Sommer haben sie die Erdäpfel gebraten. Der Marillenbaum steht da noch, das ist der einzige Baum der da noch steht.",
+                "description":"„Das war ein Paradies für die Kinder, im Sommer haben sie die Erdäpfel gebraten. Der Marillenbaum steht da noch, das ist der einzige Baum der da noch steht.“",
                 "kategorie":"geschichte",
                 "name":"Marillenbaum"
             },
@@ -1456,7 +1456,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Das war so das Highlight wo wir dann dazukommen durften und auch diesen Bereich betreten durften. Der Club ist nach wir vor dort noch beheimatet und der veranstaltet auch noch regelmäßig Ausstellungen.",
+                "description":"„Das war so das Highlight wo wir dann dazukommen durften und auch diesen Bereich betreten durften. Der Club ist nach wir vor dort noch beheimatet und der veranstaltet auch noch regelmäßig Ausstellungen.“",
                 "kategorie":"geschichte",
                 "name":"Modelleisenbahnclub"
             },
@@ -1685,7 +1685,7 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:email":"karl.röck@oebb.at",
+                "contact:email":"karl.röck@oebb.at",
                 "contact:phone":"0664 8417932",
                 "description":"Lehrwerkstätten und Lehringsausbildung",
                 "kategorie":"unternehmen",
