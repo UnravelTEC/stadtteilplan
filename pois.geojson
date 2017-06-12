@@ -64,7 +64,16 @@
                 "contact:email":"vorort@stadtlaborgraz.at",
                 "contact:phone":"0676 40 68 818",
                 "contact:website":"http://www.smartcitygraz.at/more_vorort-dabeisein/",
-                "description":"Stadtteil-Fahrräder für jeden Anlass gratis und unkompliziert auszuleihen: vom Rennrad übers  Bmx bis zum Lastenrad. Die Räder wurden, zusammen mit den NachbarInnen und in Kooperation mit Rebikel, neu zusammengebaut.",
+                "description":"Stadtteil-Fahrräder für jeden Anlass gratis und unkompliziert auszuleihen: vom Rennrad übers  Bmx bis zum Lastenrad. Die Räder wurden, zusammen mit den NachbarInnen und in Kooperation mit Rebikel, neu zusammenge
+                
+                
+                
+                
+                
+                
+                
+                
+                t.",
                 "image":"https://commons.wikimedia.org/wiki/File:Leihradl_vor.ort.jpg",
                 "kategorie":"erleben; treffen",
                 "name":"Leihradl vor.ort",
@@ -264,7 +273,7 @@
             "properties":{
                 "description":"„Die Waagner-Biro hat das gesamte Areal von der Peter-Tunner-Gasse bis zur List-Halle und auch in der List-Halle war einmal Waagner-Biro. […] Großer Auftrag waren die Brücken […] in Stahlkonstruktion.“",
                 "kategorie":"geschichte",
-                "name":"Firma Waagner-Biro / Bückenbau"
+                "name":"Firma Waagner-Biro / Brückenbau"
             },
             "geometry":{
                 "type":"Point",
