@@ -412,9 +412,7 @@
             "properties":{
                 "contact:email":"vorort@stadtlaborgraz.at",
                 "contact:phone":"0676 40 68 818",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "description":"Hier entstehen: Wohnraum für 252 Studierende und mehr als 100 Wohnungen, ein Café, ein Kindergarten und eine Kinderkrippe. Das Studentenheim soll im Herbst 2017 eröffnet werden.",
-                "image":"http://commons.wikimedia.org/wiki/File:Cool_City.jpg",
                 "kategorie":"zukunft",
                 "name":"Cool City",
                 "osm":"https://www.openstreetmap.org/way/492276900"
@@ -929,9 +927,7 @@
             "properties":{
                 "contact:email":"vorort@stadtlaborgraz.at",
                 "contact:phone":"0676 40 68 818 /",
-                "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "description":"Wohnungen mit zentralen Höfen sowie öffentlichen und halböffentlichen (nur für BewohnerInnen) Flächen. Im Bereich des Science Tower und der Helmut List-Halle entsteht ein Platz mit Gastronomiebetrieben und Büros.",
-                "image":"https://commons.wikimedia.org/wiki/File:Smart_City_Baufeld_Mitte.jpg",
                 "kategorie":"zukunft",
                 "name":"Baufeld Mitte und Nord",
                 "osm":"https://www.openstreetmap.org/way/182680875"
