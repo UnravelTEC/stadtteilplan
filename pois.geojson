@@ -6,7 +6,6 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:website":"http://www.hofer.at",
                 "description":"Lebensmittelhandel",
                 "kategorie":"kaufen",
                 "name":"Hofer",
@@ -188,7 +187,6 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:website":"http://www.billa.at",
                 "description":"Lebensmittelhandel",
                 "kategorie":"kaufen",
                 "name":"Billa",
@@ -606,7 +604,6 @@
         {
             "type":"Feature",
             "properties":{
-                "contact:email":"office@menatwork.at",
                 "contact:phone":"0676 4000004",
                 "contact:website":"http://www.menatwork.at",
                 "description":"Hausmeisterservice, Gebäudereinigung, Gartenpflege, Siedeln, Entrümpeln und mehr",
@@ -735,7 +732,6 @@
             "type":"Feature",
             "properties":{
                 "contact:phone":"0316 818506",
-                "contact:website":"http://www.brauhaus-graz.at",
                 "description":"Ein Brauhaus mit steirischer Hausmannskost, oft mit Tanz und Live-Musik. Tipp: Hier ist das MIttagsmenu besoders beliebt. Unbedingt gebratene Stelze und das Hausbier kosten!",
                 "image":"https://commons.wikimedia.org/wiki/File:Schild_Brauhaus.jpg",
                 "kategorie":"essen",
@@ -820,7 +816,6 @@
             "type":"Feature",
             "properties":{
                 "contact:email":"office@coolhair.at",
-                "contact:website":"http://www.coolhair.at/",
                 "description":"Friseur",
                 "kategorie":"kaufen",
                 "name":"Cool Hair",
@@ -959,7 +954,6 @@
             "type":"Feature",
             "properties":{
                 "contact:phone":"0650 4900342",
-                "contact:website":"http://www.sammelwerk-graz.at",
                 "description":"Raritäten & Hochwertige Gebrauchtwaren",
                 "image":"https://commons.wikimedia.org/wiki/File:Sammelwerk.jpg",
                 "kategorie":"kaufen",
@@ -1117,7 +1111,6 @@
             "properties":{
                 "contact:email":"vinzishop@vinzi.at",
                 "contact:phone":"0316 585807",
-                "contact:website":"http://www.vinzi.at/de/vinzishop-graz/",
                 "description":"Hier werden Sachspenden verkauft die abgegeben werden, wie Kleidungsstücke, Bücher, Kinderspielzeug und diverse Haushaltswaren. Mit dem Erlös werden die Einrichtungen der Vinzenzgemeinschaft Eggenberg unterstützt.",
                 "kategorie":"kaufen",
                 "name":"VinziShop",
@@ -1190,7 +1183,6 @@
             "properties":{
                 "addr:housenumber":"98a",
                 "contact:phone":"0316 584260",
-                "contact:website":"http://www.helmut-list-halle.com",
                 "description":"Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.",
                 "image":"https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
                 "kategorie":"treffen; unternehmen",
@@ -1309,7 +1301,6 @@
             "properties":{
                 "contact:email":"office@tischlerei-schadler.at",
                 "contact:phone":"316581319",
-                "contact:website":"tischlerei-schadler.at",
                 "description":"Personalisierte Möbelstücke und Unterstützung bei der Gestaltung von Lebensräumen",
                 "kategorie":"kaufen",
                 "name":"Schadler Tischlerei",
@@ -1582,7 +1573,6 @@
                 "addr:housenumber":"Waagner-Biro-Straße 45 und 117",
                 "contact:email":"office@stahl-eberhardt.at",
                 "contact:phone":"0316 5972",
-                "contact:website":"http://www.stahl-eberhardt.at/home.html",
                 "description":"Stahlgroßhandel",
                 "image":"https://commons.wikimedia.org/wiki/File:Lager_Industrie.jpg",
                 "kategorie":"unternehmen",
@@ -1695,7 +1685,6 @@
             "properties":{
                 "contact:email":"graz@myplace.at",
                 "contact:phone":"0316 570650",
-                "contact:website":"http://www.myplace.at",
                 "description":"Lagerräume und Umzugshilfe",
                 "kategorie":"unternehmen",
                 "name":"MyPlace-SelfStorage",
@@ -1799,7 +1788,6 @@
             "type":"Feature",
             "properties":{
                 "contact:phone":"0316 585800",
-                "contact:website":"http://www.vinzi.at/de/vinzihelp/",
                 "description":"Direkte Hilfe von Frau zu Frau seit über 10 Jahren: VinziHelp bietet sowohl rechtliche als auch finanzielle Hilfe bzw. Alternativlösungen für die Probleme an.",
                 "kategorie":"treffen",
                 "name":"Vinzi Help",
