@@ -1516,7 +1516,7 @@
                 "description":"Auf dem zukünftigen Smart City Areal wurde, im Rahmen des Lendwirbel 2016, getanzt, gespielt und gelacht.",
                 "image":"https://commons.wikimedia.org/wiki/File:Tanzwiese.jpg",
                 "kategorie":"erleben",
-                "name":"Smart City Baufeld Mitte",
+                "name":"Smart City Baufeld Mitte"
             },
             "geometry":{
                 "type":"Point",
