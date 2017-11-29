@@ -657,6 +657,27 @@
         {
             "type":"Feature",
             "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 39-41, 8020 Graz",
+                "contact:phone":"0800 500 109",
+                "contact:website":"https://www.jhornig.com",
+                "description":"Das modernste Kaffeeerlebnis der Stadt. Hier werden mit Vergnügen Bohnen aus den besten Anbaugebieten der Welt geröstet. Es werden tolle Kaffees und Tees, sowie Barista-Workshops angeboten. Zu empfehlen: Ein Kaffee in der hauseige Kaffeebar.",
+                "image":"https://raw.githubusercontent.com/stadtlaborgraz/stadtteilplan-waagner-biro/gh-pages/assets/photos/Hornig.jpg",
+                "kategorie":"essen",
+                "name":"Kaffeerösterei J. Hornig",
+                "opening_hours":"Mo.-Do. 08:00 - 12:00 / 13:00 - 17:00 Fr. 08:00 - 12:00",
+                "osm":"http://www.openstreetmap.org/way/182671964"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41294,
+                    47.07423
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "contact:email":"juzeggenlend@wiki.at",
                 "contact:phone":"0676 5219746",
                 "description":"Wenn der Parkplatz nicht für Veranstaltungen genutzt wird, wird gekickt! Die Fußballtore kann man gratis im vor.ort cafè oder im JUZ Eggenlend während der Öffnungszeiten ausleihen.",
