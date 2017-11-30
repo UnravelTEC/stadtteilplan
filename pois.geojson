@@ -342,8 +342,6 @@
         {
             "type":"Feature",
             "properties":{
-                "addr:housenumber":"Waagner-Biro-Straße 47",
-                "contact:website":"https://www.regus.at/office-space/austria/graz/graz-smart-city",
                 "description":"Flexible Büroräume in Graz: co-working, virtuelle Büros Konferenz und Tagungsräume, Notfall-Büros",
                 "kategorie":"unternehmen",
                 "name":"Regus Büroräume in Graz",
