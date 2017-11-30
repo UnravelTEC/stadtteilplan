@@ -342,6 +342,24 @@
         {
             "type":"Feature",
             "properties":{
+                "addr:housenumber":"Waagner-Biro-Straße 47",
+                "contact:website":"https://www.regus.at/office-space/austria/graz/graz-smart-city",
+                "description":"Flexible Büroräume in Graz: co-working, virtuelle Büros Konferenz und Tagungsräume, Notfall-Büros",
+                "kategorie":"unternehmen",
+                "name":"Regus Büroräume in Graz",
+                "osm":"http://www.openstreetmap.org/way/182670483"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    15.41425,
+                    47.07519
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "description":"„Auf der Linken Seite der Eisenbahn hat es die Grazer Glasfabrik gegeben. Die hat die Flaschen erzeugt, also Bierflaschen.“",
                 "kategorie":"geschichte",
                 "name":"Grazer Glasfabrik"
