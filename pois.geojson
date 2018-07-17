@@ -426,7 +426,7 @@
             "properties":{
                 "contact:email":"vorort@stadtlaborgraz.at",
                 "contact:phone":"0676 40 68 818",
-                "description":"Hier entstehen: Wohnraum für 252 Studierende und mehr als 100 Wohnungen, ein Café, ein Kindergarten und eine Kinderkrippe. Das Studentenheim soll im Herbst 2017 eröffnet werden.",
+                "description":"Studentisches Wohnen, mehr als 100 Wohnungen, ein Kindergarten und eine Kinderkrippe.",
                 "kategorie":"zukunft",
                 "name":"Cool City",
                 "osm":"https://www.openstreetmap.org/way/492276900"
@@ -434,8 +434,8 @@
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41005310000,
-                    47.07967660000
+                    15.41017960000,
+                    47.08029240000
                 ]
             }
         },
