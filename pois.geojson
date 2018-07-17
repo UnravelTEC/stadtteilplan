@@ -593,8 +593,8 @@
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41103260000,
-                    47.07905620000
+                    15.41027020000,
+                    47.08000480000
                 ]
             }
         },
@@ -1508,21 +1508,21 @@
         {
             "type":"Feature",
             "properties":{
-                "addr:housenumber":"Container gegenüber der Helmut List Halle",
+                "addr:housenumber":"Container gegenüber Science Tower",
                 "contact:email":"vorort@stadtlaborgraz.at",
                 "contact:phone":"0676 40 68 818",
                 "description":"Information, Austausch und Beteiligung rund um die Smart City Stadtteilentwicklung.",
                 "image":"https://commons.wikimedia.org/wiki/File:Vor.ort.jpg",
                 "kategorie":"treffen",
                 "name":"vor.ort Stadtteilmanagement",
-                "opening_hours":"Mo 17:30-19:30; Mi 10:00-12:00",
+                "opening_hours":"Mo 12:00-14:00; Do 12:00-14:00",
                 "osm":"https://www.openstreetmap.org/node/3986854239"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41103260000,
-                    47.07905620000
+                    15.41027020000,
+                    47.08000480000
                 ]
             }
         },
@@ -1597,8 +1597,8 @@
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41103260000,
-                    47.07905620000
+                    15.41027020000,
+                    47.08000480000
                 ]
             }
         },
