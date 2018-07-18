@@ -1269,7 +1269,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"Das erste Wahrzeichen der Smart City hat bereits eröffnet und erste Büros wurden bereits bezogen. Das Gebäude ist ein Energie-Plus-Gebäude und ist in Österreich einzigartig.",
+                "description":"Das erste Wahrzeichen der Smart City hat bereits eröffnet und die Büros wurden bereits bezogen. Das Gebäude ist ein Energie-Plus-Gebäude und ist in Österreich einzigartig.",
                 "kategorie":"zukunft",
                 "name":"Forschungsturm",
                 "osm":"https://www.openstreetmap.org/way/352749432"
@@ -1355,8 +1355,8 @@
             "type":"Feature",
             "properties":{
                 "contact:email":"vorort@stadtlaborgraz.at",
-                "contact:phone":"0676 40 68 818 /",
-                "description":"Ein lebendiges neues Zentrum für den gesamten Stadtteil, wo neben Wohnungen auch Geschäfte (Lebensmittel, Dienstleistungen, das Stadtteilmanagement, etc.) zu finden sind. Neben begrünten Dächern werden hier auch mietbare Dachgärten gebaut. Vom Aussehen her erinnert das Zentrum an alten Industriehallen – ein Architekturwettbewerb hat dieses Projekt als Sieger gekürt.",
+                "contact:phone":"0676 40 68 818",
+                "description":"Ein lebendiges neues Zentrum für den gesamten Stadtteil, wo neben Wohnungen auch Geschäfte (Lebensmittel, Dienstleistungen, etc.) zu finden sind. Neben begrünten Dächern werden hier auch mietbare Dachgärten gebaut. Vom Aussehen her erinnert das Zentrum an alten Industriehallen – ein Architekturwettbewerb hat dieses Projekt als Sieger gekürt.",
                 "kategorie":"zukunft",
                 "name":"Baufeld Süd",
                 "osm":"https://www.openstreetmap.org/way/495193886"
