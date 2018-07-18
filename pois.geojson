@@ -1841,18 +1841,18 @@
             "type":"Feature",
             "properties":{
                 "contact:phone":"0676 6829471",
-                "description":"Ein Gasthaus mit einer über hundertjährigen Geschichte. Der Gastgarten erinnert an einen alten Wiener Heurigen und lädt vor allem im Sommer zum Verweilen ein. Tipp: günstige Tagesmenüs.",
+                "description":"Italienische, griechische und österreichische Küche. Tipp: günstige Tagesmenüs.",
                 "image":"https://commons.wikimedia.org/wiki/File:Restaurant_Pizzeria.jpg",
                 "kategorie":"essen",
                 "name":"Restaurant / Pizzeria Calamar",
-                "opening_hours":"Mo-Sa 11:00-22:00, So und Feiertage 11:00-17:00",
+                "opening_hours":"Mo-Sa 10:00-22:00, So Rugetag, Feiertage 11:00-17:00",
                 "osm":"https://www.openstreetmap.org/way/87979332"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.40985070000,
-                    47.08203550000
+                    15.41316250000,
+                    47.07527860000
                 ]
             }
         },
