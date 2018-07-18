@@ -72,8 +72,8 @@
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    15.41111150000,
-                    47.07900390000
+                    15.41027020000,
+                    47.08000480000
                 ]
             }
         },
@@ -137,7 +137,7 @@
         {
             "type":"Feature",
             "properties":{
-                "description":"„Die Waager Biro hat seine eigene Bank gehabt, die Lender Bank, […]  bei der Waldertgasse da, wo jetzt das Massagezentrum ist.“",
+                "description":"„Die Waagner Biro hat seine eigene Bank gehabt, die Lender Bank, […]  bei der Waldertgasse da, wo jetzt das Massagezentrum ist.“",
                 "kategorie":"geschichte",
                 "name":"Lender Bank"
             },
@@ -290,7 +290,7 @@
             "type":"Feature",
             "properties":{
                 "contact:email":"vorort@stadtlaborgraz.at",
-                "contact:phone":"0676 40 68 818 /",
+                "contact:phone":"0676 40 68 818",
                 "contact:website":"http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
                 "description":"Ein neues Schulgebäude mit einer Volksschule und einer Neuen Mittelschule wird hier errichtet. Die Schulräumlichkeiten und die großzügigen Flächen im Freien werden für viele verschiedene Dinge nutzbar sein. Z.B. sollen sie NachbarInnen und Interessierten in den unterrichtsfreien Zeiten für Veranstaltungen, Lesungen oder sportlichen Aktivitäten zur Verfügung stehen. Baustart Frühjahr 2018. Eröffnung Herbst 2019.",
                 "kategorie":"zukunft",
