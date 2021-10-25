@@ -91,3 +91,9 @@ Currently, there are 3 "branches" of development:
 * http://viewer.transformap.co/ - "master" branch, [this](https://github.com/TransforMap/transformap-viewer) repo.
 * https://susy-mapviewer.github.io/transformap-viewer/ for embedding into the [solidarityeconomy.eu](http://solidarityeconomy.eu) site. Repo see [here](https://github.com/susy-mapviewer/transformap-viewer).
 * https://susy-partners.github.io/transformap-viewer/ for embedding into the websites of SUSY-partners. Repo see [here](https://github.com/susy-partners/transformap-viewer).
+
+## Content Change - Okt.25, 2021
+update of "Spar" - Waagner-Biro-Straße 84
+update of "DM" - Waagner-Biro-Straße 84a
+update of "Tabak Trafik" - Alte Poststraße 114
+update of "SmartCity Dental" - Waagner-Biro-Straße 84b
