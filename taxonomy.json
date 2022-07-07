@@ -52,7 +52,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gut Essen und Trinken"
+          "value": "immer schön lächeln"
         },
         "instance_of": {
           "type": "uri",
@@ -189,7 +189,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gut essen und trinken"
+          "value": "immer schön lächeln"
         },
         "instance_of": {
           "type": "uri",
