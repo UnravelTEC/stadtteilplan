@@ -109,7 +109,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Nach vorne blicken"
+          "value": "bitte lächeln"
         },
         "instance_of": {
           "type": "uri",
@@ -258,7 +258,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "nach vorne blicken"
+          "value": "bitte lächeln"
         },
         "instance_of": {
           "type": "uri",
@@ -270,7 +270,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "zukunft"
+          "value": "lächeln"
         }
       },
       {
