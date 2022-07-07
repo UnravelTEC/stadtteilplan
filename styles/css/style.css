@@ -16,8 +16,8 @@ h1,h2,h3,h4,h5,h6{text-align:center}
 #map-tiles .leaflet-popup .leaflet-popup-content-wrapper .leaflet-popup-content h3{margin:0;padding:5px 15px 0;text-align:left;font-size:12px;font-weight:bold}
 #map-tiles .my-div-icon{width:25px !important;height:40px;background-image:url("../../bower_components/leaflet/dist/images/marker-green.png");margin-top:-40px}#map-tiles .my-div-icon div{display:none}
 #map-tiles .my-div-icon.kaufen,#map-tiles .my-div-icon.erleben,#map-tiles .my-div-icon.essen,#map-tiles .my-div-icon.treffen,#map-tiles .my-div-icon.unternehmen,#map-tiles .my-div-icon.zukunft,#map-tiles .my-div-icon.geschichte{width:32px !important;height:32px;margin-top:-24px;background:no-repeat}
-#map-tiles .my-div-icon.erleben{background-image:url("../../assets/smiley.png")}
-#map-tiles .my-div-icon.essen{background-image:url("../../assets/stern32.png")}
+#map-tiles .my-div-icon.erleben{background-image:url("../../assets/stern32.png")}
+#map-tiles .my-div-icon.essen{background-image:url("../../assets/smiley.png")}
 #map-tiles .my-div-icon.kaufen{background-image:url("../../assets/sechseck32.png")}
 #map-tiles .my-div-icon.treffen{background-image:url("../../assets/raute32.png")}
 #map-tiles .my-div-icon.zukunft{background-image:url("../../assets/viereck32.png");background-size:24px 24px}
