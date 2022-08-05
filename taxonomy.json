@@ -33,7 +33,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gastronomie"
+          "value": "Gemeinschaftsräume"
         },
         "instance_of": {
           "type": "uri",
@@ -52,7 +52,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "immer schön lächeln"
+          "value": "Handel & Dienstleistung"
         },
         "instance_of": {
           "type": "uri",
@@ -90,7 +90,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Nachbarn treffen"
+          "value": "Gesundheit & Soziales"
         },
         "instance_of": {
           "type": "uri",
@@ -109,7 +109,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "bitte lächeln"
+          "value": "Bildung & Forschung"
         },
         "instance_of": {
           "type": "uri",
@@ -128,7 +128,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Über Geschichte erfahren"
+          "value": "Gastronomie"
         },
         "instance_of": {
           "type": "uri",
@@ -147,7 +147,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Unternehmen im Stadtteil"
+          "value": "Sport & Freizeit"
         },
         "instance_of": {
           "type": "uri",
@@ -166,7 +166,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Den Stadtteil erleben"
+          "value": "Gemeinschaftsräume"
         },
         "instance_of": {
           "type": "uri",
@@ -178,7 +178,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "erleben"
+          "value": "Räumlichkeiten"
         }
       },
       {
@@ -189,7 +189,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "immer schön lächeln"
+          "value": "Handel & Dienstleistung"
         },
         "instance_of": {
           "type": "uri",
@@ -201,7 +201,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "essen"
+          "value": "einkaufen"
         }
       },
       {
@@ -235,7 +235,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Nachbarn treffen"
+          "value": "Gesundheit & Soziales"
         },
         "instance_of": {
           "type": "uri",
@@ -247,7 +247,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "treffen"
+          "value": "gesund"
         }
       },
       {
@@ -258,7 +258,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "bitte lächeln"
+          "value": "Bildung & Forschung"
         },
         "instance_of": {
           "type": "uri",
@@ -270,7 +270,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "lächeln"
+          "value": "bilden"
         }
       },
       {
@@ -281,7 +281,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "über Geschichte erfahren"
+          "value": "Gastronomie"
         },
         "instance_of": {
           "type": "uri",
@@ -293,7 +293,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "geschichte"
+          "value": "essen und trinken gehen"
         }
       },
       {
@@ -304,7 +304,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Mobilität"
+          "value": "Mobilität & Transportmittel"
         },
         "instance_of": {
           "type": "uri",
@@ -361,7 +361,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Unternehmen im Stadtteil"
+          "value": "Sport & Freizeit"
         },
         "instance_of": {
           "type": "uri",
@@ -373,7 +373,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "unternehmen"
+          "value": "sportlich"
         }
       }
     ]
