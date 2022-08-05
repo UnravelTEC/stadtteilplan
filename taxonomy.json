@@ -71,7 +71,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Zeug für jeden Tag kaufen"
+          "value": "Kultur"
         },
         "instance_of": {
           "type": "uri",
@@ -212,7 +212,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Zeug für jeden Tag kaufen"
+          "value": "Kultur"
         },
         "instance_of": {
           "type": "uri",
@@ -224,7 +224,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "kaufen"
+          "value": "kulturelles"
         }
       },
       {
