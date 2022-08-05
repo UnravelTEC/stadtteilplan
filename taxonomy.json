@@ -342,7 +342,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sport & Freizeit"
+          "value": "Mobilität & Transportmittel"
         },
         "instance_of": {
           "type": "uri",
@@ -351,6 +351,29 @@
         "subclass_of": {
           "type": "uri",
           "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q12006"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mobilität & Transportmittel"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q6"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10006"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "fortbewegen"
         }
       },
       {
