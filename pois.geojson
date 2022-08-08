@@ -6,70 +6,25 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.;IT",
-                "contact:phone": "0316 584260",
-                "contact:email": "martin.hauer@avl.com",
-                "addr:housenumber": "98a",
-                "kategorie": "Kultur",
-                "image": "https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
-                "osm": "https://www.openstreetmap.org/way/29716557",
-                "name": "Helmut List Halle"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41138022870,
-                    47.07948914048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
+                "contact:email": "coolcity@greenbox.co.at",
                 "addr:street": "Waagner-Biro-Straße",
-                "description": "Zeitschriftenverlag",
-                "contact:facebook": "https://www.facebook.com/SteiermarkmagazinKlipp",
-                "name": "Klipp Zeitschriften GmbH & Co KG",
-                "contact:phone": "+43 (0) 316 426 080",
-                "contact:website": "https://www.klippmagazin.at",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:email": "office@klippmagazin.at",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41103958547,
-                    47.07987271410
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "PJ Messtechnik GmbH",
-                "contact:phone": "+43 (0) 650 908 065 1",
-                "contact:website": "http://www.pjm.co.at",
-                "description": "Messtechnik",
-                "contact:linkedin": "https://www.linkedin.com/company/pjm",
-                "addr:housenumber": "125",
+                "contact:facebook": "www.facebook.com/greenbox.co.at",
+                "addr:housenumber": "109",
+                "kategorie": "Handel & Dienstleistung",
+                "osm": "https://www.openstreetmap.org/way/492276900",
                 "addr:postcode": "8020",
                 "addr:city": "Graz",
-                "osm": "https://www.openstreetmap.org/node/4764105826",
                 "addr:country": "Österreich",
-                "contact:email": "office@pjm.co.at",
-                "kategorie": "Handel & Dienstleistung"
+                "name": "greenbox coolcity",
+                "description": "Studentenheim",
+                "contact:website": "https://www.greenbox.co.at",
+                "contact:instagram": "www.instagram.com/greenbox.co"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.40944277546,
-                    47.08187851214
+                    15.41029761720,
+                    47.08017550314
                 ]
             }
         },
@@ -80,9 +35,9 @@
                 "image": "https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Haus.jpg",
                 "osm": "https://www.openstreetmap.org/way/161333727",
                 "contact:website": "http://www.bokan-exclusiv.at/de-at/cafe/",
-                "kategorie": "Gastronomie",
                 "description": "Ein Cafè mit österreichischer Kaffeehaustradition. Genieße einen Kuchen oder einen Eisbecher auf der Terrasse! Tipp: Großes Frühstücksangebot bis 12 Uhr - vom Wiener Frühstück, über ein Sportlerfrühstück bis hin zu einem American Breakfast.",
                 "opening_hours": "Mo-Sa 7:30-1:00, So 8:30-1:00",
+                "kategorie": "Gastronomie",
                 "name": "Café Polanz"
             },
             "geometry": {
@@ -96,222 +51,18 @@
         {
             "type": "Feature",
             "properties": {
-                "contact:website": "http://www.rcc-rail.com/index.php?id=83",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "office@rcc-rail.com",
-                "name": "RCC Railway Competence and Certification GmbH",
-                "addr:housenumber": "125",
-                "description": "Schienenfahrzeuge, Maschinenbau",
-                "osm": "https://www.openstreetmap.org/way/198453609",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40944903955,
-                    47.08184623589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Immobilien",
-                "contact:email": "office@science-tower.at",
-                "name": "Science Tower GmbH",
-                "contact:website": "http://info.science-tower.at",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41111468196,
-                    47.07983253417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "coolcity@greenbox.co.at",
-                "contact:facebook": "www.facebook.com/greenbox.co.at",
-                "addr:housenumber": "109",
-                "osm": "https://www.openstreetmap.org/way/492276900",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "description": "Studentenheim",
-                "name": "greenbox coolcity",
-                "contact:instagram": "www.instagram.com/greenbox.co",
-                "contact:website": "https://www.greenbox.co.at",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41029761720,
-                    47.08017550314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:website": "http://www.pjm.co.at",
-                "contact:linkedin": "https://www.linkedin.com/company/pjm",
-                "addr:housenumber": "125",
-                "contact:phone": "+43 (0) 676 363 466 5",
-                "name": "PJ Monitoring GmbH",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "contact:email": "rami@pjm.com.at",
-                "osm": "https://www.openstreetmap.org/node/4764105826",
-                "addr:country": "Österreich",
-                "description": "Monitoring",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40947854251,
-                    47.08185262941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "0316 584260",
-                "contact:email": "martin.hauer@avl.com",
-                "addr:housenumber": "98",
-                "kategorie": "Handel & Dienstleistung",
-                "osm": "https://www.openstreetmap.org/way/29716557",
-                "name": "AVL-IT-Comp."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41194250000,
-                    47.07966930000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "kategorie": "Bildung & Forschung",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "kinderbildung.cool-city@gip.st",
-                "contact:website": "https://www.gip.st/kinderkrippe/cool-city",
-                "contact:phone": "+43 (0) 660 957 712 3",
-                "name": "GiP Kindergrippe Cool City",
-                "description": "Kindergrippe/ Kindergarten",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:housenumber": "111",
-                "osm": "https://www.openstreetmap.org/way/87979332"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40968775213,
-                    47.08006632548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Bildungseinrichtung",
-                "name": "Volksschule Leopoldinum",
-                "contact:email": "vs.leopoldinum@vs-leopoldinum.edu.graz.at",
-                "kategorie": "Bildung & Forschung",
-                "osm": "https://www.openstreetmap.org/way/735112234",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:housenumber": "99"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41090279549,
-                    47.07916218902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "kategorie": "Bildung & Forschung",
-                "name": "Joanneum Research LIFE - Institute for Climate, Energy & Society",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41098929875,
-                    47.07988732311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "TU Graz Working Group Sustainable Construction",
-                "contact:facebook": "https://www.facebook.com/agnhb/",
-                "contact:email": "office.agnhb@tugraz.at",
-                "contact:website": "https://www.tugraz.at/arbeitsgruppen/working-group-sustainability-assessment/home/",
-                "kategorie": "Bildung & Forschung",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:phone": "+43 (0) 316 407 744",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "description": "Hochschulbildung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41109323233,
-                    47.07992385497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "addr:street": "Waagner-Biro-Straße",
                 "contact:phone": "+43 (0)316 573 357",
                 "addr:housenumber": "109",
                 "contact:website": "https://www.streets-graz.at/",
                 "contact:instagram": "https://www.instagram.com/streets_famousfoodanddrinks/?hl=de",
-                "addr:postcode": "8020",
                 "addr:city": "Graz",
-                "addr:country": "Österreich",
+                "addr:postcode": "8020",
                 "contact:email": "eat@streets-graz.at",
-                "osm": "https://www.openstreetmap.org/way/87979332",
+                "addr:country": "Österreich",
+                "kategorie": "Gastronomie",
                 "name": "Streets",
-                "kategorie": "Gastronomie"
+                "osm": "https://www.openstreetmap.org/way/87979332"
             },
             "geometry": {
                 "type": "Point",
@@ -324,188 +75,12 @@
         {
             "type": "Feature",
             "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Werbeagentur",
-                "name": "wolkeblau GmbH",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "contact:email": "hello@​wolkeblau.com",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41120051265,
-                    47.07992751350
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "84",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:phone": "+43 (0)316 574 831",
-                "contact:email": "fil50628@spar.at",
-                "name": "Spar",
-                "osm": "https://www.openstreetmap.org/node/8139390317",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "description": "Lebensmittelhandel",
-                "website": "https://www.spar.at/standorte/spar-graz-8020-waagner-biro-strasse-84",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41173696384,
-                    47.07903432944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "ibb@fh-joanneum.at",
-                "kategorie": "Bildung & Forschung",
-                "name": "FH Joanneum, Institut Bauplanung und Bauwirtschaft",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "description": "Hochschulbildung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41104495257,
-                    47.07985262049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:city": "8020 Graz",
-                "kategorie": "Handel & Dienstleistung",
-                "name": "Mick Michael Denkmal Fassaden u. Gebäudereinigung Meisterbetrieb e.U.",
-                "description": "Meisterbetrieb Schädlingsbekämpfung, Gebäudedesinfektor",
-                "osm": "https://www.openstreetmap.org/node/7076422450",
-                "addr:street": "Waagner-Biro-Straße 84b/4",
-                "website": "https://www.gebaeudereinigung-mick.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41323900156,
-                    47.07930283182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "Green Rocket",
-                "contact:email": "seibald@greenrocket.com",
-                "description": "Crowdfunding",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41101276606,
-                    47.07991654888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "Qbasis Invest GmbH",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41105702452,
-                    47.07982019826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Baumanagement",
-                "contact:email": "office@ks.at",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:website": "https://www.ks.at",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "name": "KS Group",
-                "kategorie": "Handel & Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41117906436,
-                    47.07989828272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "a0fa0250@dm.at",
-                "name": "dm drogerie markt",
-                "website": "https://www.dm.at/store/at-471/graz/waagner-biro-strasse-84",
-                "kategorie": "Handel & Dienstleistung",
-                "contact:phone": "+43 (0)316 572 305",
-                "description": "Drogeriemarkt",
-                "addr:housenumber": "84a",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/node/6884777242"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41207491815,
-                    47.07914575189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "contact:phone": "+43 (0)316 431 112",
                 "addr:city": "8020 Graz",
-                "kategorie": "Gesundheit & Soziales",
                 "website": "www.smartcity.dental",
-                "name": "Smart City Dental - Dr. Biljana Milicevic",
+                "kategorie": "Gesundheit & Soziales",
                 "description": "Zahnärztin",
+                "name": "Smart City Dental - Dr. Biljana Milicevic",
                 "osm": "https://www.openstreetmap.org/node/6884777242",
                 "addr:street": "Waagner-Biro-Straße 84b",
                 "contact:email": "office@smartcity.dental"
@@ -521,18 +96,375 @@
         {
             "type": "Feature",
             "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "kategorie": "Handel & Dienstleistung",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "name": "Qbasis Invest GmbH",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41105702452,
+                    47.07982019826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:phone": "0316 584260",
+                "name": "AVL-IT-Comp.",
+                "contact:email": "martin.hauer@avl.com",
+                "kategorie": "Handel & Dienstleistung",
+                "osm": "https://www.openstreetmap.org/way/29716557",
+                "addr:housenumber": "98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41194250000,
+                    47.07966930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:phone": "+43 (0)316 574 831",
+                "addr:street": "Waagner-Biro-Straße",
+                "addr:housenumber": "84",
+                "contact:email": "fil50628@spar.at",
+                "kategorie": "Handel & Dienstleistung",
+                "osm": "https://www.openstreetmap.org/node/8139390317",
+                "name": "Spar",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "description": "Lebensmittelhandel",
+                "addr:country": "Österreich",
+                "website": "https://www.spar.at/standorte/spar-graz-8020-waagner-biro-strasse-84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41173696384,
+                    47.07903432944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "PJ Messtechnik GmbH",
+                "contact:phone": "+43 (0) 650 908 065 1",
+                "description": "Messtechnik",
+                "contact:website": "http://www.pjm.co.at",
+                "kategorie": "Handel & Dienstleistung",
+                "contact:linkedin": "https://www.linkedin.com/company/pjm",
+                "addr:housenumber": "125",
+                "osm": "https://www.openstreetmap.org/node/4764105826",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:email": "office@pjm.co.at",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40944277546,
+                    47.08187851214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "kinderbildung.cool-city@gip.st",
+                "contact:website": "https://www.gip.st/kinderkrippe/cool-city",
+                "contact:phone": "+43 (0) 660 957 712 3",
+                "name": "GiP Kindergrippe Cool City",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "description": "Kindergrippe/ Kindergarten",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/87979332",
+                "addr:housenumber": "111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40968775213,
+                    47.08006632548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "Green Rocket",
+                "kategorie": "Handel & Dienstleistung",
+                "contact:email": "seibald@greenrocket.com",
+                "description": "Crowdfunding",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41101276606,
+                    47.07991654888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:website": "http://www.rcc-rail.com/index.php?id=83",
+                "contact:email": "office@rcc-rail.com",
+                "name": "RCC Railway Competence and Certification GmbH",
+                "kategorie": "Handel & Dienstleistung",
+                "description": "Schienenfahrzeuge, Maschinenbau",
+                "addr:housenumber": "125",
+                "osm": "https://www.openstreetmap.org/way/198453609",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "image": "https://github.com/mysmartcitygraz/stadtteilplan/blob/387e8cfe986a8fde32b2d35b5d43809bf8da5530/assets/photos/WB125_RCC.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40944903955,
+                    47.08184623589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "description": "Werbeagentur",
+                "name": "wolkeblau GmbH",
+                "kategorie": "Handel & Dienstleistung",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:email": "hello@​wolkeblau.com",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41120051265,
+                    47.07992751350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "Joanneum Research LIFE - Institute for Climate, Energy & Society",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41098929875,
+                    47.07988732311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Baumanagement",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@ks.at",
+                "kategorie": "Handel & Dienstleistung",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "contact:website": "https://www.ks.at",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "name": "KS Group",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41117906436,
+                    47.07989828272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "kategorie": "Kultur",
+                "description": "Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.;IT",
+                "contact:phone": "0316 584260",
+                "contact:email": "martin.hauer@avl.com",
+                "name": "Helmut List Halle",
+                "osm": "https://www.openstreetmap.org/way/29716557",
+                "image": "https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
+                "addr:housenumber": "98a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41138022870,
+                    47.07948914048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Immobilien",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@science-tower.at",
+                "name": "Science Tower GmbH",
+                "contact:website": "http://info.science-tower.at",
+                "kategorie": "Handel & Dienstleistung",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41111468196,
+                    47.07983253417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "ibb@fh-joanneum.at",
+                "name": "FH Joanneum, Institut Bauplanung und Bauwirtschaft",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "description": "Hochschulbildung",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41104495257,
+                    47.07985262049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "a0fa0250@dm.at",
+                "addr:street": "Waagner-Biro-Straße",
+                "website": "https://www.dm.at/store/at-471/graz/waagner-biro-strasse-84",
+                "name": "dm drogerie markt",
+                "contact:phone": "+43 (0)316 572 305",
+                "kategorie": "Handel & Dienstleistung",
+                "description": "Drogeriemarkt",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:housenumber": "84a",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/node/6884777242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41207491815,
+                    47.07914575189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:website": "http://www.pjm.co.at",
+                "kategorie": "Handel & Dienstleistung",
+                "contact:linkedin": "https://www.linkedin.com/company/pjm",
+                "contact:phone": "+43 (0) 676 363 466 5",
+                "addr:housenumber": "125",
+                "name": "PJ Monitoring GmbH",
+                "osm": "https://www.openstreetmap.org/node/4764105826",
+                "contact:email": "rami@pjm.com.at",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "description": "Monitoring",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40947854251,
+                    47.08185262941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Volksschule Leopoldinum",
+                "description": "Bildungseinrichtung",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "vs.leopoldinum@vs-leopoldinum.edu.graz.at",
+                "osm": "https://www.openstreetmap.org/way/735112234",
+                "addr:city": "Graz",
+                "addr:housenumber": "99",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41090279549,
+                    47.07916218902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "contact:linkedin": "https://www.linkedin.com/company/greentechcluster/",
                 "contact:email": "welcome@greentech.at",
                 "addr:postcode": "8020",
                 "addr:country": "Österreich",
-                "contact:phone": "+43 (0) 316 407 744",
+                "kategorie": "Bildung & Forschung",
                 "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:phone": "+43 (0) 316 407 744",
                 "addr:housenumber": "100",
                 "addr:street": "Waagner-Biro-Straße",
-                "kategorie": "Bildung & Forschung",
                 "name": "Green Tech Cluster Styria GmbH",
-                "addr:city": "Graz",
                 "description": "Umweltnetzwerk",
+                "addr:city": "Graz",
                 "contact:website": "https://www.greentech.at",
                 "contact:facebook": "https://de-de.facebook.com/greentechcluster/"
             },
@@ -541,6 +473,75 @@
                 "coordinates": [
                     15.41102885127,
                     47.07995673787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "description": "Zeitschriftenverlag",
+                "contact:facebook": "https://www.facebook.com/SteiermarkmagazinKlipp",
+                "name": "Klipp Zeitschriften GmbH & Co KG",
+                "kategorie": "Handel & Dienstleistung",
+                "contact:phone": "+43 (0) 316 426 080",
+                "contact:website": "https://www.klippmagazin.at",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:email": "office@klippmagazin.at",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41103958547,
+                    47.07987271410
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "TU Graz Working Group Sustainable Construction",
+                "contact:website": "https://www.tugraz.at/arbeitsgruppen/working-group-sustainability-assessment/home/",
+                "contact:email": "office.agnhb@tugraz.at",
+                "contact:facebook": "https://www.facebook.com/agnhb/",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:phone": "+43 (0) 316 407 744",
+                "description": "Hochschulbildung",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41109323233,
+                    47.07992385497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/node/7076422450",
+                "addr:city": "8020 Graz",
+                "description": "Meisterbetrieb Schädlingsbekämpfung, Gebäudedesinfektor",
+                "kategorie": "Handel & Dienstleistung",
+                "website": "https://www.gebaeudereinigung-mick.at",
+                "name": "Mick Michael Denkmal Fassaden u. Gebäudereinigung Meisterbetrieb e.U.",
+                "addr:street": "Waagner-Biro-Straße 84b/4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41323900156,
+                    47.07930283182
                 ]
             }
         }
