@@ -224,7 +224,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "kulturelles"
+          "value": "Kultur"
         }
       },
       {
@@ -247,7 +247,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "gesund"
+          "value": "Gesundheit & Soziales"
         }
       },
       {
@@ -270,7 +270,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "bilden"
+          "value": "Bildung & Forschung"
         }
       },
       {
@@ -293,7 +293,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "essen und trinken gehen"
+          "value": "Gastronomie"
         }
       },
       {
@@ -335,7 +335,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "fortbewegen"
+          "value": "Mobilität & Transportmittel"
         }
       },
       {
@@ -358,7 +358,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "sportlich"
+          "value": "Sport & Freizeit"
         }
       }
     ]
