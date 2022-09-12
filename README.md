@@ -84,6 +84,11 @@ Then, run `npm run build` each time js and/or css has been changed to update the
 
 We use spaces (2) instead of tabs, please also use this convention.
 
+## taxonomy/icon relations
+
+* icons are defined in css (path: .my-div-icon.*)
+* in .geojson source, a tag "kategorie" matches the css class -> name categories according to css classnames guidelines (short: only lowercase english letters)
+
 ## Forks
 
 Currently, there are 3 "branches" of development:
