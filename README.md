@@ -88,6 +88,12 @@ We use spaces (2) instead of tabs, please also use this convention.
 
 * icons are defined in css (path: .my-div-icon.*)
 * in .geojson source, a tag "kategorie" matches the css class -> name categories according to css classnames guidelines (short: only lowercase english letters)
+* human-readable category name is defined in taxonomy.json
+
+## Popup template
+
+is defined in index.html
+
 
 ## Forks
 
