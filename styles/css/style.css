@@ -35,14 +35,14 @@ h1,h2,h3,h4,h5,h6{text-align:center}
 #map-menu-container ul#map-menu{border-top:1px solid #aaa;border-bottom:1px solid #aaa;padding:0;margin:0;border:none;}#map-menu-container ul#map-menu .list-group-item{padding:0;background:#95d5d2;color:#fff;border:none;border-radius:none}#map-menu-container ul#map-menu .list-group-item form.expert_mode.off{display:none}
 #map-menu-container ul#map-menu .list-group-item form.expert_mode.on{display:block;float:right;margin-right:3px;margin-left:6px;font-style:normal;color:#000}
 #map-menu-container ul#map-menu li.list-group-item.category{border-left:0;border-right:0;border-radius:0;border-bottom:1px solid #aaa;background-position:right 10px center;background-repeat:no-repeat}#map-menu-container ul#map-menu li.list-group-item.category ul.subcategories{background:#1f3050}
-#map-menu-container ul#map-menu li.list-group-item.category:first-child{background-image:url("../../assets/Forschung_Icon Kopie.png");border-top:1px solid #aaa;background-size:28px 20px;background-position:right 6px center}
-#map-menu-container ul#map-menu li.list-group-item.category+.category{background-image:url("../../assets/Gastronomie_Icon Kopie.png");background-size:24px 24px;background-position:right 8px center}
-#map-menu-container ul#map-menu li.list-group-item.category+.category+.category{background-image:url("../../assets/sechseck32.png");background-size:20px 20px;background-position:right 11px center}
-#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category{background-image:url("../../assets/raute32.png");background-size:24px 24px;background-position:right 8px center}
-#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category{background-image:url("../../assets/Einkaufen_Icon Kopie.png");background-size:22px 22px;background-position:right 9px center}
-#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category+.category{background-image:url("../../assets/kreis32.png");background-size:24px 20px}
-#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category+.category+.category{background-image:url("../../assets/dreieck32.png");background-size:24px 20px}
-#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category+.category+.category+.category{background-image:url("../../assets/blume32.png");background-size:20px 20px;background-position:right 11px center}
+#map-menu-container ul#map-menu li.list-group-item.category:first-child{background-image:url("../../assets/Bildung_Forschung2");border-top:1px solid #aaa;background-size:28px 20px;background-position:right 6px center}
+#map-menu-container ul#map-menu li.list-group-item.category+.category{background-image:url("../../assets/Gastronomie.png");background-size:24px 24px;background-position:right 8px center}
+#map-menu-container ul#map-menu li.list-group-item.category+.category+.category{background-image:url("../../assets/Raum.png");background-size:20px 20px;background-position:right 11px center}
+#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category{background-image:url("../../assets/Gesundheit.png");background-size:24px 24px;background-position:right 8px center}
+#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category{background-image:url("../../assets/Handel_Dienstleistung.png.png");background-size:22px 22px;background-position:right 9px center}
+#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category+.category{background-image:url("../../assets/Kunst_Kultur.png");background-size:24px 20px}
+#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category+.category+.category{background-image:url("../../assets/Mobilität.png");background-size:24px 20px}
+#map-menu-container ul#map-menu li.list-group-item.category+.category+.category+.category+.category+.category+.category+.category{background-image:url("../../assets/Sport.png");background-size:20px 20px;background-position:right 11px center}
 #map-menu-container ul#map-menu span.toggle{padding:5px 0 5px 10px;display:block;width:180px;height:100%;cursor:pointer}
 #map-menu-container ul#map-menu span.toggle.selected{background-color:#1f3050;font-style:italic}
 #map-menu-container ul#map-menu .toggle-subcategories{padding-left:20px}
