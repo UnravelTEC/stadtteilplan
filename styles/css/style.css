@@ -16,14 +16,14 @@ h1,h2,h3,h4,h5,h6{text-align:center}
 #map-tiles .leaflet-popup .leaflet-popup-content-wrapper .leaflet-popup-content h3{margin:0;padding:5px 15px 0;text-align:left;font-size:12px;font-weight:bold}
 #map-tiles .my-div-icon{width:25px !important;height:40px;background-image:url("../../bower_components/leaflet/dist/images/marker-green.png");margin-top:-40px}#map-tiles .my-div-icon div{display:none}
 #map-tiles .my-div-icon.bildung,#map-tiles .my-div-icon.gastro,#map-tiles .my-div-icon.raum,#map-tiles .my-div-icon.gesund,#map-tiles .my-div-icon.handel,#map-tiles .my-div-icon.kultur,#map-tiles .my-div-icon.fortbewegen,#map-tiles. my-div-icon.sportlich{width:32px !important;height:32px;margin-top:-24px;background:no-repeat}
-#map-tiles .my-div-icon.bildung{background-image:url("../../assets/Forschung_Icon Kopie.png")}
-#map-tiles .my-div-icon.gastro{background-image:url("../../assets/Gastronomie_Icon Kopie.png")}
-#map-tiles .my-div-icon.raum{background-image:url("../../assets/sechseck32.png")}
-#map-tiles .my-div-icon.gesund{background-image:url("../../assets/raute32.png")}
-#map-tiles .my-div-icon.handel{background-image:url("../../assets/Einkaufen_Icon Kopie.png");background-size:24px 24px}
-#map-tiles .my-div-icon.kultur{background-image:url("../../assets/kreis32.png")}
-#map-tiles .my-div-icon.fortbewegen{background-image:url("../../assets/dreieck32.png")}
-#map-tiles .my-div-icon.sportlich{background-image:url("../../assets/blume32.png");background-size:28px 28px}
+#map-tiles .my-div-icon.bildung{background-image:url("../../assets/Bildung_Forschung2.png")}
+#map-tiles .my-div-icon.gastro{background-image:url("../../assets/Gastronomie.png")}
+#map-tiles .my-div-icon.raum{background-image:url("../../assets/Raum.png")}
+#map-tiles .my-div-icon.gesund{background-image:url("../../assets/Gesundheit.png")}
+#map-tiles .my-div-icon.handel{background-image:url("../../assets/Handel_Dienstleistung.png");background-size:24px 24px}
+#map-tiles .my-div-icon.kultur{background-image:url("../../assets/Kunst_Kultur.png")}
+#map-tiles .my-div-icon.fortbewegen{background-image:url("../../assets/Mobilität.png")}
+#map-tiles .my-div-icon.sportlich{background-image:url("../../assets/Sport.png");background-size:28px 28px}
 #map-tiles .my-div-icon:hover>div{display:block;width:200px;z-index:15000;margin-left:-85px;position:absolute;bottom:35px}#map-tiles .my-div-icon:hover>div div{display:block;margin:0 auto;background:rgba(255,255,255,0.8);text-align:center;width:fit-content;border:1px solid #1f3050;border-radius:5px;padding:5px 8px}
 #map-tiles .leaflet-control-layers-toggle{width:26px;height:26px;background-size:22px 22px}
 #map-tiles #forkme{position:absolute;bottom:14px;left:-70px;display:block;width:300px;height:33px;transform:rotate(45deg);overflow:hidden}
