@@ -152,30 +152,7 @@
         <a href="<%- properties['opening_hours:url'] %>" target=_blank><%- properties['opening_hours:url'] %></a>
       </p>
     <% } %>
-        <h3><%- T("kategorie") %></h3>
-      <p>
-        <%
-          var tois_array = createToiArray(properties['kategorie']);
-          var trans_array = tois_array.map(function(obj){
-            var qnr = tax_hashtable.toistr_to_qnr[obj];
-            return (qnr) ? tax_hashtable.toi_qindex[qnr].itemLabel.value : obj;
-          });
-          var desc_array = tois_array.map(function(obj){
-            var qnr = tax_hashtable.toistr_to_qnr[obj];
-            return (qnr) ? ( (tax_hashtable.toi_qindex[qnr].description) ? tax_hashtable.toi_qindex[qnr].description.value : "" ) : "";
-          });
-          var wikipedia_array = tois_array.map(function(obj){
-            var qnr = tax_hashtable.toistr_to_qnr[obj];
-            return (qnr) ? ( (tax_hashtable.toi_qindex[qnr].wikipedia) ? tax_hashtable.toi_qindex[qnr].wikipedia.value : "" ) : "";
-          });
-        %>
-
-        <%  for (var i = 0; i < trans_array.length; i++) { %>
-            <span class='wp' title='<%- desc_array[i] %>' > <%- trans_array[i] %><% if(wikipedia_array[i]) { %>
-            (<a href='<%- wikipedia_array[i] %>' target=_blank title='View Wikipedia article for this type of initiative'><img src='assets/wikipedia-48.png' class=wp alt='View Wikipedia article for this type of initiative' /></a>)<% } %><%- (i < trans_array.length - 1 ) ? ',' : '' %>
-    </span> <% } %>
-
-      </p>
+        </p>
       <h3><%- T("linked_data") %></h3>
       <table>
         <% if (properties['osm']) { %>
