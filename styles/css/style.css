@@ -33,7 +33,7 @@ h6 {
 }
 #map-tiles .leaflet-popup {
   font-family: 'Open Sans', sans-serif;
-  text-align: left !important;
+  text-align: center !important;
 }
 #map-tiles .leaflet-popup .leaflet-popup-close-button {
   font-size: 23px;
