@@ -46,6 +46,7 @@ h6 {
   background: #c3c3c3;
 }
 #map-tiles .leaflet-popup .leaflet-popup-content-wrapper {
+  background: #c3c3c3;
   border-radius: 0;
   padding: 0px 2px 0 0;
   margin: 0;
@@ -140,8 +141,8 @@ h6 {
 #map-tiles .my-div-icon.kultur,
 #map-tiles .my-div-icon.fortbewegen,
 #map-tiles .my-div-icon.sportlich {
-  width: 32px !important;
-  height: 32px;
+  width: 28.5px !important;
+  height: 40px;
   margin-top: -24px;
   background: no-repeat;
 }
@@ -317,7 +318,7 @@ h6 {
   padding: 5px 0 5px 10px;
   display: block;
   width: 180px;
-  height: 150%;
+  height: 100%;
   cursor: pointer;
 }
 #map-menu-container ul#map-menu span.toggle.selected {
