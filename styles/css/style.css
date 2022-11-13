@@ -234,7 +234,7 @@ h6 {
   height: 100vh;
   overflow: auto;
   width: 430px;
-  background: #c3c3c3;
+  background: #8f8d8d;
   font-size: 1.2em;
   font-weight: bold;
   letter-spacing: 0.075em;
@@ -248,7 +248,7 @@ h6 {
 }
 #map-menu-container ul#map-menu .list-group-item {
   padding: 0;
-  background: #c3c3c3;
+  background: #8f8d8d;
   color: #fff;
   border: none;
   border-radius: none;
@@ -435,7 +435,7 @@ h6 {
 }
 #map-menu-container div#languageSelector ul li {
   display: none;
-  background: #c3c3c3;
+  background: #8f8d8d;
 }
 #map-menu-container div#languageSelector ul li.default {
   display: block;
