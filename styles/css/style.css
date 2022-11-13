@@ -29,7 +29,7 @@ h6 {
   top: 0;
   bottom: 0;
   right: 0;
-  left: 430px;
+  left: 330px;
 }
 #map-tiles .leaflet-popup {
   font-family: 'Open Sans', sans-serif;
@@ -233,7 +233,7 @@ h6 {
 #map-menu-container {
   height: 100vh;
   overflow: auto;
-  width: 430px;
+  width: 330px;
   background: #8f8d8d;
   font-size: 1.2em;
   font-weight: bold;
@@ -344,7 +344,7 @@ h6 {
   display: none;
   background: #fcec74;
   position: fixed;
-  left: 430px;
+  left: 330px;
   top: 0;
   z-index: 10;
   -webkit-padding-start: 0px;
