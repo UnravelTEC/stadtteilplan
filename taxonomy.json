@@ -33,7 +33,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gemeinschaftsräume"
+          "value": "Räume"
         },
         "instance_of": {
           "type": "uri",
@@ -166,7 +166,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gemeinschaftsräume"
+          "value": "Räume"
         },
         "instance_of": {
           "type": "uri",
@@ -178,7 +178,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Gemeinschaftsräume"
+          "value": "Räume"
         }
       },
       {
