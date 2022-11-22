@@ -33,7 +33,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Räume"
+          "value": "Raum"
         },
         "instance_of": {
           "type": "uri",
