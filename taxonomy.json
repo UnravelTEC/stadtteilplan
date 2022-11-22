@@ -52,7 +52,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Handel & Dienstleistung"
+          "value": "Handel & Dienstleistungen"
         },
         "instance_of": {
           "type": "uri",
@@ -71,7 +71,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Kultur"
+          "value": "Kunst & Kultur"
         },
         "instance_of": {
           "type": "uri",
@@ -90,7 +90,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gesundheit & Soziales"
+          "value": "Gesundheit"
         },
         "instance_of": {
           "type": "uri",
@@ -189,7 +189,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Handel & Dienstleistung"
+          "value": "Handel & Dienstleistungen"
         },
         "instance_of": {
           "type": "uri",
@@ -201,7 +201,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Handel & Dienstleistung"
+          "value": "Handel & Dienstleistungen"
         }
       },
       {
@@ -212,7 +212,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Kultur"
+          "value": "Kunst & Kultur"
         },
         "instance_of": {
           "type": "uri",
@@ -224,7 +224,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Kultur"
+          "value": "Kunst & Kultur"
         }
       },
       {
@@ -235,7 +235,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gesundheit & Soziales"
+          "value": "Gesundheit"
         },
         "instance_of": {
           "type": "uri",
@@ -247,7 +247,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Gesundheit & Soziales"
+          "value": "Gesundheit"
         }
       },
       {
@@ -304,7 +304,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Mobilität & Transportmittel"
+          "value": "Mobilität"
         },
         "instance_of": {
           "type": "uri",
@@ -323,7 +323,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Mobilität & Transportmittel"
+          "value": "Mobilität"
         },
         "instance_of": {
           "type": "uri",
@@ -335,7 +335,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Mobilität & Transportmittel"
+          "value": "Mobilität"
         }
       },
       {
