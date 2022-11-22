@@ -6,13 +6,936 @@
         {
             "type": "Feature",
             "properties": {
-                "contact:phone": "0316 571044",
+                "name": "Trafik Brigitte Namor",
+                "kategorie": "kaufen",
+                "osm": "https://www.openstreetmap.org/node/2307853313",
+                "contact:phone": "0316 576520",
+                "addr:housenumber": "Vinzenzgasse 22, 8020 Graz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40490430000,
+                    47.07286310000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Bildungseinrichtung",
+                "contact:email": "office@borg-graz.at",
+                "contact:website": "https://www.borg-graz.at",
+                "osm": "https://www.openstreetmap.org/way/492276900",
+                "addr:street": "Dreierschützengasse",
+                "addr:housenumber": "15",
+                "contact:phone": "+43 (0) 5 024 800 7",
+                "name": "BORG Dreierschützengasse",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41052459598,
+                    47.07772833336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "opening_hours": "Mo-Sa 9:00 - 22:00; So 9:00 - 24:00; Feiertage 9:00 - 19:00",
+                "contact:website": "http://www.das-wirtshaus.at",
+                "description": "Ein Gasthaus mit über 60 Jahre Tradition. Tipp: Klachlsuppe mit Heidensterz und die hausgemachte Saure Sulz.",
+                "contact:phone": "0316 583419",
+                "kategorie": "essen",
+                "name": "Roschitz - Das Wirtshaus",
+                "osm": "https://www.openstreetmap.org/node/365547599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40317210000,
+                    47.07313420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Lilienthalgasse",
+                "description": "Schulmedizin und Naturheilkunde. Beratungstermine auf Anfrage.",
+                "osm": "https://www.openstreetmap.org/node/270508834",
+                "kategorie": "Gesundheit & Soziales",
+                "image": "https://commons.wikimedia.org/wiki/File:Schutzengel_Apotheke_Graz.jpg",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "contact:phone": "0316 5812650",
+                "contact:website": "http://www.schutzengelapotheke-graz.at‎",
+                "addr:housenumber": "24",
+                "name": "Apotheke Schutzengel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40466240000,
+                    47.07436760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "TU Graz Working Group Sustainable Construction",
+                "kategorie": "Bildung/ Forschung",
+                "contact:website": "https://www.tugraz.at/arbeitsgruppen/working-group-sustainability-assessment/home/",
+                "contact:email": "office.agnhb@tugraz.at",
+                "contact:facebook": "https://www.facebook.com/agnhb/",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:phone": "+43 (0) 316 407 744",
+                "description": "Hochschulbildung",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41109323233,
+                    47.07992385497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:website": "http://insula.at",
+                "contact:email": "office@insula.at",
+                "description": "Projektentwicklung",
+                "name": "insula KS Group",
+                "kategorie": "handel",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41113346681,
+                    47.07990193577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Hier bieten viele Bauern aus der Umgebung ihre Köstlichkeiten an: von Obst und Gemüse bis zu Fleisch- und Fischspezialitäten. Der komplette Markt ist überdacht.",
+                "name": "Bauernmarkt Eggenberg",
+                "opening_hours": "Mi und Sa 6:00-13:00",
+                "kategorie": "handel",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:street": "Franz-Steiner-Gasse",
+                "addr:housenumber": "18-20",
+                "osm": "https://www.openstreetmap.org/way/160782516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40263850000,
+                    47.07220380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:website": "http://www.putzerei-schneiderei.at",
+                "name": "Putzerei/Schreiderei Fuchsbichler",
+                "image": "https://commons.wikimedia.org/wiki/File:Fuchsbichler.jpg",
+                "contact:phone": "0316 581121",
+                "kategorie": "kaufen",
+                "description": "Die Putzerei/Schneiderei Fuchsbichler repariert, pflegt, wäscht und reinigt Ihre Wäsche, Kleidung und Textilien schonend und umweltbewusst.",
+                "contact:email": "putzerei.schneiderei@aon.at",
+                "opening_hours": "Mo-Fr  8:00-18:00",
+                "osm": "https://www.openstreetmap.org/node/2307853212",
+                "addr:housenumber": "Rochelgasse 14, 8020 Graz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40644560000,
+                    47.07364120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Tankstelle",
+                "addr:street": "Alte Poststraße",
+                "kategorie": "handel",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "contact:phone": "0316 5866920",
+                "contact:website": "http://www.eniaustria.at",
+                "addr:housenumber": "87",
+                "description": "Tankstelle",
+                "osm": "https://www.openstreetmap.org/node/278471306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40731940000,
+                    47.07658660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "opening_hours": "Mo-Fr 9.00-13.00",
+                "description": "Direkte Hilfe von Frau zu Frau seit über 10 Jahren: VinziHelp bietet sowohl rechtliche als auch finanzielle Hilfe bzw. Alternativlösungen für die Probleme an.",
+                "name": "Vinzi Help",
+                "osm": "https://www.openstreetmap.org/node/3419458710",
+                "contact:phone": "0316 585800",
+                "kategorie": "treffen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40511670000,
+                    47.07489540000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "31",
+                "contact:website": "https://www.kfzfilla.at/",
+                "description": "KFZ-Werkstätte",
+                "kategorie": "handel",
+                "contact:phone": "+43 (0) 316 773905, +43 (0) 699 13021609",
+                "contact:email": "filla@kfzfilla.at",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:street": "Lastenstraße",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/182679122",
+                "name": "KFZ-FILLA-KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41199444652,
+                    47.08375577001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "118",
+                "contact:email": "STAeggenlend@wiki.at",
+                "addr:street": "Alte Poststraße",
+                "osm": "https://www.openstreetmap.org/way/160791234",
+                "kategorie": "Soziales/ Verein",
+                "contact:facebook": "https://www.facebook.com/staeggenlend",
+                "name": "Stadtteilzentrum EggenLend",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40772973955,
+                    47.07382291735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stahl Eberhardt",
+                "kategorie": "geschichte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40977000000,
+                    47.08094000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "office@gulascheck.at",
+                "name": "GULASCHECK Restaurant",
+                "addr:street": "Bodenfeldgasse",
+                "description": "Wie der Name schon sagt, eine Adresse für Gulaschliebhaber. Tipp: Unbedingt die Hausspezialität Fiaker Gulasch mit Frankfurter und Spiegelei kosten!",
+                "contact:phone": "+43 (0) 316 583 466",
+                "kategorie": "gastro",
+                "contact:website": "http://gulascheck.at",
+                "image": "https://commons.wikimedia.org/wiki/File:Gasthaus_Gulascheck.jpg",
+                "osm": "https://www.openstreetmap.org/node/2309348915",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40713840000,
+                    47.07577780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Wolkensteingasse",
+                "kategorie": "Gesundheit & Soziales",
+                "name": "Lebenshilfe Wolkensteingasse",
+                "osm": "https://www.openstreetmap.org/way/161326527#map=19/47.08290/15.40674",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "addr:housenumber": "43",
+                "contact:website": "https://lebenshilfen-sd.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40606409043,
+                    47.08116039737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:website": "http://www.facebook.com/staeggenlend",
+                "contact:email": "STAeggenlend@wiki.at",
+                "opening_hours": "Mo 9:00-12:00; Mi 15:00-17:00; Do 16:00-18:00",
+                "name": "Stadtteilbüro Eggenlend",
+                "osm": "https://www.openstreetmap.org/node/2956899595",
+                "description": "Siedlungsbetreuung und Informationsdrehscheibe im Stadtteil vom Bahnhof im Bezirk Lend bis zum Schloss Eggenberg. Die Siedlungsbetreuung reicht von wöchentlichen Siedlungssprechstunden und Haustürgesprächen bis hin zum Siedlungsfest und beschäftigt sich mit Themen wie Müll und Sauberkeit, Lärm, Sicherheitsgefühl oder Ärger mit Nachbarn.",
+                "contact:phone": "0676 5777507",
+                "kategorie": "treffen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40459890000,
+                    47.07306520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "description": "Zeitschriftenverlag",
+                "contact:facebook": "https://www.facebook.com/SteiermarkmagazinKlipp",
+                "name": "Klipp Zeitschriften GmbH & Co KG",
+                "kategorie": "handel",
+                "contact:phone": "+43 (0) 316 426 080",
+                "contact:website": "https://www.klippmagazin.at",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:email": "office@klippmagazin.at",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41103958547,
+                    47.07987271410
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vor.ort Stadtteilmanagement;Leihradl vor.ort;vor.ort cafè + Cityaccess;Green Living Lab",
+                "contact:email": "vorort@stadtlaborgraz.at",
+                "osm": "https://www.openstreetmap.org/node/4790205441;https://www.openstreetmap.org/node/3986854239;https://www.openstreetmap.org/node/4858278269",
+                "image": "https://commons.wikimedia.org/wiki/File:Green_Living_Lab.jpg;https://commons.wikimedia.org/wiki/File:Vor.ort.jpg;https://commons.wikimedia.org/wiki/File:Leihradl_vor.ort.jpg",
+                "contact:phone": "0676 40 68 818;0676 4068817",
+                "description": "Information, Austausch und Beteiligung rund um die Smart City Stadtteilentwicklung.;Freies WLAN im Stadtteil;Stadtteil-Fahrräder für jeden Anlass gratis und unkompliziert auszuleihen: vom Rennrad übers  Bmx bis zum Lastenrad. Die Räder wurden, zusammen mit den NachbarInnen und in Kooperation mit Rebikel, neu zusammengebaut.;Gemeinschaftsgarten: ein Ort der lokalen Produktion von Nahrungsmitteln, der Erholung, des Austauschs und der Kooperation. Tipp: Am Ende der Gartensaison wird jährlich ein „HAPPY END Erntedankfest“ vor Ort organisiert.",
+                "addr:housenumber": "Container gegenüber Science Tower;Stadtteilmanagement vor.ort",
+                "contact:website": "http://www.smartcitygraz.at/more_vorort-dabeisein/",
+                "kategorie": "erleben; treffen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41058133625,
+                    47.07971986193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "Grazer Eisenbahner Modell-Eisenbahn Club",
+                "kategorie": "Sport & Freizeit",
+                "description": "„Das war so das Highlight wo wir dann dazukommen durften und auch diesen Bereich betreten durften. Der Club ist nach wir vor dort noch beheimatet und der veranstaltet auch noch regelmäßig Ausstellungen.“",
+                "osm": "https://www.openstreetmap.org/node/4639650466",
+                "addr:city": "Graz",
+                "addr:housenumber": "30b",
+                "addr:postcode": "8020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41424000000,
+                    47.07348000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Volksschule Leopoldinum",
+                "description": "Bildungseinrichtung",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "vs.leopoldinum@vs-leopoldinum.edu.graz.at",
+                "kategorie": "Bildung/ Forschung",
+                "osm": "https://www.openstreetmap.org/way/735112234",
+                "addr:city": "Graz",
+                "addr:housenumber": "99",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41090279549,
+                    47.07916218902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "helmut.sechser@iwgpl.com",
+                "contact:phone": "+43 (0) 676 324 306 0",
+                "kategorie": "handel",
+                "name": "Regus Büroräume in Graz",
+                "addr:housenumber": "48",
+                "description": "Flexible Büroräume in Graz: co-working, virtuelle Büros Konferenz und Tagungsräume, Notfall-Büros",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "http://www.openstreetmap.org/way/182670483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41309000000,
+                    47.07529000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:phone": "+43 (0)316 431 112",
+                "addr:city": "8020 Graz",
+                "website": "www.smartcity.dental",
+                "kategorie": "Gesundheit",
+                "description": "Zahnärztin",
+                "name": "Smart City Dental - Dr. Biljana Milicevic",
+                "osm": "https://www.openstreetmap.org/node/6884777242",
+                "addr:street": "Waagner-Biro-Straße 84b",
+                "contact:email": "office@smartcity.dental"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41312634408,
+                    47.07945626460
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "ibb@fh-joanneum.at",
+                "name": "FH Joanneum, Institut Bauplanung und Bauwirtschaft",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "description": "Hochschulbildung",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41104495257,
+                    47.07985262049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:phone": "0316 584260",
+                "name": "AVL-IT-Comp.",
+                "contact:email": "martin.hauer@avl.com",
+                "kategorie": "handel",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "osm": "https://www.openstreetmap.org/way/29716557",
+                "addr:housenumber": "98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41194250000,
+                    47.07966930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "PJ Messtechnik GmbH",
+                "contact:phone": "+43 (0) 650 908 065 1",
+                "description": "Messtechnik",
+                "contact:website": "http://www.pjm.co.at",
+                "contact:linkedin": "https://www.linkedin.com/company/pjm",
+                "addr:housenumber": "125",
+                "osm": "https://www.openstreetmap.org/node/4764105826",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:email": "office@pjm.co.at",
+                "addr:country": "Österreich",
+                "kategorie": "handel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40944277546,
+                    47.08187851214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:facebook": "https://www.facebook.com/ogoodgmbh",
+                "contact:website": "https://ogood.at/",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "name": "OGOOD GmbH",
+                "kategorie": "handel",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@ogood.at",
+                "contact:instagram": "https://www.instagram.com/ogood_gmbh/",
+                "addr:housenumber": "63c",
+                "addr:city": "Graz",
+                "osm": "https://www.openstreetmap.org/way/26362809",
+                "description": "APP/ Web-Entwicklung",
+                "contact:phone": "+43 (0) 316 722 683, +43 (0) 676 499 153 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41206954837,
+                    47.07655929700
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "image": "https://commons.wikimedia.org/wiki/File:Sitzecke_Eggenlend.jpg",
+                "osm": "https://www.openstreetmap.org/node/4774465242",
+                "addr:housenumber": "Dreierschützengasse 10, 8020 Graz",
+                "name": "Sitzecke",
+                "description": "Ein gemütlicher Sitzbereich aus Holz. Durch schattenspendende Bäume ist es auch an heißen Tagen angenehm kühl und lädt zu einer kurzen Pause ein.",
+                "kategorie": "erleben; treffen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40997590000,
+                    47.07824140000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "image": "https://upload.wikimedia.org/wikipedia/de/thumb/7/79/Plabutsch.jpg/800px-Plabutsch.jpg",
+                "osm": "https://www.openstreetmap.org/node/271779032",
+                "kategorie": "erleben",
+                "name": "Plabutsch",
+                "description": "Ein beliebtes Ausflugziel der StadtteilbewohnerInnen. Hier läßt sich der Blick über die Stadt vom 750 Meter hohen Fürstenstand aus wunderbar genießen."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38515410000,
+                    47.09040860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pfarre St. Vinzenz",
+                "description": "Auch außerhalb der Messen lädt die Pfarre Interessierte zu zahlreichen Veranstaltungen wie Filmvorführungen (VinziAle), Konzerten und Vorträgen, sowie zu Spaziergängen und Wanderungen ein.",
+                "osm": "https://www.openstreetmap.org/way/90628414",
+                "contact:email": "graz-st-vinzenz@graz-seckau.at",
+                "contact:website": "http://www.stvinzenz.at",
+                "kategorie": "treffen",
+                "image": "https://commons.wikimedia.org/wiki/File:Pfarre_St._Vinzenz.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40510140000,
+                    47.07455470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Lilienthalgasse",
+                "addr:housenumber": "26",
+                "kategorie": "Gesundheit & Soziales",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "contact:email": "office@ais-jugendservice.at",
+                "addr:country": "Österreich",
+                "name": "AIS Jugendservice mit Gemeinnützigkeitsstatus GesmbH",
+                "osm": "https://www.openstreetmap.org/way/90628418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40432065457,
+                    47.07438919979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VAM Anlagentechnik",
+                "contact:website": "http://www.vam.bilfinger.com",
+                "kategorie": "unternehmen",
+                "addr:housenumber": "Waagner-Biro-Straße 47",
+                "osm": "https://www.openstreetmap.org/node/4764185615",
+                "contact:phone": "0316 572139",
+                "description": "Anlagentechnik",
+                "contact:email": "vam@bilfinger.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41311680000,
+                    47.07528900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Baumanagement",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@ks.at",
+                "kategorie": "handel",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "contact:website": "https://www.ks.at",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "name": "KS Group",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41117906436,
+                    47.07989828272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "kategorie": "kaufen",
+                "contact:email": "vinzishop@vinzi.at",
+                "opening_hours": "Mo–Fr 10:00 - 18:00",
+                "osm": "https://www.openstreetmap.org/node/2307853328",
+                "name": "VinziShop",
+                "description": "Hier werden Sachspenden verkauft die abgegeben werden, wie Kleidungsstücke, Bücher, Kinderspielzeug und diverse Haushaltswaren. Mit dem Erlös werden die Einrichtungen der Vinzenzgemeinschaft Eggenberg unterstützt.",
+                "contact:phone": "0316 585807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40798650000,
+                    47.07306640000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Ein Gasthaus mit steirischer Hausmannskost: Backhendl, Beuschel, Leber- und Flecksuppe und diverse andere steirische Schmankerln. Es werden Räumlichkeiten für Gruppenfeiern und Seminare zur Verfügung gestellt.",
+                "addr:housenumber": "41",
+                "image": "https://commons.wikimedia.org/wiki/File:Gasthaus_Kirchenwirt.jpg",
+                "addr:street": "Vinzenzgasse",
+                "opening_hours": "Mo-Sa 9:00-24:00, So und Feiertage 9:00-15:00",
+                "kategorie": "gastro",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "name": "Kirchenwirt",
+                "osm": "https://www.openstreetmap.org/way/94337869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40466550000,
+                    47.07470990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:facebook": "https://www.facebook.com/Humanic",
+                "addr:housenumber": "15a",
+                "osm": "https://www.openstreetmap.org/way/182679093",
+                "kategorie": "handel",
+                "name": "Humanic Outlet",
+                "contact:website": "https://www.humanic.net/at",
+                "contact:instagram": "https://www.instagram.com/humanicshoes/",
+                "description": "Handel",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:street": "Lastenstraße",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41292785525,
+                    47.08306173629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "30",
+                "addr:street": "Georgigasse",
+                "name": "Kebap Haus",
+                "osm": "https://www.openstreetmap.org/node/2307853229",
+                "kategorie": "gastro",
+                "addr:city": "Graz",
+                "addr:postcode": "8020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40481110000,
+                    47.07306330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "20",
+                "contact:phone": "+43 (0) 316 585 800",
+                "name": "Vinzenzgemeinschaft Eggenberg - Vinzi Werke",
+                "kategorie": "Soziales/ Verein",
+                "osm": "https://www.openstreetmap.org/node/2309348915",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "contact:facebook": "https://www.facebook.com/VinziWerke",
+                "contact:website": "https://www.vinzi.at",
+                "contact:instagram": "https://www.instagram.com/vinziwerke/",
+                "description": "soziale Einrichtung",
+                "addr:street": "Lilienthalgasse",
+                "contact:email": "vinzihaus@vinzi.at",
+                "addr:city": "Graz",
+                "contact:youtube": "https://www.youtube.com/user/VinziWerke"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40556251466,
+                    47.07434170704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Pizzeria Rimini",
+                "kategorie": "gastro",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "osm": "https://www.openstreetmap.org/node/270508849",
+                "addr:street": "Peter-Tunner-Gasse",
+                "addr:housenumber": "45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40410880000,
+                    47.08108000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:website": "http://www.dolcevita-graz.at",
+                "contact:phone": "0316 577339",
+                "opening_hours": "Mo-So 11:00-23:00",
+                "kategorie": "essen",
+                "description": "Einzelgerichte und kombinierte Menüs. Das Essen kann auch online bestellt werden.",
+                "osm": "https://www.openstreetmap.org/node/2972015642",
+                "name": "Pizzeria Dolce Vita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40513090000,
+                    47.07305660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/node/2530764004",
+                "kategorie": "unternehmen",
+                "image": "https://commons.wikimedia.org/wiki/File:Bbrz.jpg",
+                "description": "Berufliches Bildungs- und Rehabilitationszentrum",
+                "contact:email": "stmk@bbrz.at",
+                "addr:street": "Alte Poststraße",
+                "contact:website": "http://www.bbrz.at",
+                "addr:housenumber": "136",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:phone": "0316 577674",
+                "name": "BBRZ Reha GmbH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40876010000,
+                    47.07102510000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "magdalena.liebethat@wohnbaugruppe.at",
+                "name": "Servicebüro der ENW",
+                "kategorie": "Soziales/ Verein",
+                "addr:housenumber": "63-69",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41198372304,
+                    47.07704152396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "coolcity@greenbox.co.at",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:facebook": "www.facebook.com/greenbox.co.at",
+                "addr:housenumber": "109",
+                "kategorie": "handel",
+                "osm": "https://www.openstreetmap.org/way/492276900",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "name": "greenbox coolcity",
+                "description": "Studentenheim",
+                "contact:website": "https://www.greenbox.co.at",
+                "contact:instagram": "www.instagram.com/greenbox.co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41029761720,
+                    47.08017550314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "opening_hours": "Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00",
+                "addr:street": "Georgigasse",
+                "name": "Cool Hair",
+                "description": "Friseur",
+                "kategorie": "handel",
+                "contact:email": "office@coolhair.at",
+                "osm": "https://www.openstreetmap.org/node/1728200713",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:housenumber": "34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40426610000,
+                    47.07308020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "opening_hours": "Mo, Di, Do, Fr 7:00 - 12:30 und 14:30 - 18:00, Mi 7:00 - 12:30 und 14:30 - 18:30, Sa 7:00 - 12.00;",
+                "contact:phone": "0316 571044",
                 "kategorie": "kaufen",
                 "osm": "https://www.openstreetmap.org/node/1251189841",
                 "name": "Trafik",
-                "addr:housenumber": "Peter-Tunner-Gasse 34, 8020 Graz",
-                "description": "Zeitschriften, Tabakwaren, Lotto und mehr"
+                "description": "Zeitschriften, Tabakwaren, Lotto und mehr",
+                "addr:housenumber": "Peter-Tunner-Gasse 34, 8020 Graz"
             },
             "geometry": {
                 "type": "Point",
@@ -25,24 +948,440 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Bildungseinrichtung",
-                "contact:website": "https://www.borg-graz.at",
-                "contact:email": "office@borg-graz.at",
-                "osm": "https://www.openstreetmap.org/way/492276900",
-                "addr:housenumber": "15",
-                "addr:street": "Dreierschützengasse",
-                "contact:phone": "+43 (0) 5 024 800 7",
-                "name": "BORG Dreierschützengasse",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "kategorie": "Bildung & Forschung"
+                "osm": "https://www.openstreetmap.org/node/288172339",
+                "name": "ZEG Neubauer",
+                "kategorie": "kaufen",
+                "contact:email": "office@neubauer-zweirad.at",
+                "image": "https://commons.wikimedia.org/wiki/File:ZEG.jpg",
+                "contact:website": "http://www.neubauer-zweirad.at",
+                "opening_hours": "Mo-Fr 8:00 – 12:00 und 14:30 – 18:00; Sa 8:00 – 12:00",
+                "description": "Fahrradhandel und Reparaturen",
+                "contact:phone": "0316 581300"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.41052459598,
-                    47.07772833336
+                    15.40841110000,
+                    47.07185140000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "kinderbildung.cool-city@gip.st",
+                "name": "GiP Kinderkrippe Cool City",
+                "contact:website": "https://www.gip.st/kinderkrippe/cool-city",
+                "contact:phone": "+43 (0) 660 957 712 3",
+                "description": "Kinderkrippe/ Kindergarten",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/87979332",
+                "addr:housenumber": "111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40968775213,
+                    47.08006632548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "kategorie": "unternehmen",
+                "contact:email": "karl.röck@oebb.at",
+                "osm": "https://www.openstreetmap.org/way/182670510",
+                "description": "Lehrwerkstätten und Lehringsausbildung",
+                "contact:phone": "0664 8417932",
+                "name": "ÖBB Werkstätten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41335510000,
+                    47.07602590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:website": "http://www.rettet-das-kind-stmk.at/joomla/index.php/familienzentrum-wohin",
+                "addr:street": "Starhemberggasse",
+                "description": "soziale Einrichtung",
+                "addr:housenumber": "19",
+                "name": "Familienzentrum WOHIN (Rettet das Kind)",
+                "contact:phone": "+43 (0) 316 573 432",
+                "osm": "https://www.openstreetmap.org/node/4799671013",
+                "kategorie": "Soziales/ Verein",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "contact:email": "wohin@rdk-stmk.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40981590000,
+                    47.07407890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "verein@stmk.volkshilfe.at",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:website": "https://stmk.volkshilfe.at",
+                "description": "soziale Einrichtung",
+                "name": "Volkshilfe Verbandssekretariat",
+                "kategorie": "Soziales/ Verein",
+                "addr:housenumber": "63c",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41211783350,
+                    47.07662505233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Lerchengasse",
+                "osm": "https://www.openstreetmap.org/way/221771125",
+                "kategorie": "gastro",
+                "name": "Café Stub'n",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40474190000,
+                    47.07509630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "osm": "https://www.openstreetmap.org/way/245081395",
+                "contact:phone": "0316 59720",
+                "kategorie": "handel",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "description": "Stahl und Holz",
+                "addr:housenumber": "45",
+                "name": "Weyland GmbH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41318550000,
+                    47.07507730000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:phone": "+43 316 587710",
+                "image": "https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Haus.jpg",
+                "osm": "https://www.openstreetmap.org/way/161333727",
+                "contact:website": "http://www.bokan-exclusiv.at/de-at/cafe/",
+                "kategorie": "gastro",
+                "description": "Ein Cafè mit österreichischer Kaffeehaustradition. Genieße einen Kuchen oder einen Eisbecher auf der Terrasse! Tipp: Großes Frühstücksangebot bis 12 Uhr - vom Wiener Frühstück, über ein Sportlerfrühstück bis hin zu einem American Breakfast.",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "opening_hours": "Mo-Sa 7:30-1:00, So 8:30-1:00",
+                "addr:housenumber": "133",
+                "name": "Café Polanz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40888320000,
+                    47.08254750000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:website": "http://www.pjm.co.at",
+                "contact:linkedin": "https://www.linkedin.com/company/pjm",
+                "contact:phone": "+43 (0) 676 363 466 5",
+                "addr:housenumber": "125",
+                "name": "PJ Monitoring GmbH",
+                "osm": "https://www.openstreetmap.org/node/4764105826",
+                "contact:email": "rami@pjm.com.at",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "description": "Monitoring",
+                "addr:country": "Österreich",
+                "kategorie": "handel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40947854251,
+                    47.08185262941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "kategorie": "Kultur",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "description": "Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.",
+                "name": "Helmut List Halle",
+                "osm": "https://www.openstreetmap.org/way/29716557",
+                "image": "https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
+                "addr:housenumber": "98a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41137352452,
+                    47.07948274668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/node/2299236376",
+                "contact:phone": "0316 818506",
+                "opening_hours": "Mo-So 6:00 - 2:00",
+                "kategorie": "essen",
+                "name": "Pizzeria Siesta",
+                "contact:email": "siesta@buysino.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40934290000,
+                    47.07295150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Starhemberggasse",
+                "name": "Jugendzentrum EggenLend",
+                "kategorie": "Gesundheit & Soziales",
+                "contact:email": "juzeggenlend@wiki.at",
+                "contact:facebook": "https://www.facebook.com/staeggenlend",
+                "addr:city": "Graz",
+                "osm": "https://www.openstreetmap.org/way/24016756",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "addr:housenumber": "32",
+                "contact:phone": "+43 (0) 676 849 202 602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40894209802,
+                    47.07512353548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "118",
+                "contact:email": "STAeggenlend@wiki.at",
+                "addr:street": "Alte Poststraße",
+                "osm": "https://www.openstreetmap.org/way/160791234",
+                "kategorie": "Gesundheit & Soziales",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "name": "KostNixLaden EggenLend",
+                "addr:country": "Österreich",
+                "contact:facebook": "https://www.facebook.com/KostNixEggenLend"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40766000211,
+                    47.07388502624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MyPlace-SelfStorage",
+                "addr:street": "Starhemberggasse",
+                "description": "Lagerräume und Umzugshilfe",
+                "osm": "https://www.openstreetmap.org/way/182670477",
+                "kategorie": "handel",
+                "addr:housenumber": "4",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:facebook": "https://www.facebook.com/MyPlace.SelfStorage",
+                "addr:country": "Österreich",
+                "contact:phone": "+43 (0) 316 570 650",
+                "contact:website": "http://www.myplace.at/",
+                "contact:email": "graz@myplace.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41196320000,
+                    47.07523820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "vorort@stadtlaborgraz.at",
+                "contact:phone": "0676 40 68 818",
+                "kategorie": "zukunft",
+                "osm": "https://www.openstreetmap.org/way/495192776",
+                "contact:website": "http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
+                "name": "Schulcampus",
+                "description": "Ein neues Schulgebäude mit einer Volksschule und einer Neuen Mittelschule wird hier errichtet. Die Schulräumlichkeiten und die großzügigen Flächen im Freien werden für viele verschiedene Dinge nutzbar sein. Z.B. sollen sie NachbarInnen und Interessierten in den unterrichtsfreien Zeiten für Veranstaltungen, Lesungen oder sportlichen Aktivitäten zur Verfügung stehen. Baustart Frühjahr 2018. Eröffnung Herbst 2019."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41068150000,
+                    47.07935850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:website": "http://www.alt-eggenberg.net",
+                "addr:housenumber": "20",
+                "osm": "https://www.openstreetmap.org/node/2307853184",
+                "addr:street": "Vinzenzgasse",
+                "opening_hours": "Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
+                "kategorie": "gastro",
+                "contact:phone": "0664 2725314",
+                "name": "Cafè Alt Eggenberg",
+                "description": "Kleines Kaffeehaus mit Mittagsmenü. Für kleine Gruppen werden auf Bestellung auch spezielle Gerichte gekocht.",
+                "addr:city": "Graz",
+                "addr:postcode": "8020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40489280000,
+                    47.07267990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "42",
+                "addr:street": "Vinzenzgasse",
+                "contact:phone": "+43 (0) 316 585 800",
+                "name": "Vinzenzgemeinschaft Eggenberg - Vinzi Werke",
+                "kategorie": "Soziales/ Verein",
+                "osm": "https://www.openstreetmap.org/node/2309348915",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:email": "graz-st-vinzenz@graz-seckau.at",
+                "addr:country": "Österreich",
+                "contact:website": "http://www.stvinzenz.at",
+                "description": "religiöse Einrichtung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40507971704,
+                    47.07465224775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/node/3590611712",
+                "description": "Friseur",
+                "contact:phone": "+43 (0) 316 582 635",
+                "contact:website": "http://www.friseur-leitinger.at",
+                "kategorie": "handel",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "name": "Modefriseur Leitinger",
+                "addr:street": "Peter-Tunner-Gasse",
+                "addr:housenumber": "45",
+                "contact:email": "salon@friseur-leitinger.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40401000000,
+                    47.08103240000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/node/2529281692#map=19/47.08160/15.40326",
+                "description": "Online Marketing",
+                "addr:housenumber": "60",
+                "contact:email": "office@idec.at",
+                "kategorie": "handel",
+                "contact:website": "http://www.idec.at/",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "name": "IDEC - Internet Database E-Business Center GmbH",
+                "addr:street": "Peter-Tunner-Gasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40292322099,
+                    47.08136313827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "kategorie": "kaufen",
+                "osm": "https://www.openstreetmap.org/node/270508841",
+                "description": "Im ersten Obergeschoß der Rosen Apotheke wurde auf 150 m² ein Wohlfühlbereich mit einem Schönheitssalon für Kosmetik, Massage und Fußpflege eingerichtet. Tipp: Shiatsu - jeden Freitag!",
+                "contact:phone": "0316 570070",
+                "opening_hours": "Mo-Fr 8:00-18:30, Sa 8:00-12:30",
+                "contact:email": "info@rosenapo.at",
+                "name": "Rosen Apotheke",
+                "contact:website": "http://www.rosenapo.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40447370000,
+                    47.08151790000
                 ]
             }
         },
@@ -68,91 +1407,63 @@
             "type": "Feature",
             "properties": {
                 "addr:street": "Waagner-Biro-Straße",
-                "contact:phone": "0316 584260",
-                "contact:email": "martin.hauer@avl.com",
-                "name": "AVL-IT-Comp.",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:housenumber": "98",
-                "osm": "https://www.openstreetmap.org/way/29716557"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41194250000,
-                    47.07966930000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Immobilien",
-                "contact:email": "office@immoxx.at",
-                "kategorie": "Handel & Dienstleistung",
-                "osm": "https://www.openstreetmap.org/way/182668032",
-                "name": "IMMOXX. GmbH",
-                "addr:housenumber": "14",
-                "contact:phone": "+43 (0) 676 842 489 100",
+                "contact:website": "http://www.rcc-rail.com/index.php?id=83",
+                "contact:email": "office@rcc-rail.com",
+                "name": "RCC Railway Competence and Certification GmbH",
+                "description": "Schienenfahrzeuge, Maschinenbau",
+                "addr:housenumber": "125",
+                "osm": "https://www.openstreetmap.org/way/198453609",
                 "addr:city": "Graz",
                 "addr:postcode": "8020",
                 "addr:country": "Österreich",
-                "contact:website": "https://www.immoxx.at/"
+                "kategorie": "handel"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.41459887952,
-                    47.07191211840
+                    15.40944903955,
+                    47.08184623589
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "verein@stmk.volkshilfe.at",
-                "contact:website": "https://stmk.volkshilfe.at",
-                "description": "soziale Einrichtung",
-                "name": "Volkshilfe Verbandssekretariat",
-                "kategorie": "Soziales/ Verein",
-                "addr:housenumber": "63c",
+                "addr:housenumber": "51",
+                "name": "Bezirkssportplatz St. Vinzenz",
+                "description": "Ca. 7.800 m² Sportplatzflächen für jedes Alter: Tennis, Fußball, Basketball, Tischtennis. Wasserbrunnen sind vorhanden.",
+                "kategorie": "Sport & Freizeit",
+                "addr:street": "Vinzenzgasse",
+                "contact:website": "https://venuzle.at/anbieter/bezirkssportplatz-st-vinzenz/",
+                "osm": "https://www.openstreetmap.org/way/94337860",
+                "image": "https://commons.wikimedia.org/wiki/File:Bezirkssportplatz.jpg",
                 "addr:postcode": "8020",
                 "addr:city": "Graz",
-                "addr:country": "Österreich"
+                "opening_hours": "Die Öffentliche Nachtruhe 22:00 – 6:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.41211783350,
-                    47.07662505233
+                    15.40435620000,
+                    47.07632380000
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "TU Graz Working Group Sustainable Construction",
-                "contact:facebook": "https://www.facebook.com/agnhb/",
-                "contact:email": "office.agnhb@tugraz.at",
-                "contact:website": "https://www.tugraz.at/arbeitsgruppen/working-group-sustainability-assessment/home/",
-                "kategorie": "Bildung/ Forschung",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:phone": "+43 (0) 316 407 744",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "description": "Hochschulbildung"
+                "osm": "https://www.openstreetmap.org/node/4587217901",
+                "kategorie": "kaufen",
+                "description": "Friseur",
+                "contact:phone": "0316 581159",
+                "opening_hours": "Mo-Fr 8:30-17:00",
+                "name": "Salon Evelyn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.41109323233,
-                    47.07992385497
+                    15.40682620000,
+                    47.07416360000
                 ]
             }
         },
@@ -160,16 +1471,16 @@
             "type": "Feature",
             "properties": {
                 "contact:website": "https://www.kult-stein.at",
-                "name": "Kultstein GmbH",
                 "osm": "https://www.openstreetmap.org/way/182672901",
+                "name": "Kultstein GmbH",
                 "description": "Betonprodukte",
+                "kategorie": "handel",
                 "addr:housenumber": "9",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:postcode": "8020",
                 "addr:city": "Graz",
-                "addr:country": "Österreich",
+                "addr:postcode": "8020",
+                "addr:street": "Lastenstraße",
                 "contact:email": "office@kult-stein.at",
-                "addr:street": "Lastenstraße"
+                "addr:country": "Österreich"
             },
             "geometry": {
                 "type": "Point",
@@ -182,82 +1493,131 @@
         {
             "type": "Feature",
             "properties": {
-                "image": "https://upload.wikimedia.org/wikipedia/de/thumb/7/79/Plabutsch.jpg/800px-Plabutsch.jpg",
-                "osm": "https://www.openstreetmap.org/node/271779032",
-                "kategorie": "erleben",
-                "name": "Plabutsch",
-                "description": "Ein beliebtes Ausflugziel der StadtteilbewohnerInnen. Hier läßt sich der Blick über die Stadt vom 750 Meter hohen Fürstenstand aus wunderbar genießen."
+                "kategorie": "Handel",
+                "name": "Tabak Trafik Haberl",
+                "contact:email": "christina.haberl@gmx.at",
+                "addr:city": "8020 Graz",
+                "contact:phone": "+43 (0)316 573 322",
+                "addr:street": "Alte Poststraße 114",
+                "osm": "https://www.openstreetmap.org/node/1747362930",
+                "image": "https://commons.wikimedia.org/wiki/File:Tabak_Trafik.jpg"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.38515410000,
-                    47.09040860000
+                    15.40771540000,
+                    47.07384880000
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Spedition",
-                "osm": "https://www.openstreetmap.org/way/182672901",
-                "name": "Spedition Ferstl",
-                "addr:housenumber": "9",
-                "contact:email": "c.office@fersped.at",
-                "addr:postcode": "8020",
+                "contact:phone": "+43 (0) 316 773 247",
+                "description": "KFZ-Werkstätte",
+                "name": "Holzmann Fahrzeugtechnik",
+                "kategorie": "handel",
+                "addr:housenumber": "37",
                 "addr:city": "Graz",
-                "addr:country": "Österreich",
+                "addr:postcode": "8020",
                 "addr:street": "Lastenstraße",
-                "kategorie": "Dienstleistung"
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/182679089",
+                "contact:email": "Holzmann.kfz.technik@aon.at"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.41407584608,
-                    47.08140697365
+                    15.41141507864,
+                    47.08450094030
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "kategorie": "Kultur",
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Das ehemalige, vor dem Abbruch bewahrte Industriegebäude, ist heute ein Veranstaltungsort und prägt seit 2002 das Kulturbild der Stadt.",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "image": "https://commons.wikimedia.org/wiki/File:Helmut_List_Halle.jpg",
-                "osm": "https://www.openstreetmap.org/way/29716557",
-                "name": "Helmut List Halle",
-                "addr:housenumber": "98a"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41137352452,
-                    47.07948274668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "118",
+                "contact:phone": "0316 5825070",
+                "name": "Espresso Cafe Irena",
                 "addr:street": "Alte Poststraße",
-                "contact:email": "STAeggenlend@wiki.at",
-                "osm": "https://www.openstreetmap.org/way/160791234",
-                "contact:facebook": "https://www.facebook.com/staeggenlend",
-                "kategorie": "Soziales/ Verein",
-                "name": "Stadtteilzentrum EggenLend",
+                "osm": "https://www.openstreetmap.org/node/2272080046",
+                "kategorie": "gastro",
                 "addr:postcode": "8020",
                 "addr:city": "Graz",
+                "addr:housenumber": "112",
+                "image": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Espresso_Irena.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40770170000,
+                    47.07401200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "office@tischlerei-schadler.at",
+                "kategorie": "kaufen",
+                "opening_hours": "Mo-Do 8:00-12:00 und 13:00-16:00, Fr 8:00-12:00 oder nach Vereinbarung",
+                "osm": "https://www.openstreetmap.org/node/2972015728",
+                "name": "Schadler Tischlerei",
+                "description": "Personalisierte Möbelstücke und Unterstützung bei der Gestaltung von Lebensräumen",
+                "contact:phone": "316581319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40664400000,
+                    47.07305340000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "kategorie": "Handel",
+                "contact:phone": "+43 (0) 316 581 352 0",
+                "osm": "https://www.openstreetmap.org/node/6175091256",
+                "addr:housenumber": "9",
+                "contact:email": "windisch.biebl@inode.at",
+                "description": "Bäckerei",
+                "addr:street": "Rochelgasse",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "name": "Windisch-Biebl Bäckerei KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40668367803,
+                    47.07350141135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "https://hempdrinks.at",
+                "description": "Weinhandlung",
+                "contact:instagram": "https://www.instagram.com/hempdrinks.gmbh/?hl=de",
+                "contact:email": "office@hempdrinks.at",
+                "osm": "https://www.openstreetmap.org/way/161325223#map=18/47.08234/15.40741",
+                "contact:phone": "+43 (0) 664 501 337 0 (Katja); +43 (0) 664 520 504 4 (Wolfgang)",
+                "kategorie": "handel",
+                "addr:street": "Wolkensteingasse",
+                "addr:housenumber": "37",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "name": "hempdrinks GmbH",
                 "addr:country": "Österreich"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.40772973955,
-                    47.07382291735
+                    15.40695189893,
+                    47.08235307835
                 ]
             }
         },
@@ -265,13 +1625,13 @@
             "type": "Feature",
             "properties": {
                 "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "office@calamar-graz.at",
                 "contact:phone": "+43 (0)676 682 947 1",
+                "contact:email": "office@calamar-graz.at",
                 "name": "Restaurant Calamar",
-                "addr:housenumber": "47",
                 "description": "Italienische, griechische und österreichische Küche. Tipp: günstige Tagesmenüs.",
-                "addr:city": "Graz",
+                "addr:housenumber": "47",
                 "addr:postcode": "8020",
+                "addr:city": "Graz",
                 "addr:country": "Österreich",
                 "osm": "https://www.openstreetmap.org/way/87979332"
             },
@@ -286,24 +1646,454 @@
         {
             "type": "Feature",
             "properties": {
-                "contact:facebook": "https://www.facebook.com/Humanic",
-                "addr:housenumber": "15a",
-                "osm": "https://www.openstreetmap.org/way/182679093",
-                "contact:instagram": "https://www.instagram.com/humanicshoes/",
-                "contact:website": "https://www.humanic.net/at",
-                "name": "Humanic Outlet",
-                "kategorie": "Handel & Dienstleistung",
-                "description": "Handel",
-                "addr:postcode": "8020",
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "Konsumwiese",
+                "kategorie": "Sport & Freizeit",
+                "osm": "https://www.openstreetmap.org/way/161095625",
+                "contact:website": "http://www.meine-kinder.at/i/spielplatz-konsumwiese-graz/",
+                "image": "https://commons.wikimedia.org/wiki/File:Konsumwiese_Waagner-Biro.jpg",
                 "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:street": "Lastenstraße"
+                "addr:postcode": "8020",
+                "description": "Ein eingezäunter Spielplatz mit einer Rutsche, einer Korbschaukel, einer Sandkiste und einem Kletterturm. Sitzmöglichkeiten sind vorhanden.",
+                "addr:housenumber": "65"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.41292785525,
-                    47.08306173629
+                    15.41143420000,
+                    47.07826220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Georgigasse",
+                "contact:website": "https://www.eggenberger-schluesseldienst.at/",
+                "kategorie": "handel",
+                "name": "Eggenberger Schlüsseldienst",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "osm": "https://www.openstreetmap.org/node/1101682560",
+                "addr:housenumber": "32",
+                "contact:phone": "0316 583633",
+                "opening_hours": "Mo–Fr 08:30 – 12:30 und 15:00 – 17:30; Donnerstag nachmittags und Samstag geschlossen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40452300000,
+                    47.07306670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Alte Poststraße",
+                "kategorie": "handel",
+                "name": "Handy Profi",
+                "osm": "https://www.openstreetmap.org/node/2309348917",
+                "addr:housenumber": "116",
+                "addr:city": "Graz",
+                "addr:postcode": "8020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40779800000,
+                    47.07370870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:phone": "+43 (0)316 574 831",
+                "addr:street": "Waagner-Biro-Straße",
+                "addr:housenumber": "84",
+                "contact:email": "fil50628@spar.at",
+                "osm": "https://www.openstreetmap.org/node/8139390317",
+                "name": "Spar",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "description": "Lebensmittelhandel",
+                "addr:country": "Österreich",
+                "website": "https://www.spar.at/standorte/spar-graz-8020-waagner-biro-strasse-84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41173696384,
+                    47.07903432944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/way/156375969",
+                "addr:street": "Alte Poststraße",
+                "addr:housenumber": "109",
+                "kategorie": "handel",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "opening_hours": "Mo-Fr 7:15-19:30 Sa7:15-18:00",
+                "description": "Lebensmittelhandel",
+                "name": "Billa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40821640000,
+                    47.07501540000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "description": "Werbeagentur",
+                "name": "wolkeblau GmbH",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "kategorie": "handel",
+                "contact:email": "hello@​wolkeblau.com",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41120051265,
+                    47.07992751350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:instagram": "https://www.instagram.com/babyrella_official/",
+                "addr:housenumber": "20",
+                "contact:website": "https://www.babyrella.at/",
+                "name": "Babyrella",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:facebook": "https://www.facebook.com/Babyrella.official",
+                "osm": "https://www.openstreetmap.org/way/182668016",
+                "contact:phone": "+43 (0) 660 700 586 3",
+                "kategorie": "handel",
+                "description": "Handel",
+                "addr:city": "Graz",
+                "contact:email": "office@babyrella.at"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41454790950,
+                    47.07216056792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:email": "a0fa0250@dm.at",
+                "addr:street": "Waagner-Biro-Straße",
+                "website": "https://www.dm.at/store/at-471/graz/waagner-biro-strasse-84",
+                "name": "dm drogerie markt",
+                "contact:phone": "+43 (0)316 572 305",
+                "kategorie": "handel",
+                "description": "Drogeriemarkt",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:housenumber": "84a",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/node/6884777242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41207491815,
+                    47.07914575189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:linkedin": "https://www.linkedin.com/company/greentechcluster/",
+                "contact:email": "welcome@greentech.at",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "kategorie": "Bildung & Forschung",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "contact:phone": "+43 (0) 316 407 744",
+                "addr:housenumber": "100",
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "Green Tech Cluster Styria GmbH",
+                "description": "Umweltnetzwerk",
+                "addr:city": "Graz",
+                "contact:website": "https://www.greentech.at",
+                "contact:facebook": "https://de-de.facebook.com/greentechcluster/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41102885127,
+                    47.07995673787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:phone": "+43 (0)316 573 357",
+                "addr:housenumber": "109",
+                "contact:website": "https://www.streets-graz.at/",
+                "contact:instagram": "https://www.instagram.com/streets_famousfoodanddrinks/?hl=de",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:email": "eat@streets-graz.at",
+                "addr:country": "Österreich",
+                "name": "Streets",
+                "osm": "https://www.openstreetmap.org/way/87979332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41018664569,
+                    47.08036769846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Immobilien",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@immoxx.at",
+                "kategorie": "handel",
+                "name": "IMMOXX. GmbH",
+                "osm": "https://www.openstreetmap.org/way/182668032",
+                "addr:housenumber": "14",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "contact:phone": "+43 (0) 676 842 489 100",
+                "addr:country": "Österreich",
+                "contact:website": "https://www.immoxx.at/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41459887952,
+                    47.07191211840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Immobilien",
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@science-tower.at",
+                "name": "Science Tower GmbH",
+                "contact:website": "http://info.science-tower.at",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "kategorie": "handel",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41111468196,
+                    47.07983253417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "contact:email": "office@ms-stahlhandel.at",
+                "name": "Mechel Service",
+                "kategorie": "handel",
+                "description": "Stahlgroßhandel",
+                "addr:housenumber": "47",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "contact:website": "http://www.ms-stahlhandel.at/index.php?id=122",
+                "contact:phone": "0662 4315561610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41310000000,
+                    47.07533000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:facebook": "https://www.facebook.com/rojpak.graz/",
+                "contact:phone": "+43 (0) 664 535 414 7",
+                "name": "ROJPAK e.U.",
+                "kategorie": "gastro",
+                "description": "Großhandel für Verpackungen, Getränke und Lebensmittel für die Gastronomie",
+                "contact:website": "https://www.rojpak.com",
+                "osm": "https://www.openstreetmap.org/way/182673399",
+                "contact:email": "office.rojpak@gmx.at",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:street": "Lastenstraße",
+                "addr:country": "Österreich",
+                "addr:housenumber": "11b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41322826266,
+                    47.08235308200
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waagner-Biro-Straße",
+                "name": "Green Rocket",
+                "kategorie": "handel",
+                "contact:email": "seibald@greenrocket.com",
+                "description": "Crowdfunding",
+                "addr:postcode": "8020",
+                "addr:city": "Graz",
+                "addr:country": "Österreich",
+                "osm": "https://www.openstreetmap.org/way/352749432",
+                "addr:housenumber": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41101276606,
+                    47.07991654888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:phone": "0316 5033247",
+                "name": "Neptun-Stahl",
+                "kategorie": "unternehmen",
+                "contact:website": "http://www.neptun.co.at",
+                "contact:email": "cschaar@neptun.co.at",
+                "addr:housenumber": "Waagner-Biro-Straße 47",
+                "description": "Stahlgroßhandel",
+                "osm": "https://www.openstreetmap.org/node/4764197002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41306980000,
+                    47.07526900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "osm": "https://www.openstreetmap.org/node/2529281692#map=19/47.08160/15.40326",
+                "kategorie": "Kultur",
+                "contact:email": "office@artepari.com",
+                "name": "Arteparie Galerie",
+                "addr:housenumber": "60",
+                "description": "Galerie für zeitgenössische Kunst",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "contact:website": "www.artepari.com",
+                "addr:country": "Österreich",
+                "contact:phone": "+43 (0) 676 519 006 6",
+                "addr:street": "Peter-Tunner-Gasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40288567007,
+                    47.08131199696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Spedition",
+                "osm": "https://www.openstreetmap.org/way/182672901",
+                "name": "Spedition Ferstl",
+                "addr:housenumber": "9",
+                "contact:email": "c.office@fersped.at",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:street": "Lastenstraße",
+                "addr:country": "Österreich",
+                "kategorie": "handel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41407584608,
+                    47.08140697365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Waldertgasse",
+                "contact:website": "https://lebenshilfen-sd.at/Wohnen/Leben-in-Wohnungen-der-Lebenshilfe/Vollzeitbetreutes-Wohnen/Wohnhaus-Waldertgasse",
+                "kategorie": "Gesundheit & Soziales",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "name": "Lebenshilfe Waldertgasse",
+                "addr:country": "Österreich",
+                "addr:housenumber": "11b",
+                "description": "Teilzeitbetreutes Wohnen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40846000000,
+                    47.07950000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "contact:facebook": "https://m.facebook.com/pages/category/Food---Beverage-Company/Bäckerei-Europa-153799205061077/",
+                "osm": "https://www.openstreetmap.org/node/4774415823",
+                "contact:phone": "+43 (0) 650 320 156 3",
+                "addr:street": "Alte Poststraße",
+                "kategorie": "handel",
+                "description": "Bäckerei",
+                "addr:housenumber": "116",
+                "addr:city": "Graz",
+                "addr:postcode": "8020",
+                "addr:country": "Österreich",
+                "name": "Bäckerei Europa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40782360000,
+                    47.07361920000
                 ]
             }
         },
@@ -314,8 +2104,8 @@
                 "kategorie": "zukunft",
                 "contact:phone": "0676 40 68 818 /",
                 "contact:website": "http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "description": "In den nächsten Jahren entstehen ein großer öffentlicher Park, öffentliche Plätze und eine Flaniermeile. Die Details werden gemeinsam mit allen Beteiligten und interessierten BürgerInnen in Rahmen von Workshops entwickelt. Bei Interesse nehmen Sie bitte Kontakt mit uns auf! Die Umsetzung erfolgt jeweils nach dem Baufortschritt der unterschiedlichen Quartiere.",
                 "osm": "https://www.openstreetmap.org/way/352749430",
+                "description": "In den nächsten Jahren entstehen ein großer öffentlicher Park, öffentliche Plätze und eine Flaniermeile. Die Details werden gemeinsam mit allen Beteiligten und interessierten BürgerInnen in Rahmen von Workshops entwickelt. Bei Interesse nehmen Sie bitte Kontakt mit uns auf! Die Umsetzung erfolgt jeweils nach dem Baufortschritt der unterschiedlichen Quartiere.",
                 "name": "Nikolaus-Harnoncourt-Park und Nikolaus-Harnoncourt-Platz"
             },
             "geometry": {
@@ -329,81 +2119,45 @@
         {
             "type": "Feature",
             "properties": {
-                "addr:housenumber": "118",
-                "addr:street": "Alte Poststraße",
-                "contact:email": "STAeggenlend@wiki.at",
-                "osm": "https://www.openstreetmap.org/way/160791234",
-                "kategorie": "Gesundheit & Soziales",
+                "contact:facebook": "https://www.facebook.com/FitSpotGraz",
+                "addr:housenumber": "9",
+                "contact:website": "https://www.fitspotgraz.at/",
+                "description": "Sport und Fitness",
+                "contact:phone": "+43 (0) 664 9262964",
                 "addr:postcode": "8020",
-                "addr:city": "Graz",
+                "addr:street": "Lastenstraße",
                 "addr:country": "Österreich",
-                "name": "KostNixLaden EggenLend",
-                "contact:facebook": "https://www.facebook.com/KostNixEggenLend"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40766000211,
-                    47.07388502624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Wolkensteingasse",
-                "kategorie": "Gesundheit & Soziales",
-                "osm": "https://www.openstreetmap.org/way/161326527#map=19/47.08290/15.40674",
-                "name": "Lebenshilfe Wolkensteingasse",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:housenumber": "43",
-                "contact:website": "https://lebenshilfen-sd.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40606409043,
-                    47.08116039737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Alte Poststraße",
-                "kategorie": "Handel & Dienstleistung",
-                "osm": "https://www.openstreetmap.org/node/2309348917",
-                "name": "Handy Profi",
-                "addr:housenumber": "116",
-                "addr:postcode": "8020",
+                "name": "Fit Spot Graz",
+                "osm": "https://www.openstreetmap.org/way/182672901",
+                "kategorie": "Sport & Freizeit",
+                "contact:instagram": "https://www.instagram.com/fitspotgraz/",
+                "contact:email": "info@fitspotgraz.at",
                 "addr:city": "Graz"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.40779800000,
-                    47.07370870000
+                    15.41410803258,
+                    47.08133756762
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Café Pizzeria Rimini",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "osm": "https://www.openstreetmap.org/node/270508849",
-                "kategorie": "gastro",
-                "addr:street": "Peter-Tunner-Gasse",
-                "addr:housenumber": "45"
+                "addr:housenumber": "Wand gegenüber der Helmut List Halle",
+                "kategorie": "Sport & Freizeit",
+                "osm": "https://www.openstreetmap.org/node/4787917833",
+                "description": "Die 200 Meter lange Wand wurde  2013, im Rahmen des International Graffiti Contest, von KünstlerInnen bearbeitet.",
+                "contact:website": "http://www.helmut-list-halle.com/event/-/event/172569/international-graffiti-contest",
+                "name": "Graffitis",
+                "image": "https://commons.wikimedia.org/wiki/File:Graffitis_auf_der_Wiese.jpg"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.40410880000,
-                    47.08108000000
+                    15.41286530000,
+                    47.07873530000
                 ]
             }
         },
@@ -433,1462 +2187,16 @@
         {
             "type": "Feature",
             "properties": {
-                "contact:website": "http://www.alt-eggenberg.net",
-                "osm": "https://www.openstreetmap.org/node/2307853184",
-                "addr:housenumber": "20",
-                "addr:street": "Vinzenzgasse",
-                "opening_hours": "Mo-Fr 9:00-22:00; Samstag für Veranstaltungen",
-                "contact:phone": "0664 2725314",
-                "description": "Kleines Kaffeehaus mit Mittagsmenü. Für kleine Gruppen werden auf Bestellung auch spezielle Gerichte gekocht.",
-                "name": "Cafè Alt Eggenberg",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "kategorie": "gastro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40489280000,
-                    47.07267990000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "vorort@stadtlaborgraz.at",
-                "name": "vor.ort Stadtteilmanagement;Leihradl vor.ort;vor.ort cafè + Cityaccess;Green Living Lab",
-                "osm": "https://www.openstreetmap.org/node/4790205441;https://www.openstreetmap.org/node/3986854239;https://www.openstreetmap.org/node/4858278269",
-                "image": "https://commons.wikimedia.org/wiki/File:Green_Living_Lab.jpg;https://commons.wikimedia.org/wiki/File:Vor.ort.jpg;https://commons.wikimedia.org/wiki/File:Leihradl_vor.ort.jpg",
-                "contact:phone": "0676 40 68 818;0676 4068817",
-                "description": "Information, Austausch und Beteiligung rund um die Smart City Stadtteilentwicklung.;Freies WLAN im Stadtteil;Stadtteil-Fahrräder für jeden Anlass gratis und unkompliziert auszuleihen: vom Rennrad übers  Bmx bis zum Lastenrad. Die Räder wurden, zusammen mit den NachbarInnen und in Kooperation mit Rebikel, neu zusammengebaut.;Gemeinschaftsgarten: ein Ort der lokalen Produktion von Nahrungsmitteln, der Erholung, des Austauschs und der Kooperation. Tipp: Am Ende der Gartensaison wird jährlich ein „HAPPY END Erntedankfest“ vor Ort organisiert.",
-                "addr:housenumber": "Container gegenüber Science Tower;Stadtteilmanagement vor.ort",
-                "contact:website": "http://www.smartcitygraz.at/more_vorort-dabeisein/",
-                "kategorie": "erleben; treffen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41058133625,
-                    47.07971986193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Werbeagentur",
-                "name": "wolkeblau GmbH",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "contact:email": "hello@​wolkeblau.com",
-                "kategorie": "Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41120051265,
-                    47.07992751350
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "coolcity@greenbox.co.at",
-                "contact:facebook": "www.facebook.com/greenbox.co.at",
-                "addr:housenumber": "109",
-                "osm": "https://www.openstreetmap.org/way/492276900",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "description": "Studentenheim",
-                "name": "greenbox coolcity",
-                "contact:instagram": "www.instagram.com/greenbox.co",
-                "contact:website": "https://www.greenbox.co.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41029761720,
-                    47.08017550314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "opening_hours": "Di 14:00-18:00, Do 10:00-14:00, Fr 14:00-18:00, Sa 09:00-15:00 oder nach Vereinbarung",
-                "name": "Sammelwerk",
-                "kategorie": "kaufen",
-                "contact:phone": "0650 4900342",
-                "image": "https://commons.wikimedia.org/wiki/File:Sammelwerk.jpg",
-                "osm": "https://www.openstreetmap.org/node/3786680468",
-                "description": "Raritäten & Hochwertige Gebrauchtwaren"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40483560000,
-                    47.07366620000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:phone": "+43 (0) 676 324 306 0",
-                "contact:email": "helmut.sechser@iwgpl.com",
-                "kategorie": "dienstleistungen",
-                "addr:housenumber": "48",
-                "name": "Regus Büroräume in Graz",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "description": "Flexible Büroräume in Graz: co-working, virtuelle Büros Konferenz und Tagungsräume, Notfall-Büros",
-                "addr:country": "Österreich",
-                "osm": "http://www.openstreetmap.org/way/182670483"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41309000000,
-                    47.07529000000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "a0fa0250@dm.at",
-                "name": "dm drogerie markt",
-                "website": "https://www.dm.at/store/at-471/graz/waagner-biro-strasse-84",
-                "contact:phone": "+43 (0)316 572 305",
-                "kategorie": "Handel & Dienstleistung",
-                "description": "Drogeriemarkt",
-                "addr:housenumber": "84a",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/node/6884777242"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41207491815,
-                    47.07914575189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "osm": "https://www.openstreetmap.org/node/288172339",
-                "kategorie": "kaufen",
-                "name": "ZEG Neubauer",
-                "contact:email": "office@neubauer-zweirad.at",
-                "image": "https://commons.wikimedia.org/wiki/File:ZEG.jpg",
-                "contact:website": "http://www.neubauer-zweirad.at",
-                "description": "Fahrradhandel und Reparaturen",
-                "opening_hours": "Mo-Fr 8:00 – 12:00 und 14:30 – 18:00; Sa 8:00 – 12:00",
-                "contact:phone": "0316 581300"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40841110000,
-                    47.07185140000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Trafik Brigitte Namor",
-                "kategorie": "kaufen",
-                "osm": "https://www.openstreetmap.org/node/2307853313",
-                "contact:phone": "0316 576520",
-                "addr:housenumber": "Vinzenzgasse 22, 8020 Graz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40490430000,
-                    47.07286310000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "http://www.rcc-rail.com/index.php?id=83",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "office@rcc-rail.com",
-                "name": "RCC Railway Competence and Certification GmbH",
-                "addr:housenumber": "125",
-                "description": "Schienenfahrzeuge, Maschinenbau",
-                "osm": "https://www.openstreetmap.org/way/198453609",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "kategorie": "Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40944903955,
-                    47.08184623589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "PJ Messtechnik GmbH",
-                "contact:phone": "+43 (0) 650 908 065 1",
-                "contact:website": "http://www.pjm.co.at",
-                "description": "Messtechnik",
-                "contact:linkedin": "https://www.linkedin.com/company/pjm",
-                "addr:housenumber": "125",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "osm": "https://www.openstreetmap.org/node/4764105826",
-                "addr:country": "Österreich",
-                "contact:email": "office@pjm.co.at",
-                "kategorie": "Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40944277546,
-                    47.08187851214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Immobilien",
-                "contact:email": "office@science-tower.at",
-                "name": "Science Tower GmbH",
-                "contact:website": "http://info.science-tower.at",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "kategorie": "Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41111468196,
-                    47.07983253417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "http://www.rettet-das-kind-stmk.at/joomla/index.php/familienzentrum-wohin",
-                "addr:street": "Starhemberggasse",
-                "description": "soziale Einrichtung",
-                "addr:housenumber": "19",
-                "name": "Familienzentrum WOHIN (Rettet das Kind)",
-                "contact:phone": "+43 (0) 316 573 432",
-                "kategorie": "Soziales/ Verein",
-                "osm": "https://www.openstreetmap.org/node/4799671013",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:email": "wohin@rdk-stmk.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40981590000,
-                    47.07407890000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:website": "http://insula.at",
-                "description": "Projektentwicklung",
-                "contact:email": "office@insula.at",
-                "name": "insula KS Group",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41113346681,
-                    47.07990193577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "kategorie": "Handel",
-                "name": "Tabak Trafik Haberl",
-                "addr:city": "8020 Graz",
-                "contact:email": "christina.haberl@gmx.at",
-                "contact:phone": "+43 (0)316 573 322",
-                "addr:street": "Alte Poststraße 114",
-                "image": "https://commons.wikimedia.org/wiki/File:Tabak_Trafik.jpg",
-                "osm": "https://www.openstreetmap.org/node/1747362930"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40771540000,
-                    47.07384880000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Pfarre St. Vinzenz",
-                "description": "Auch außerhalb der Messen lädt die Pfarre Interessierte zu zahlreichen Veranstaltungen wie Filmvorführungen (VinziAle), Konzerten und Vorträgen, sowie zu Spaziergängen und Wanderungen ein.",
-                "osm": "https://www.openstreetmap.org/way/90628414",
-                "contact:email": "graz-st-vinzenz@graz-seckau.at",
-                "contact:website": "http://www.stvinzenz.at",
-                "image": "https://commons.wikimedia.org/wiki/File:Pfarre_St._Vinzenz.jpg",
-                "kategorie": "treffen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40510140000,
-                    47.07455470000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "Green Rocket",
-                "contact:email": "seibald@greenrocket.com",
-                "kategorie": "Handel & Dienstleistung",
-                "description": "Crowdfunding",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41101276606,
-                    47.07991654888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "+43 316 587710",
-                "addr:street": "Waagner-Biro-Straße",
-                "image": "https://commons.wikimedia.org/wiki/File:Caf%C3%A8_Haus.jpg",
-                "osm": "https://www.openstreetmap.org/way/161333727",
-                "contact:website": "http://www.bokan-exclusiv.at/de-at/cafe/",
-                "description": "Ein Cafè mit österreichischer Kaffeehaustradition. Genieße einen Kuchen oder einen Eisbecher auf der Terrasse! Tipp: Großes Frühstücksangebot bis 12 Uhr - vom Wiener Frühstück, über ein Sportlerfrühstück bis hin zu einem American Breakfast.",
-                "opening_hours": "Mo-Sa 7:30-1:00, So 8:30-1:00",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "kategorie": "gastro",
-                "name": "Café Polanz",
-                "addr:housenumber": "133"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40888320000,
-                    47.08254750000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Eni Tankstelle",
-                "addr:street": "Alte Poststraße",
-                "kategorie": "Handel & Dienstleistung",
-                "contact:phone": "0316 5866920",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "contact:website": "http://www.eniaustria.at",
-                "description": "Tankstelle",
-                "addr:housenumber": "87",
-                "osm": "https://www.openstreetmap.org/node/278471306"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40731940000,
-                    47.07658660000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "office@tischlerei-schadler.at",
-                "kategorie": "kaufen",
-                "opening_hours": "Mo-Do 8:00-12:00 und 13:00-16:00, Fr 8:00-12:00 oder nach Vereinbarung",
-                "name": "Schadler Tischlerei",
-                "osm": "https://www.openstreetmap.org/node/2972015728",
-                "contact:phone": "316581319",
-                "description": "Personalisierte Möbelstücke und Unterstützung bei der Gestaltung von Lebensräumen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40664400000,
-                    47.07305340000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Baumanagement",
-                "contact:email": "office@ks.at",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:website": "https://www.ks.at",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "name": "KS Group"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41117906436,
-                    47.07989828272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Ein Gasthaus mit steirischer Hausmannskost: Backhendl, Beuschel, Leber- und Flecksuppe und diverse andere steirische Schmankerln. Es werden Räumlichkeiten für Gruppenfeiern und Seminare zur Verfügung gestellt.",
-                "image": "https://commons.wikimedia.org/wiki/File:Gasthaus_Kirchenwirt.jpg",
-                "addr:housenumber": "41",
-                "addr:street": "Vinzenzgasse",
-                "opening_hours": "Mo-Sa 9:00-24:00, So und Feiertage 9:00-15:00",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "name": "Kirchenwirt",
-                "kategorie": "gastro",
-                "osm": "https://www.openstreetmap.org/way/94337869"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40466550000,
-                    47.07470990000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:facebook": "https://m.facebook.com/pages/category/Food---Beverage-Company/Bäckerei-Europa-153799205061077/",
-                "contact:phone": "+43 (0) 650 320 156 3",
-                "osm": "https://www.openstreetmap.org/node/4774415823",
-                "addr:street": "Alte Poststraße",
-                "kategorie": "Handel & Dienstleistung",
-                "description": "Bäckerei",
-                "addr:housenumber": "116",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "name": "Bäckerei Europa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40782360000,
-                    47.07361920000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Starhemberggasse",
-                "name": "Jugendzentrum EggenLend",
-                "contact:facebook": "https://www.facebook.com/staeggenlend",
-                "contact:email": "juzeggenlend@wiki.at",
-                "kategorie": "Gesundheit & Soziales",
-                "addr:postcode": "8020",
-                "osm": "https://www.openstreetmap.org/way/24016756",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "contact:phone": "+43 (0) 676 849 202 602",
-                "addr:housenumber": "32"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40894209802,
-                    47.07512353548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "office@gulascheck.at",
-                "name": "GULASCHECK Restaurant",
-                "addr:street": "Bodenfeldgasse",
-                "contact:phone": "+43 (0) 316 583 466",
-                "description": "Wie der Name schon sagt, eine Adresse für Gulaschliebhaber. Tipp: Unbedingt die Hausspezialität Fiaker Gulasch mit Frankfurter und Spiegelei kosten!",
-                "contact:website": "http://gulascheck.at",
-                "image": "https://commons.wikimedia.org/wiki/File:Gasthaus_Gulascheck.jpg",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "osm": "https://www.openstreetmap.org/node/2309348915",
-                "addr:country": "Österreich",
-                "addr:housenumber": "2",
-                "kategorie": "gastro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40713840000,
-                    47.07577780000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "https://www.eggenberger-schluesseldienst.at/",
-                "addr:street": "Georgigasse",
-                "kategorie": "Handel & Dienstleistung",
-                "name": "Eggenberger Schlüsseldienst",
-                "osm": "https://www.openstreetmap.org/node/1101682560",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:housenumber": "32",
-                "contact:phone": "0316 583633",
-                "opening_hours": "Mo–Fr 08:30 – 12:30 und 15:00 – 17:30; Donnerstag nachmittags und Samstag geschlossen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40452300000,
-                    47.07306670000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "20",
-                "contact:phone": "+43 (0) 316 585 800",
-                "kategorie": "Soziales/ Verein",
-                "name": "Vinzenzgemeinschaft Eggenberg - Vinzi Werke",
-                "addr:postcode": "8020",
-                "osm": "https://www.openstreetmap.org/node/2309348915",
-                "addr:country": "Österreich",
-                "contact:facebook": "https://www.facebook.com/VinziWerke",
-                "contact:website": "https://www.vinzi.at",
-                "contact:instagram": "https://www.instagram.com/vinziwerke/",
-                "addr:street": "Lilienthalgasse",
-                "description": "soziale Einrichtung",
-                "contact:email": "vinzihaus@vinzi.at",
-                "addr:city": "Graz",
-                "contact:youtube": "https://www.youtube.com/user/VinziWerke"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40556251466,
-                    47.07434170704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "Wand gegenüber der Helmut List Halle",
-                "osm": "https://www.openstreetmap.org/node/4787917833",
-                "kategorie": "Sport & Freizeit",
-                "description": "Die 200 Meter lange Wand wurde  2013, im Rahmen des International Graffiti Contest, von KünstlerInnen bearbeitet.",
-                "contact:website": "http://www.helmut-list-halle.com/event/-/event/172569/international-graffiti-contest",
-                "name": "Graffitis",
-                "image": "https://commons.wikimedia.org/wiki/File:Graffitis_auf_der_Wiese.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41286530000,
-                    47.07873530000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "vorort@stadtlaborgraz.at",
-                "contact:phone": "0676 40 68 818",
-                "kategorie": "zukunft",
-                "osm": "https://www.openstreetmap.org/way/495192776",
-                "contact:website": "http://www.smartcitygraz.at/moretext-news-5-wettbewerbsergebnisse/",
-                "name": "Schulcampus",
-                "description": "Ein neues Schulgebäude mit einer Volksschule und einer Neuen Mittelschule wird hier errichtet. Die Schulräumlichkeiten und die großzügigen Flächen im Freien werden für viele verschiedene Dinge nutzbar sein. Z.B. sollen sie NachbarInnen und Interessierten in den unterrichtsfreien Zeiten für Veranstaltungen, Lesungen oder sportlichen Aktivitäten zur Verfügung stehen. Baustart Frühjahr 2018. Eröffnung Herbst 2019."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41068150000,
-                    47.07935850000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Zeitschriftenverlag",
-                "contact:facebook": "https://www.facebook.com/SteiermarkmagazinKlipp",
-                "name": "Klipp Zeitschriften GmbH & Co KG",
-                "kategorie": "Handel & Dienstleistung",
-                "contact:phone": "+43 (0) 316 426 080",
-                "contact:website": "https://www.klippmagazin.at",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:email": "office@klippmagazin.at",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41103958547,
-                    47.07987271410
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "osm": "https://www.openstreetmap.org/way/156375969",
-                "addr:housenumber": "109",
-                "addr:street": "Alte Poststraße",
-                "kategorie": "Handel & Dienstleistung",
-                "opening_hours": "Mo-Fr 7:15-19:30 Sa7:15-18:00",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "description": "Lebensmittelhandel",
-                "name": "Billa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40821640000,
-                    47.07501540000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "stmk@bbrz.at",
-                "description": "Berufliches Bildungs- und Rehabilitationszentrum",
-                "image": "https://commons.wikimedia.org/wiki/File:Bbrz.jpg",
-                "kategorie": "unternehmen",
-                "osm": "https://www.openstreetmap.org/node/2530764004",
-                "contact:website": "http://www.bbrz.at",
-                "addr:street": "Alte Poststraße",
-                "addr:housenumber": "136",
-                "contact:phone": "0316 577674",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "name": "BBRZ Reha GmbH"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40876010000,
-                    47.07102510000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Uriges Cafè und beliebter Tortenbäcker. Tipp: Neben Torten und Kuchen wird hier auch hauseigenes Eis verkauft. Die Milch dafür kommt von einem Bauernhof aus Thal bei Graz.",
-                "osm": "https://www.openstreetmap.org/node/2422130028",
-                "contact:email": "office@klescher.at",
-                "contact:website": "http://www.klescher.at",
-                "contact:phone": "+43 (0) 316 581 212",
-                "addr:housenumber": "90",
-                "addr:street": "Alte Poststraße",
-                "image": "https://commons.wikimedia.org/wiki/File:Konditorei_Klescher.jpg",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "name": "Konditorei Klescher",
-                "kategorie": "gastro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40703770000,
-                    47.07617200000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "+43 (0) 316 582 635",
-                "description": "Friseur",
-                "osm": "https://www.openstreetmap.org/node/3590611712",
-                "contact:website": "http://www.friseur-leitinger.at",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:street": "Peter-Tunner-Gasse",
-                "name": "Modefriseur Leitinger",
-                "contact:email": "salon@friseur-leitinger.at",
-                "addr:housenumber": "45"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40401000000,
-                    47.08103240000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "description": "Bildungseinrichtung",
-                "name": "Volksschule Leopoldinum",
-                "contact:email": "vs.leopoldinum@vs-leopoldinum.edu.graz.at",
-                "kategorie": "Bildung/ Forschung",
-                "osm": "https://www.openstreetmap.org/way/735112234",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:housenumber": "99"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41090279549,
-                    47.07916218902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:instagram": "https://www.instagram.com/babyrella_official/",
-                "addr:housenumber": "20",
-                "contact:website": "https://www.babyrella.at/",
-                "addr:postcode": "8020",
-                "name": "Babyrella",
-                "addr:country": "Österreich",
-                "contact:facebook": "https://www.facebook.com/Babyrella.official",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:phone": "+43 (0) 660 700 586 3",
-                "osm": "https://www.openstreetmap.org/way/182668016",
-                "kategorie": "Handel & Dienstleistung",
-                "description": "Handel",
-                "addr:city": "Graz",
-                "contact:email": "office@babyrella.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41454790950,
-                    47.07216056792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "opening_hours": "Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00",
-                "description": "Friseur",
-                "name": "Cool Hair",
-                "addr:street": "Georgigasse",
-                "kategorie": "Handel & Dienstleistung",
-                "contact:email": "office@coolhair.at",
-                "osm": "https://www.openstreetmap.org/node/1728200713",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:housenumber": "34"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40426610000,
-                    47.07308020000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "kategorie": "kaufen",
-                "contact:phone": "0316 570070",
-                "description": "Im ersten Obergeschoß der Rosen Apotheke wurde auf 150 m² ein Wohlfühlbereich mit einem Schönheitssalon für Kosmetik, Massage und Fußpflege eingerichtet. Tipp: Shiatsu - jeden Freitag!",
-                "osm": "https://www.openstreetmap.org/node/270508841",
-                "opening_hours": "Mo-Fr 8:00-18:30, Sa 8:00-12:30",
-                "contact:email": "info@rosenapo.at",
-                "name": "Rosen Apotheke",
-                "contact:website": "http://www.rosenapo.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40447370000,
-                    47.08151790000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "ibb@fh-joanneum.at",
-                "name": "FH Joanneum, Institut Bauplanung und Bauwirtschaft",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "kategorie": "Bildung & Forschung",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "description": "Hochschulbildung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41104495257,
-                    47.07985262049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:phone": "+43 (0)316 573 357",
-                "addr:housenumber": "109",
-                "contact:website": "https://www.streets-graz.at/",
-                "contact:instagram": "https://www.instagram.com/streets_famousfoodanddrinks/?hl=de",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "contact:email": "eat@streets-graz.at",
-                "osm": "https://www.openstreetmap.org/way/87979332",
-                "name": "Streets"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41018664569,
-                    47.08036769846
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "karl.röck@oebb.at",
-                "kategorie": "unternehmen",
-                "osm": "https://www.openstreetmap.org/way/182670510",
-                "description": "Lehrwerkstätten und Lehringsausbildung",
-                "contact:phone": "0664 8417932",
-                "name": "ÖBB Werkstätten"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41335510000,
-                    47.07602590000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Lilienthalgasse",
-                "description": "Schulmedizin und Naturheilkunde. Beratungstermine auf Anfrage.",
-                "image": "https://commons.wikimedia.org/wiki/File:Schutzengel_Apotheke_Graz.jpg",
-                "kategorie": "Gesundheit & Soziales",
-                "osm": "https://www.openstreetmap.org/node/270508834",
-                "contact:phone": "0316 5812650",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "contact:website": "http://www.schutzengelapotheke-graz.at‎",
-                "addr:housenumber": "24",
-                "name": "Apotheke Schutzengel"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40466240000,
-                    47.07436760000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "osm": "https://www.openstreetmap.org/node/4587217901",
-                "description": "Friseur",
-                "kategorie": "kaufen",
-                "contact:phone": "0316 581159",
-                "name": "Salon Evelyn",
-                "opening_hours": "Mo-Fr 8:30-17:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40682620000,
-                    47.07416360000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "image": "https://commons.wikimedia.org/wiki/File:Sitzecke_Eggenlend.jpg",
-                "osm": "https://www.openstreetmap.org/node/4774465242",
-                "addr:housenumber": "Dreierschützengasse 10, 8020 Graz",
-                "description": "Ein gemütlicher Sitzbereich aus Holz. Durch schattenspendende Bäume ist es auch an heißen Tagen angenehm kühl und lädt zu einer kurzen Pause ein.",
-                "name": "Sitzecke",
-                "kategorie": "erleben; treffen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40997590000,
-                    47.07824140000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:facebook": "https://www.facebook.com/rojpak.graz/",
-                "kategorie": "gastro",
-                "contact:phone": "+43 (0) 664 535 414 7",
-                "name": "ROJPAK e.U.",
-                "contact:website": "https://www.rojpak.com",
-                "description": "Großhandel für Verpackungen, Getränke und Lebensmittel für die Gastronomie",
-                "contact:email": "office.rojpak@gmx.at",
-                "osm": "https://www.openstreetmap.org/way/182673399",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:street": "Lastenstraße",
-                "addr:housenumber": "11b"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41322826266,
-                    47.08235308200
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "osm": "https://www.openstreetmap.org/way/245081395",
-                "contact:phone": "0316 59720",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "description": "Stahl und Holz",
-                "name": "Weyland GmbH",
-                "addr:housenumber": "45"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41318550000,
-                    47.07507730000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "http://www.putzerei-schneiderei.at",
-                "name": "Putzerei/Schreiderei Fuchsbichler",
-                "contact:phone": "0316 581121",
-                "image": "https://commons.wikimedia.org/wiki/File:Fuchsbichler.jpg",
-                "contact:email": "putzerei.schneiderei@aon.at",
-                "description": "Die Putzerei/Schneiderei Fuchsbichler repariert, pflegt, wäscht und reinigt Ihre Wäsche, Kleidung und Textilien schonend und umweltbewusst.",
-                "kategorie": "kaufen",
-                "opening_hours": "Mo-Fr  8:00-18:00",
-                "osm": "https://www.openstreetmap.org/node/2307853212",
-                "addr:housenumber": "Rochelgasse 14, 8020 Graz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40644560000,
-                    47.07364120000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "0316 5825070",
-                "name": "Espresso Cafe Irena",
-                "osm": "https://www.openstreetmap.org/node/2272080046",
-                "addr:street": "Alte Poststraße",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "kategorie": "gastro",
-                "image": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Espresso_Irena.jpg",
-                "addr:housenumber": "112"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40770170000,
-                    47.07401200000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VAM Anlagentechnik",
-                "contact:website": "http://www.vam.bilfinger.com",
-                "kategorie": "unternehmen",
-                "addr:housenumber": "Waagner-Biro-Straße 47",
-                "contact:phone": "0316 572139",
-                "osm": "https://www.openstreetmap.org/node/4764185615",
-                "description": "Anlagentechnik",
-                "contact:email": "vam@bilfinger.com"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41311680000,
-                    47.07528900000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "kategorie": "Kultur",
-                "osm": "https://www.openstreetmap.org/node/2529281692#map=19/47.08160/15.40326",
-                "contact:email": "office@artepari.com",
-                "name": "Arteparie Galerie",
-                "addr:housenumber": "60",
-                "description": "Galerie für zeitgenössische Kunst",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "contact:website": "www.artepari.com",
-                "contact:phone": "+43 (0) 676 519 006 6",
-                "addr:street": "Peter-Tunner-Gasse"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40288567007,
-                    47.08131199696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:website": "http://www.pjm.co.at",
-                "contact:linkedin": "https://www.linkedin.com/company/pjm",
-                "addr:housenumber": "125",
-                "contact:phone": "+43 (0) 676 363 466 5",
-                "name": "PJ Monitoring GmbH",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "contact:email": "rami@pjm.com.at",
-                "osm": "https://www.openstreetmap.org/node/4764105826",
-                "addr:country": "Österreich",
-                "description": "Monitoring",
-                "kategorie": "Dienstleistung"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40947854251,
-                    47.08185262941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "https://www.kfzfilla.at/",
-                "addr:housenumber": "31",
-                "description": "KFZ-Werkstätte",
-                "contact:email": "filla@kfzfilla.at",
-                "contact:phone": "+43 (0) 316 773905, +43 (0) 699 13021609",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:street": "Lastenstraße",
-                "osm": "https://www.openstreetmap.org/way/182679122",
-                "name": "KFZ-FILLA-KG"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41199444652,
-                    47.08375577001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "website": "https://hempdrinks.at",
-                "contact:instagram": "https://www.instagram.com/hempdrinks.gmbh/?hl=de",
-                "description": "Weinhandlung",
-                "contact:email": "office@hempdrinks.at",
-                "osm": "https://www.openstreetmap.org/way/161325223#map=18/47.08234/15.40741",
-                "contact:phone": "+43 (0) 664 501 337 0 (Katja); +43 (0) 664 520 504 4 (Wolfgang)",
-                "addr:street": "Wolkensteingasse",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:housenumber": "37",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "name": "hempdrinks GmbH"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40695189893,
-                    47.08235307835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "opening_hours": "Mo-Fr 9.00-13.00",
-                "description": "Direkte Hilfe von Frau zu Frau seit über 10 Jahren: VinziHelp bietet sowohl rechtliche als auch finanzielle Hilfe bzw. Alternativlösungen für die Probleme an.",
-                "name": "Vinzi Help",
-                "osm": "https://www.openstreetmap.org/node/3419458710",
-                "contact:phone": "0316 585800",
-                "kategorie": "treffen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40511670000,
-                    47.07489540000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "kategorie": "Handel",
-                "contact:phone": "+43 (0) 316 581 352 0",
-                "osm": "https://www.openstreetmap.org/node/6175091256",
-                "contact:email": "windisch.biebl@inode.at",
-                "addr:housenumber": "9",
-                "description": "Bäckerei",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:street": "Rochelgasse",
-                "addr:country": "Österreich",
-                "name": "Windisch-Biebl Bäckerei KG"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40668367803,
-                    47.07350141135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:email": "vinzishop@vinzi.at",
-                "kategorie": "kaufen",
-                "opening_hours": "Mo–Fr 10:00 - 18:00",
-                "name": "VinziShop",
-                "osm": "https://www.openstreetmap.org/node/2307853328",
-                "contact:phone": "0316 585807",
-                "description": "Hier werden Sachspenden verkauft die abgegeben werden, wie Kleidungsstücke, Bücher, Kinderspielzeug und diverse Haushaltswaren. Mit dem Erlös werden die Einrichtungen der Vinzenzgemeinschaft Eggenberg unterstützt."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40798650000,
-                    47.07306640000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "https://lebenshilfen-sd.at/Wohnen/Leben-in-Wohnungen-der-Lebenshilfe/Vollzeitbetreutes-Wohnen/Wohnhaus-Waldertgasse",
-                "addr:street": "Waldertgasse",
-                "kategorie": "Gesundheit & Soziales",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "name": "Lebenshilfe Waldertgasse",
-                "description": "Teilzeitbetreutes Wohnen",
-                "addr:housenumber": "11b"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40846000000,
-                    47.07950000000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "0316 818506",
-                "osm": "https://www.openstreetmap.org/node/2299236376",
-                "opening_hours": "Mo-So 6:00 - 2:00",
-                "kategorie": "essen",
-                "name": "Pizzeria Siesta",
-                "contact:email": "siesta@buysino.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40934290000,
-                    47.07295150000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "kategorie": "geschichte",
-                "name": "Stahl Eberhardt"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40977000000,
-                    47.08094000000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Konsumwiese",
-                "addr:street": "Waagner-Biro-Straße",
-                "kategorie": "Sport & Freizeit",
-                "contact:website": "http://www.meine-kinder.at/i/spielplatz-konsumwiese-graz/",
-                "osm": "https://www.openstreetmap.org/way/161095625",
-                "image": "https://commons.wikimedia.org/wiki/File:Konsumwiese_Waagner-Biro.jpg",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "description": "Ein eingezäunter Spielplatz mit einer Rutsche, einer Korbschaukel, einer Sandkiste und einem Kletterturm. Sitzmöglichkeiten sind vorhanden.",
-                "addr:housenumber": "65"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41143420000,
-                    47.07826220000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "30",
-                "addr:street": "Georgigasse",
-                "name": "Kebap Haus",
-                "osm": "https://www.openstreetmap.org/node/2307853229",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "kategorie": "gastro"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40481110000,
-                    47.07306330000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:facebook": "https://www.facebook.com/FitSpotGraz",
-                "addr:housenumber": "9",
-                "contact:website": "https://www.fitspotgraz.at/",
-                "contact:phone": "+43 (0) 664 9262964",
-                "description": "Sport und Fitness",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "addr:street": "Lastenstraße",
-                "name": "Fit Spot Graz",
-                "kategorie": "Sport & Freizeit",
-                "osm": "https://www.openstreetmap.org/way/182672901",
-                "contact:instagram": "https://www.instagram.com/fitspotgraz/",
-                "contact:email": "info@fitspotgraz.at",
-                "addr:city": "Graz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41410803258,
-                    47.08133756762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Starhemberggasse",
-                "name": "MyPlace-SelfStorage",
-                "description": "Lagerräume und Umzugshilfe",
-                "osm": "https://www.openstreetmap.org/way/182670477",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:housenumber": "4",
-                "contact:facebook": "https://www.facebook.com/MyPlace.SelfStorage",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "contact:website": "http://www.myplace.at/",
-                "contact:phone": "+43 (0) 316 570 650",
-                "contact:email": "graz@myplace.at"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41196320000,
-                    47.07523820000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "http://www.facebook.com/staeggenlend",
-                "contact:email": "STAeggenlend@wiki.at",
-                "name": "Stadtteilbüro Eggenlend",
-                "opening_hours": "Mo 9:00-12:00; Mi 15:00-17:00; Do 16:00-18:00",
-                "osm": "https://www.openstreetmap.org/node/2956899595",
-                "contact:phone": "0676 5777507",
-                "description": "Siedlungsbetreuung und Informationsdrehscheibe im Stadtteil vom Bahnhof im Bezirk Lend bis zum Schloss Eggenberg. Die Siedlungsbetreuung reicht von wöchentlichen Siedlungssprechstunden und Haustürgesprächen bis hin zum Siedlungsfest und beschäftigt sich mit Themen wie Müll und Sauberkeit, Lärm, Sicherheitsgefühl oder Ärger mit Nachbarn.",
-                "kategorie": "treffen"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40459890000,
-                    47.07306520000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "84",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:phone": "+43 (0)316 574 831",
-                "contact:email": "fil50628@spar.at",
-                "name": "Spar",
-                "osm": "https://www.openstreetmap.org/node/8139390317",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "description": "Lebensmittelhandel",
-                "website": "https://www.spar.at/standorte/spar-graz-8020-waagner-biro-strasse-84"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41173696384,
-                    47.07903432944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:website": "http://www.dolcevita-graz.at",
-                "contact:phone": "0316 577339",
-                "opening_hours": "Mo-So 11:00-23:00",
-                "description": "Einzelgerichte und kombinierte Menüs. Das Essen kann auch online bestellt werden.",
-                "kategorie": "essen",
-                "osm": "https://www.openstreetmap.org/node/2972015642",
-                "name": "Pizzeria Dolce Vita"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40513090000,
-                    47.07305660000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Hofer",
-                "addr:street": "Alte Poststraße",
                 "contact:website": "https://www.hofer.at/de/homepage.html",
-                "kategorie": "Handel & Dienstleistung",
+                "addr:street": "Alte Poststraße",
+                "kategorie": "handel",
                 "addr:housenumber": "103",
                 "osm": "https://www.openstreetmap.org/way/161094259",
-                "addr:city": "Graz",
                 "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "description": "Lebensmittelhandel"
+                "addr:city": "Graz",
+                "description": "Lebensmittelhandel",
+                "addr:country": "Österreich"
             },
             "geometry": {
                 "type": "Point",
@@ -1901,64 +2209,25 @@
         {
             "type": "Feature",
             "properties": {
-                "addr:housenumber": "42",
-                "addr:street": "Vinzenzgasse",
-                "contact:phone": "+43 (0) 316 585 800",
-                "kategorie": "Soziales/ Verein",
-                "name": "Vinzenzgemeinschaft Eggenberg - Vinzi Werke",
+                "osm": "https://www.openstreetmap.org/node/2422130028",
+                "description": "Uriges Cafè und beliebter Tortenbäcker. Tipp: Neben Torten und Kuchen wird hier auch hauseigenes Eis verkauft. Die Milch dafür kommt von einem Bauernhof aus Thal bei Graz.",
+                "contact:email": "office@klescher.at",
+                "contact:phone": "+43 (0) 316 581 212",
+                "contact:website": "http://www.klescher.at",
+                "addr:housenumber": "90",
+                "addr:street": "Alte Poststraße",
+                "kategorie": "gastro",
+                "image": "https://commons.wikimedia.org/wiki/File:Konditorei_Klescher.jpg",
                 "addr:postcode": "8020",
                 "addr:city": "Graz",
-                "osm": "https://www.openstreetmap.org/node/2309348915",
                 "addr:country": "Österreich",
-                "contact:email": "graz-st-vinzenz@graz-seckau.at",
-                "contact:website": "http://www.stvinzenz.at",
-                "description": "religiöse Einrichtung"
+                "name": "Konditorei Klescher"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.40507971704,
-                    47.07465224775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "Grazer Eisenbahner Modell-Eisenbahn Club",
-                "kategorie": "Sport & Freizeit",
-                "description": "„Das war so das Highlight wo wir dann dazukommen durften und auch diesen Bereich betreten durften. Der Club ist nach wir vor dort noch beheimatet und der veranstaltet auch noch regelmäßig Ausstellungen.“",
-                "addr:postcode": "8020",
-                "addr:housenumber": "30b",
-                "addr:city": "Graz",
-                "osm": "https://www.openstreetmap.org/node/4639650466"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41424000000,
-                    47.07348000000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "Servicebüro der ENW",
-                "contact:email": "magdalena.liebethat@wohnbaugruppe.at",
-                "addr:housenumber": "63-69",
-                "kategorie": "Soziales/ Verein",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41198372304,
-                    47.07704152396
+                    15.40703770000,
+                    47.07617200000
                 ]
             }
         },
@@ -1968,15 +2237,15 @@
                 "contact:phone": "+43 (0) 664 913 468 9",
                 "contact:email": "info@werner-wessely.at",
                 "contact:website": "http://www.werner-wessely.at/",
-                "name": "Versicherungsmarklerbüro Werner Wessley",
                 "addr:street": "Resselgasse",
-                "addr:housenumber": "3",
+                "name": "Versicherungsmarklerbüro Werner Wessley",
                 "description": "Versicherungen",
+                "addr:housenumber": "3",
                 "osm": "https://www.openstreetmap.org/way/956970680",
-                "addr:postcode": "8020",
                 "addr:city": "Graz",
+                "addr:postcode": "8020",
                 "addr:country": "Österreich",
-                "kategorie": "Dienstleistung"
+                "kategorie": "handel"
             },
             "geometry": {
                 "type": "Point",
@@ -1989,288 +2258,19 @@
         {
             "type": "Feature",
             "properties": {
-                "osm": "https://www.openstreetmap.org/node/2529281692#map=19/47.08160/15.40326",
-                "description": "Online Marketing",
-                "addr:housenumber": "60",
-                "kategorie": "Handel & Dienstleistung",
-                "contact:email": "office@idec.at",
-                "contact:website": "http://www.idec.at/",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "name": "IDEC - Internet Database E-Business Center GmbH",
-                "addr:street": "Peter-Tunner-Gasse"
+                "opening_hours": "Di 14:00-18:00, Do 10:00-14:00, Fr 14:00-18:00, Sa 09:00-15:00 oder nach Vereinbarung",
+                "name": "Sammelwerk",
+                "kategorie": "kaufen",
+                "image": "https://commons.wikimedia.org/wiki/File:Sammelwerk.jpg",
+                "contact:phone": "0650 4900342",
+                "osm": "https://www.openstreetmap.org/node/3786680468",
+                "description": "Raritäten & Hochwertige Gebrauchtwaren"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    15.40292322099,
-                    47.08136313827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "+43 (0)316 431 112",
-                "addr:city": "8020 Graz",
-                "kategorie": "Gesundheit",
-                "website": "www.smartcity.dental",
-                "name": "Smart City Dental - Dr. Biljana Milicevic",
-                "description": "Zahnärztin",
-                "osm": "https://www.openstreetmap.org/node/6884777242",
-                "addr:street": "Waagner-Biro-Straße 84b",
-                "contact:email": "office@smartcity.dental"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41312634408,
-                    47.07945626460
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:linkedin": "https://www.linkedin.com/company/greentechcluster/",
-                "contact:email": "welcome@greentech.at",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "kategorie": "Bildung & Forschung",
-                "contact:phone": "+43 (0) 316 407 744",
-                "osm": "https://www.openstreetmap.org/way/352749432",
-                "addr:housenumber": "100",
-                "addr:street": "Waagner-Biro-Straße",
-                "name": "Green Tech Cluster Styria GmbH",
-                "addr:city": "Graz",
-                "description": "Umweltnetzwerk",
-                "contact:website": "https://www.greentech.at",
-                "contact:facebook": "https://de-de.facebook.com/greentechcluster/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41102885127,
-                    47.07995673787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "kinderbildung.cool-city@gip.st",
-                "contact:website": "https://www.gip.st/kinderkrippe/cool-city",
-                "name": "GiP Kinderkrippe Cool City",
-                "contact:phone": "+43 (0) 660 957 712 3",
-                "description": "Kinderkrippe/ Kindergarten",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "kategorie": "Bildung & Forschung",
-                "addr:housenumber": "111",
-                "osm": "https://www.openstreetmap.org/way/87979332"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40968775213,
-                    47.08006632548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "opening_hours": "Mo-Sa 9:00 - 22:00; So 9:00 - 24:00; Feiertage 9:00 - 19:00",
-                "contact:website": "http://www.das-wirtshaus.at",
-                "description": "Ein Gasthaus mit über 60 Jahre Tradition. Tipp: Klachlsuppe mit Heidensterz und die hausgemachte Saure Sulz.",
-                "contact:phone": "0316 583419",
-                "kategorie": "essen",
-                "name": "Roschitz - Das Wirtshaus",
-                "osm": "https://www.openstreetmap.org/node/365547599"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40317210000,
-                    47.07313420000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bezirkssportplatz St. Vinzenz",
-                "addr:housenumber": "51",
-                "description": "Ca. 7.800 m² Sportplatzflächen für jedes Alter: Tennis, Fußball, Basketball, Tischtennis. Wasserbrunnen sind vorhanden.",
-                "kategorie": "Sport & Freizeit",
-                "contact:website": "https://venuzle.at/anbieter/bezirkssportplatz-st-vinzenz/",
-                "addr:street": "Vinzenzgasse",
-                "image": "https://commons.wikimedia.org/wiki/File:Bezirkssportplatz.jpg",
-                "osm": "https://www.openstreetmap.org/way/94337860",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "opening_hours": "Die Öffentliche Nachtruhe 22:00 – 6:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40435620000,
-                    47.07632380000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:facebook": "https://www.facebook.com/ogoodgmbh",
-                "addr:postcode": "8020",
-                "contact:website": "https://ogood.at/",
-                "addr:country": "Österreich",
-                "name": "OGOOD GmbH",
-                "kategorie": "Dienstleistung",
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "office@ogood.at",
-                "contact:instagram": "https://www.instagram.com/ogood_gmbh/",
-                "addr:housenumber": "63c",
-                "osm": "https://www.openstreetmap.org/way/26362809",
-                "addr:city": "Graz",
-                "description": "APP/ Web-Entwicklung",
-                "contact:phone": "+43 (0) 316 722 683, +43 (0) 676 499 153 3"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41206954837,
-                    47.07655929700
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Waagner-Biro-Straße",
-                "contact:email": "office@ms-stahlhandel.at",
-                "name": "Mechel Service",
-                "kategorie": "Handel & Dienstleistung",
-                "description": "Stahlgroßhandel",
-                "addr:housenumber": "47",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "contact:website": "http://www.ms-stahlhandel.at/index.php?id=122",
-                "contact:phone": "0662 4315561610"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41310000000,
-                    47.07533000000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Lerchengasse",
-                "osm": "https://www.openstreetmap.org/way/221771125",
-                "name": "Café Stub'n",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "kategorie": "gastro",
-                "addr:housenumber": "2"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40474190000,
-                    47.07509630000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Hier bieten viele Bauern aus der Umgebung ihre Köstlichkeiten an: von Obst und Gemüse bis zu Fleisch- und Fischspezialitäten. Der komplette Markt ist überdacht.",
-                "name": "Bauernmarkt Eggenberg",
-                "kategorie": "Handel & Dienstleistung",
-                "opening_hours": "Mi und Sa 6:00-13:00",
-                "addr:street": "Franz-Steiner-Gasse",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:housenumber": "18-20",
-                "osm": "https://www.openstreetmap.org/way/160782516"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40263850000,
-                    47.07220380000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "+43 (0) 316 773 247",
-                "description": "KFZ-Werkstätte",
-                "name": "Holzmann Fahrzeugtechnik",
-                "kategorie": "Handel & Dienstleistung",
-                "addr:housenumber": "37",
-                "addr:postcode": "8020",
-                "addr:city": "Graz",
-                "addr:country": "Österreich",
-                "addr:street": "Lastenstraße",
-                "contact:email": "Holzmann.kfz.technik@aon.at",
-                "osm": "https://www.openstreetmap.org/way/182679089"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41141507864,
-                    47.08450094030
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:street": "Lilienthalgasse",
-                "addr:housenumber": "26",
-                "kategorie": "Gesundheit & Soziales",
-                "addr:city": "Graz",
-                "addr:postcode": "8020",
-                "addr:country": "Österreich",
-                "contact:email": "office@ais-jugendservice.at",
-                "name": "AIS Jugendservice mit Gemeinnützigkeitsstatus GesmbH",
-                "osm": "https://www.openstreetmap.org/way/90628418"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.40432065457,
-                    47.07438919979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "contact:phone": "0316 5033247",
-                "name": "Neptun-Stahl",
-                "kategorie": "unternehmen",
-                "contact:email": "cschaar@neptun.co.at",
-                "contact:website": "http://www.neptun.co.at",
-                "addr:housenumber": "Waagner-Biro-Straße 47",
-                "description": "Stahlgroßhandel",
-                "osm": "https://www.openstreetmap.org/node/4764197002"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.41306980000,
-                    47.07526900000
+                    15.40483560000,
+                    47.07366620000
                 ]
             }
         }
