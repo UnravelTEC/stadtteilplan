@@ -287,17 +287,17 @@ h6 {
   background-image: url("../../assets/Raum.png");
   border-top: 1px solid #aaa;
   background-size: 28.5px 40px;
-  background-position: right 6px center;
+  background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category {
   background-image: url("../../assets/Handel_Dienstleistung.png");
   background-size: 28.5px 40px;
-  background-position: right 6px center;
+  background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category {
   background-image: url("../../assets/Gastronomie.png");
   background-size: 28.5px 40px;
-  background-position: right 6px center;
+  background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category {
   background-image: url("../../assets/Mobilität.png");
