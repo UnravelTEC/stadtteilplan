@@ -47,44 +47,6 @@
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10009"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Gemeinschaft"
-        },
-        "instance_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q5"
-        },
-        "subclass_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10010"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Infrastruktur"
-        },
-        "instance_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q5"
-        },
-        "subclass_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
           "value": "https://base.transformap.co/entity/Q10002"
         },
         "itemLabel": {
@@ -109,7 +71,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Kunst & Kultur"
+          "value": "Gastronomie"
         },
         "instance_of": {
           "type": "uri",
@@ -128,7 +90,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gesundheit"
+          "value": "Mobilität"
         },
         "instance_of": {
           "type": "uri",
@@ -147,7 +109,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Bildung & Forschung"
+          "value": "Gemeinschaft"
         },
         "instance_of": {
           "type": "uri",
@@ -166,7 +128,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gastronomie"
+          "value": "Sport & Freizeit"
         },
         "instance_of": {
           "type": "uri",
@@ -185,7 +147,64 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sport & Freizeit"
+          "value": "Kunst & Kultur"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q5"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10008"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bildung & Forschung"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q5"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10009"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Infrastruktur"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q5"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
+           {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10010"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gesundheit"
         },
         "instance_of": {
           "type": "uri",
@@ -250,7 +269,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Kunst & Kultur"
+          "value": "Gastronomie"
         },
         "instance_of": {
           "type": "uri",
@@ -262,7 +281,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Kunst & Kultur"
+          "value": "Gastronomie"
         }
       },
       {
@@ -273,7 +292,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gesundheit"
+          "value": "Mobilität"
         },
         "instance_of": {
           "type": "uri",
@@ -285,7 +304,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Gesundheit"
+          "value": "Mobilität"
         }
       },
       {
@@ -296,7 +315,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Bildung & Forschung"
+          "value": "Gemeinschaft"
         },
         "instance_of": {
           "type": "uri",
@@ -308,7 +327,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Bildung & Forschung"
+          "value": "Gemeinschaft"
         }
       },
       {
@@ -319,7 +338,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gastronomie"
+          "value": "Sport & Freizeit"
         },
         "instance_of": {
           "type": "uri",
@@ -331,26 +350,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Gastronomie"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10008"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mobilität"
-        },
-        "instance_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q5"
-        },
-        "subclass_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q1234"
+          "value": "Sport & Freizeit"
         }
       },
       {
@@ -361,7 +361,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Mobilität"
+          "value": "Bildung & Forschung"
         },
         "instance_of": {
           "type": "uri",
@@ -373,7 +373,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Mobilität"
+          "value": "Bildung & Forschung"
         }
       },
        {
@@ -384,7 +384,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gemeinschaft"
+          "value": "Infrastruktur"
         },
         "instance_of": {
           "type": "uri",
@@ -396,7 +396,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Gemeinschaft"
+          "value": "Infrastruktur"
         }
       },
       {
@@ -407,7 +407,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Infrastruktur"
+          "value": "Gesundheit"
         },
         "instance_of": {
           "type": "uri",
@@ -419,7 +419,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Infrastruktur"
+          "value": "Gesundheit"
         }
       },
       {
@@ -430,7 +430,7 @@
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sport & Freizeit"
+          "value": "Kunst & Kultur"
         },
         "instance_of": {
           "type": "uri",
@@ -442,7 +442,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Sport & Freizeit"
+          "value": "Kunst & Kultur"
         }
       }
     ]
