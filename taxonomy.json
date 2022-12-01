@@ -356,6 +356,29 @@
       {
         "item": {
           "type": "uri",
+          "value": "https://base.transformap.co/entity/Q12007"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kunst & Kultur"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q6"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10007"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "Kunst & Kultur"
+        }
+        },
+      {
+        "item": {
+          "type": "uri",
           "value": "https://base.transformap.co/entity/Q12008"
         },
         "itemLabel": {
@@ -420,29 +443,6 @@
         "type_of_initiative_tag": {
           "type": "literal",
           "value": "Gesundheit"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q12007"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Kunst & Kultur"
-        },
-        "instance_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q6"
-        },
-        "subclass_of": {
-          "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10007"
-        },
-        "type_of_initiative_tag": {
-          "type": "literal",
-          "value": "Kunst & Kultur"
         }
       }
     ]
