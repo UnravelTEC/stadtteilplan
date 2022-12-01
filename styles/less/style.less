@@ -168,43 +168,51 @@ Basic map and pop up styles
       display:none;
     }
   }
-  .my-div-icon.bildung,
-  .my-div-icon.gastro,
   .my-div-icon.raum,
-  .my-div-icon.gesund,
   .my-div-icon.handel,
+  .my-div-icon.gastro,
+  .my-div-icon.mobil,
+  .my-div-icon.gemeinschaft,
+  .my-div-icon.sport,
   .my-div-icon.kultur,
-  .my-div-icon.fortbewegen,
-  .my-div-icon.sportlich {
+  .my-div-icon.bildung,
+  .my-div-icon.infra,
+  .my-div-icon.gesund {
     width:28.5px !important;
     height:40px;
     margin-top:-24px;
     background:no-repeat;
   }
-  .my-div-icon.bildung {
-    background-image:url("../../assets/Bildung_Forschung2.png");
+  .my-div-icon.raum {
+    background-image:url("../../assets/Raum.png");
+  }
+  .my-div-icon.handel {
+    background-image:url("../../assets/Handel_Dienstleistung.png");
   }
   .my-div-icon.gastro {
     background-image:url("../../assets/Gastronomie.png");
   }
-  .my-div-icon.raum {
-    background-image:url("../../assets/Raum.png");
+  .my-div-icon.mobil {
+    background-image:url("../../assets/Mobilität.png");
   }
-  .my-div-icon.gesund {
-    background-image:url("../../assets/Gesundheit.png");
-  }
-  .my-div-icon.handel {
-    background-image:url("../../assets/Handel_Dienstleistung.png");
+  .my-div-icon.gemeinschaft {
+    background-image:url("../../assets/Gemeinschaft_neu.png");
     background-size:24px 24px;
+  }
+  .my-div-icon.sport {
+    background-image:url("../../assets/Sport.png");
   }
   .my-div-icon.kultur {
     background-image:url("../../assets/Kunst_Kultur.png");
   }
-  .my-div-icon.fortbewegen {
-    background-image:url("../../assets/Mobilität.png");
+  .my-div-icon.bildung {
+    background-image:url("../../assets/Bildung_Forschung2.png");
   }
-  .my-div-icon.sportlich {
-    background-image:url("../../assets/Sport.png");
+  .my-div-icon.infra {
+    background-image:url("../../assets/Infrastruktur.png");
+  }
+  .my-div-icon.gesund {
+    background-image:url("../../assets/Gesundheit.png");
     background-size:28px 28px;
   }
 
@@ -338,43 +346,51 @@ Map menu styling
             background-repeat:no-repeat;
         }
         li.list-group-item.category:first-child {
-            background-image:url("../../assets/Bildung_Forschung2.png");
+            background-image:url("../../assets/Raum.png");
             border-top: 1px solid #aaa;
             background-size:28.5px 40px;
             background-position:right 6px center;
         }
         li.list-group-item.category + .category {
-            background-image:url("../../assets/Gastronomie.png");
-            background-size:28.5px 40px;
-            background-position:right 6px center;
-        }
-        li.list-group-item.category + .category + .category {
-            background-image:url("../../assets/Raum.png");
-            background-size:28.5px 40px;
-            background-position:right 6px center;
-        }
-        li.list-group-item.category + .category + .category + .category {
-            background-image:url("../../assets/Gemeinschaft_neu.png");
-            background-size:28.5px 40px;
-            background-position:right 6px center;
-        }
-        li.list-group-item.category + .category + .category + .category + .category {
             background-image:url("../../assets/Handel_Dienstleistung.png");
             background-size:28.5px 40px;
             background-position:right 6px center;
         }
+        li.list-group-item.category + .category + .category {
+            background-image:url("../../assets/Gastronomie.png");
+            background-size:28.5px 40px;
+            background-position:right 6px center;
+        }
+        li.list-group-item.category + .category + .category + .category {
+            background-image:url("../../assets/Mobilität.png");
+            background-size:28.5px 40px;
+            background-position:right 6px center;
+        }
+        li.list-group-item.category + .category + .category + .category + .category {
+            background-image:url("../../assets/Gemeinschaft_neu.png");
+            background-size:28.5px 40px;
+            background-position:right 6px center;
+        }
         li.list-group-item.category + .category + .category + .category + .category + .category {
-            background-image:url("../../assets/Kunst_Kultur.png");
+            background-image:url("../../assets/Sport_Freizeit.png");
             background-size:28.5px 40px;
 	}
         li.list-group-item.category + .category + .category + .category + .category + .category + .category {
-            background-image:url("../../assets/Mobilität.png");
+            background-image:url("../../assets/Kunst_Kultur.png");
             background-size:28.5px 40px;
         }
         li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category {
-            background-image:url("../../assets/Sport_Freizeit.png");
+            background-image:url("../../assets/Bildung_Forschung2.png");
             background-size:28.5px 40px;
             background-position:right 6px center;
+        }
+	li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category {
+            background-image:url("../../assets/Infrastruktur.png");
+            background-size:28.5px 40px;
+        }
+	li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category + .category {
+            background-image:url("../../assets/Gesundheit.png");
+            background-size:28.5px 40px;
         }
         /* These elements are spans inside list group items, to toggle subcategories */
         span.toggle {
