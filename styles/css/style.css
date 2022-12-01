@@ -133,43 +133,51 @@ h6 {
 #map-tiles .my-div-icon div {
   display: none;
 }
-#map-tiles .my-div-icon.bildung,
-#map-tiles .my-div-icon.gastro,
 #map-tiles .my-div-icon.raum,
-#map-tiles .my-div-icon.gesund,
 #map-tiles .my-div-icon.handel,
+#map-tiles .my-div-icon.gastro,
+#map-tiles .my-div-icon.mobil,
+#map-tiles .my-div-icon.gemeinschaft,
+#map-tiles .my-div-icon.sport,
 #map-tiles .my-div-icon.kultur,
-#map-tiles .my-div-icon.fortbewegen,
-#map-tiles .my-div-icon.sportlich {
+#map-tiles .my-div-icon.bildung,
+#map-tiles .my-div-icon.infra,
+#map-tiles .my-div-icon.gesund {
   width: 28.5px !important;
   height: 40px;
   margin-top: -24px;
   background: no-repeat;
 }
-#map-tiles .my-div-icon.bildung {
-  background-image: url("../../assets/Bildung_Forschung2.png");
+#map-tiles .my-div-icon.raum {
+  background-image: url("../../assets/Raum.png");
+}
+#map-tiles .my-div-icon.handel {
+  background-image: url("../../assets/Handel_Dienstleistung.png");
 }
 #map-tiles .my-div-icon.gastro {
   background-image: url("../../assets/Gastronomie.png");
 }
-#map-tiles .my-div-icon.raum {
-  background-image: url("../../assets/Raum.png");
+#map-tiles .my-div-icon.mobil {
+  background-image: url("../../assets/Mobilität.png");
 }
-#map-tiles .my-div-icon.gesund {
-  background-image: url("../../assets/Gesundheit.png");
-}
-#map-tiles .my-div-icon.handel {
-  background-image: url("../../assets/Handel_Dienstleistung.png");
+#map-tiles .my-div-icon.gemeinschaft {
+  background-image: url("../../assets/Gemeinschaft_neu.png");
   background-size: 24px 24px;
+}
+#map-tiles .my-div-icon.sport {
+  background-image: url("../../assets/Sport.png");
 }
 #map-tiles .my-div-icon.kultur {
   background-image: url("../../assets/Kunst_Kultur.png");
 }
-#map-tiles .my-div-icon.fortbewegen {
-  background-image: url("../../assets/Mobilität.png");
+#map-tiles .my-div-icon.bildung {
+  background-image: url("../../assets/Bildung_Forschung2.png");
 }
-#map-tiles .my-div-icon.sportlich {
-  background-image: url("../../assets/Sport.png");
+#map-tiles .my-div-icon.infra {
+  background-image: url("../../assets/Infrastruktur.png");
+}
+#map-tiles .my-div-icon.gesund {
+  background-image: url("../../assets/Gesundheit.png");
   background-size: 28px 28px;
 }
 #map-tiles .my-div-icon:hover > div {
@@ -276,43 +284,51 @@ h6 {
   background: #1F3050;
 }
 #map-menu-container ul#map-menu li.list-group-item.category:first-child {
-  background-image: url("../../assets/Bildung_Forschung2.png");
+  background-image: url("../../assets/Raum.png");
   border-top: 1px solid #aaa;
   background-size: 28.5px 40px;
   background-position: right 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category {
-  background-image: url("../../assets/Gastronomie.png");
-  background-size: 28.5px 40px;
-  background-position: right 6px center;
-}
-#map-menu-container ul#map-menu li.list-group-item.category + .category + .category {
-  background-image: url("../../assets/Raum.png");
-  background-size: 28.5px 40px;
-  background-position: right 6px center;
-}
-#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category {
-  background-image: url("../../assets/Gemeinschaft_neu.png");
-  background-size: 28.5px 40px;
-  background-position: right 6px center;
-}
-#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category {
   background-image: url("../../assets/Handel_Dienstleistung.png");
   background-size: 28.5px 40px;
   background-position: right 6px center;
 }
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category {
+  background-image: url("../../assets/Gastronomie.png");
+  background-size: 28.5px 40px;
+  background-position: right 6px center;
+}
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category {
+  background-image: url("../../assets/Mobilität.png");
+  background-size: 28.5px 40px;
+  background-position: right 6px center;
+}
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category {
+  background-image: url("../../assets/Gemeinschaft_neu.png");
+  background-size: 28.5px 40px;
+  background-position: right 6px center;
+}
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Kunst_Kultur.png");
+  background-image: url("../../assets/Sport_Freizeit.png");
   background-size: 28.5px 40px;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Mobilität.png");
+  background-image: url("../../assets/Kunst_Kultur.png");
   background-size: 28.5px 40px;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Sport_Freizeit.png");
+  background-image: url("../../assets/Bildung_Forschung2.png");
   background-size: 28.5px 40px;
   background-position: right 6px center;
+}
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category {
+  background-image: url("../../assets/Infrastruktur.png");
+  background-size: 28.5px 40px;
+}
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category + .category {
+  background-image: url("../../assets/Gesundheit.png");
+  background-size: 28.5px 40px;
 }
 #map-menu-container ul#map-menu span.toggle {
   padding: 15px 0 15px 10px;
