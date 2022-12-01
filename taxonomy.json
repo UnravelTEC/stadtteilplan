@@ -44,6 +44,25 @@
           "value": "https://base.transformap.co/entity/Q1234"
         }
       },
+       {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10002"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Handel & Dienstleistungen"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q5"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
       {
         "item": {
           "type": "uri",
@@ -65,6 +84,29 @@
         "type_of_initiative_tag": {
           "type": "literal",
           "value": "Raum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q12002"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Handel & Dienstleistungen"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q6"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10002"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "Handel & Dienstleistungen"
         }
       }      
     ]
