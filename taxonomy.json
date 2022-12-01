@@ -47,6 +47,44 @@
       {
         "item": {
           "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10009"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gemeinschaft"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q5"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10010"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Infrastruktur"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q5"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q1234"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
           "value": "https://base.transformap.co/entity/Q10002"
         },
         "itemLabel": {
@@ -336,6 +374,52 @@
         "type_of_initiative_tag": {
           "type": "literal",
           "value": "Mobilität"
+        }
+      },
+       {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q12009"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gemeinschaft"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q6"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10009"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "Gemeinschaft"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q12010"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Infrastruktur"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q6"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10010"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "Infrastruktur"
         }
       },
       {
