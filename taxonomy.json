@@ -268,12 +268,12 @@
       {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q12004"
+          "value": "https://base.transformap.co/entity/Q12007"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Gesundheit"
+          "value": "Sport & Freizeit"
         },
         "instance_of": {
           "type": "uri",
@@ -285,7 +285,7 @@
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Gesundheit"
+          "value": "Sport & Freizeit"
         }
       },
       {
@@ -422,15 +422,15 @@
           "value": "Infrastruktur"
         }
       },
-      {
+  {
         "item": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q12007"
+          "value": "https://base.transformap.co/entity/Q12004"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sport & Freizeit"
+          "value": "Gesundheit"
         },
         "instance_of": {
           "type": "uri",
@@ -438,13 +438,13 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10007"
+          "value": "https://base.transformap.co/entity/Q10004"
         },
         "type_of_initiative_tag": {
           "type": "literal",
-          "value": "Sport & Freizeit"
+          "value": "Gesundheit"
         }
-      }
+      }      
     ]
   }
 }
