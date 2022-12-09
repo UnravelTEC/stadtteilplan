@@ -198,7 +198,6 @@
                 "kategorie": "gemeinschaft",
                 "contact:facebook": "www.facebook.com/greenbox.co.at",
                 "addr:housenumber": "109",
-                "osm": "https://www.openstreetmap.org/way/492276900",
                 "addr:city": "Graz",
                 "addr:postcode": "8020",
                 "addr:country": "Österreich",
@@ -825,7 +824,6 @@
                 "addr:city": "Graz",
                 "addr:country": "Österreich",
                 "contact:email": "eat@streets-graz.at",
-                "osm": "https://www.openstreetmap.org/way/492276900",
                 "name": "Streets"
             },
             "geometry": {
