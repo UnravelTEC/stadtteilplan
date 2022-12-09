@@ -21,7 +21,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-align: center;
+  text-align: right;
 }
 #map-tiles {
   height: 100vh;
@@ -285,33 +285,33 @@ h6 {
   background: #1F3050;
 }
 #map-menu-container ul#map-menu li.list-group-item.category:first-child {
-  background-image: url("../../assets/Raum.png");
+  background-image: url("../../assets/Bildung_Forschung2.png");
   border-top: 1px solid #aaa;
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category {
-  background-image: url("../../assets/Handel_Dienstleistung.png");
-  background-size: 28.5px 40px;
-  background-position: left 6px center;
-}
-#map-menu-container ul#map-menu li.list-group-item.category + .category + .category {
   background-image: url("../../assets/Gastronomie.png");
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
-#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category {
-  background-image: url("../../assets/Mobilität.png");
-  background-size: 28.5px 40px;
-  background-position: left 6px center;
-}
-#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category {
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category {
   background-image: url("../../assets/Gemeinschaft_neu.png");
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category {
+  background-image: url("../../assets/Gesundheit.png");
+  background-size: 28.5px 40px;
+  background-position: left 6px center;
+}
+#map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category {
+  background-image: url("../../assets/Handel_Dienstleistung.png");
+  background-size: 28.5px 40px;
+  background-position: left 6px center;
+}
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Sport_Freizeit.png");
+  background-image: url("../../assets/Infrastruktur.png");
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
@@ -321,17 +321,17 @@ h6 {
   background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Bildung_Forschung2.png");
+  background-image: url("../../assets/Mobilität.png");
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Infrastruktur.png");
+  background-image: url("../../assets/Raum.png");
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Gesundheit.png");
+  background-image: url("../../assets/Sport_Freizeit.png");
   background-size: 28.5px 40px;
   background-position: left 6px center;
 }
