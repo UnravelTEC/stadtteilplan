@@ -350,10 +350,6 @@ h6 {
   height: 100%;
   cursor: pointer;
 }
-#map-menu-container ul#map-menu span.toggle.selected {
-  background-color: #1F3050;
-  font-style: italic;
-}
 #map-menu-container ul#map-menu .toggle-subcategories {
   padding-left: 20px;
 }
