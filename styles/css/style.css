@@ -350,6 +350,10 @@ h6 {
   height: 100%;
   cursor: pointer;
 }
+#map-menu-container ul#map-menu span.toggle.selected {
+  background-color: #1F3050;
+  font-style: italic;
+}
 #map-menu-container ul#map-menu .toggle-subcategories {
   padding-left: 20px;
 }
@@ -396,6 +400,47 @@ h6 {
 }
 #map-menu-container ul#map-menu ul.type-of-initiative .list-group-item.empty {
   color: gray;
+}
+#map-menu-container #activefilters {
+  padding: 0 0 0 10px;
+  color: white;
+}
+#map-menu-container #activefilters h2 {
+  text-align: left;
+}
+#map-menu-container #activefilters .expert_mode.off {
+  display: none;
+}
+#map-menu-container #activefilters ul {
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+}
+#map-menu-container #activefilters ul li {
+  border-radius: 5px;
+  padding: 3px 22px 3px 5px;
+  margin: 5px 5px 5px 0;
+  background: #F2BD0B;
+  color: black;
+}
+#map-menu-container #activefilters ul li .close {
+  font-weight: bold;
+  background: #fcec74;
+  text-align: center;
+  display: block;
+  padding: 3px;
+  margin-top: -3px;
+  margin-right: -22px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  height: 100%;
+  width: 12px;
+  float: right;
+  border-left: 1px solid #fcec74;
+}
+#map-menu-container #activefilters ul li .close:hover {
+  background: #F2BD0B;
+  cursor: pointer;
 }
 #map-menu-container div#resetfilters,
 #map-menu-container div#toggleAdvancedFilters,
