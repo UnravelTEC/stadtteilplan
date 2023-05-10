@@ -413,6 +413,10 @@ Map menu styling
             height:100%;
             cursor: pointer;
         }
+        span.toggle.selected {
+            background-color:@blue-dark;
+            font-style:italic;
+        }
         .toggle-subcategories {
             padding-left: 20px;
         }
@@ -461,7 +465,47 @@ Map menu styling
             }
 
         }
-   
+    }
+    #activefilters {
+      padding:0 0 0 10px;
+      color:white;
+      h2 {
+        text-align:left;
+      }
+      .expert_mode.off {
+        display:none;
+      }
+      ul {
+        font-weight:normal;
+        padding:0;
+        margin:0;
+        li {
+          border-radius:5px;
+          padding:3px 22px 3px 5px;
+          margin:5px 5px 5px 0;
+          background:@yellow-dark;
+          color:black;
+          .close {
+            font-weight:bold;
+            background: @yellow-bright;
+            text-align:center;
+            display:block;
+            padding:3px;
+            margin-top:-3px;
+            margin-right:-22px;
+            border-top-right-radius:5px;
+            border-bottom-right-radius:5px;
+            height:100%;
+            width:12px;
+            float:right;
+            border-left:1px solid @yellow-bright;
+          }
+          .close:hover {
+            background:@yellow-dark;
+            cursor:pointer;
+          }
+        }
+      }
     }
 
     div#resetfilters,
