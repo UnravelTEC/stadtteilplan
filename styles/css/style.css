@@ -133,7 +133,7 @@ h6 {
 #map-tiles .my-div-icon div {
   display: none;
 }
-#map-tiles .my-div-icon.raum,
+#map-tiles .my-div-icon.hotel,
 #map-tiles .my-div-icon.handel,
 #map-tiles .my-div-icon.gastro,
 #map-tiles .my-div-icon.mobil,
@@ -148,8 +148,8 @@ h6 {
   margin-top: -24px;
   background: no-repeat;
 }
-#map-tiles .my-div-icon.raum {
-  background-image: url("../../assets/Raum.png");
+#map-tiles .my-div-icon.hotel {
+  background-image: url("../../assets/Hotel.png");
   background-size: 25px 35px;
 }
 #map-tiles .my-div-icon.handel {
@@ -181,7 +181,7 @@ h6 {
   background-size: 25px 35px;
 }
 #map-tiles .my-div-icon.infra {
-  background-image: url("../../assets/Infrastruktur.png");
+  background-image: url("../../assets/Parken.png");
   background-size: 25px 35px;
 }
 #map-tiles .my-div-icon.gesund {
@@ -319,7 +319,7 @@ h6 {
   background-position: right 20px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Infrastruktur.png");
+  background-image: url("../../assets/Parken.png");
   background-size: 28.5px 40px;
   background-position: right 20px center;
 }
@@ -334,7 +334,7 @@ h6 {
   background-position: right 20px center;
 }
 #map-menu-container ul#map-menu li.list-group-item.category + .category + .category + .category + .category + .category + .category + .category + .category {
-  background-image: url("../../assets/Raum.png");
+  background-image: url("../../assets/Hotel.png");
   background-size: 28.5px 40px;
   background-position: right 20px center;
 }
